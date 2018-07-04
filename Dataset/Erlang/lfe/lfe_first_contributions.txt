@@ -1,0 +1,35 @@
+Zachary Kessin, 2013-04-05
+Ward Bekker, 2011-08-17
+Tuncer Ayaz, 2011-01-04
+Tim Dysinger, 2016-08-30
+Steve Purcell, 2014-01-09
+skovsgaard, 2016-10-16
+Sergey Sobko, 2016-10-10
+Sean Chalmers, 2013-09-05
+rvirding, 2010-10-27
+Robert Virding, 2008-08-23
+redpine50, 2014-04-15
+Nobukazu Hanada, 2015-01-05
+mopemoepe, 2015-11-04
+Matt Stancliff, 2009-12-09
+Mats, 2010-01-18
+Klaus Trainer, 2011-12-31
+jsc, 2016-10-17
+José Valim, 2013-02-21
+Joseph Wayne Norton, 2012-11-23
+Jonas Skovsgaard Christensen, 2016-10-17
+JackDrogon, 2015-12-18
+ilovezfs, 2016-11-13
+Holger Dürer, 2015-08-27
+H. Diedrich, 2013-09-03
+Greg Salt, 2014-08-09
+Eric Bailey, 2015-07-21
+Duncan M. McGreggor, 2014-12-06
+Duncan McGreggor, 2013-02-14
+Chris Wuest, 2014-07-01
+Christopher W. Carpenter (https://mordocai.net/gpg.html), 
+bug2bug, 2016-10-11
+Brian L. Troutwine, 2014-06-20
+arpunk, 2015-06-23
+Andrew Jones, 2016-03-25
+Aaron France, 2014-08-01

@@ -1,0 +1,46 @@
+Tony Xue, 2015-05-03
+Tony Finch, 2013-06-26
+Till Maas, 2017-08-04
+Thomas Hager, 2012-04-18
+Sven Strickroth, 2012-12-09
+Stephen Palmer, 2012-11-27
+Sitaram Chamarty, 2012-02-28
+Sebastian Koslowski, 2012-11-22
+Scott Lipcon, 2016-06-16
+Robin H. Johnson, 2015-02-07
+Robert Schiele, 2015-01-30
+Richard Clark, 2013-09-09
+Raphael Medaer, 2016-05-07
+Randal L. Schwartz, 2012-06-08
+Ralf Hemmecke, 2013-02-05
+Paul Sokolovsky, 2016-02-14
+Patrick Westerhoff, 2012-07-19
+Olof Johansson, 2012-08-10
+Nate Jones, 2012-08-03
+milki, 2012-06-06
+Mike Kelly, 2012-05-23
+Martin Erik Werner, 2014-02-07
+Markus Mayer, 2014-02-04
+Marcos Santos, 2014-04-10
+Lars Gullik Bjønnes, 2014-03-26
+Lars Djerf, 2013-03-02
+kwadronaut, 2016-09-09
+Konstantin Gribov, 2012-06-22
+Jonathan Gray, 2015-10-09
+Jokajak, 2013-03-12
+John L. Scarfone, 2014-01-23
+John Keeping, 2012-06-03
+Jeffrey Adamson, 2013-02-24
+Jeff Mitchell, 2013-03-24
+Jason Zaman, 2014-12-28
+Jan Weitzel, 2013-06-04
+gitolite tester, 2012-03-27
+Frode Rystad, 2012-06-20
+Eugene E. Kashpureff Jr, 2012-10-10
+Dave Abrahams, 2012-07-12
+Darrell Thacher, 2013-06-08
+Damien NOZAY, 2014-05-07
+Benoît Knecht, 2015-04-26
+Andrew Page, 2012-10-29
+Andreas Stenius, 2012-05-03
+Alex Vandiver, 2017-05-10

@@ -1,0 +1,50 @@
+Wojciech A. Koszek, 2016-04-11
+Will Lisac, 2016-04-26
+Wesley Dyson, 2014-07-08
+Wenchao Ding, 2016-02-25
+Tyler Hedrick, 2015-08-04
+The Gitter Badger, 2014-12-21
+Romain Boulay, 2014-07-11
+Rok Gregorič, 2014-11-11
+Roberto Arreaza, 2015-07-15
+ReadmeCritic, 2016-02-12
+Pierluigi Cifani, 2014-07-30
+mingweizhang, 2016-05-16
+Mazyad Alabduljaleel, 2015-05-30
+Matthew Morey, 2014-08-12
+Matt Baker, 2014-07-14
+Marvin Nazari, 2015-07-08
+Marek Serafin, 2015-12-16
+Manuel Escrig, 2016-01-27
+Konstantinos K, 2014-12-18
+Kevin Xu, 2015-07-11
+kareem.hewady, 2015-04-19
+kaich, 2015-09-21
+John Clayton, 2016-06-02
+Joel Koroniak, 2014-08-01
+Jaunce, 2015-06-12
+Jake Bellamy, 2016-07-06
+Ignacio Romero Zurbuchen, 2015-02-28
+Ignacio Romero Z., 2014-06-08
+ignacio, 2015-07-09
+hubert, 2016-02-04
+Howtin, 2015-04-10
+Henri Normak, 2014-07-13
+hanneskaeufler, 2014-07-06
+Hakon Hanesand, 2016-04-21
+Guilherme Araújo, 2015-04-15
+Gorka Magaña, 2015-07-10
+Gorka Magaña, 2015-07-10
+Engin Kurutepe, 2015-09-09
+Eduardo Mauro, 2015-09-22
+dzenbot, 2014-06-02
+dingwenchao, 2016-03-05
+Dan Loewenherz, 2016-11-28
+Colin Humber, 2015-11-30
+Chris Streeter, 2015-04-23
+Charles Kang, 2016-04-04
+Cédric Luthi, 2015-08-06
+brandon schlenker, 2015-08-18
+Ben Scheirman, 2017-05-16
+Bart Vandendriessche, 2014-11-10
+Adam Borek, 2017-03-04

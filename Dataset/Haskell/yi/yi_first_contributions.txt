@@ -1,0 +1,170 @@
+Zapf@students.uni-marburg.de, 2005-04-10
+Yang Zhang, 2007-01-08
+Wen Pu, 2009-08-17
+Wayne Warren, 2014-11-02
+vivian.mcphail@paradise.net.nz, 2005-05-30
+viraptor@gmail.com, 2009-03-07
+unknown, 2012-05-14
+Tuomo Valkonen, 2004-12-01
+Tuncer Ayaz, 2012-10-15
+tora@zonetora.co.uk, 2008-07-29
+Thomas Schilling, 2007-11-04
+The Gitter Badger, 2017-06-19
+Tatyana Lomonosova, 2013-12-15
+Taral, 2005-12-07
+tactics40@gmail.com, 2008-01-20
+Suleiman Souhlal, 2005-04-30
+steffen.siering@gmail.com, 2009-03-23
+Stefan O'Rear, 2007-01-31
+Spencer Janssen, 2006-05-16
+sjw@cse.unsw.edu.au, 2004-11-02
+Sjur G. Karevoll, 2009-06-02
+sjurberengal@gmail.com, 2009-08-07
+"Simon Winwood, 2004-11-05
+Siddhanathan Shanmugam, 2014-09-03
+shae@ScannedInAvian.com, 2004-10-20
+Sergei Trofimovich, 2009-03-21
+seliopou@cs.brown.edu, 2007-01-02
+sean.leather@gmail.com, 2008-04-13
+scottw@artesiancode.com, 2008-01-26
+sasha.rush@gmail.com, 2008-10-05
+Samuel Bronson, 2005-04-17
+Ryan Scott, 2016-10-11
+Ryan Desfosses, 2014-06-10
+rustydc, 2012-11-11
+Rudi Grinberg, 2014-10-25
+Robin Green, 2009-05-25
+Robert Hensing, 2016-12-20
+Richard Goulter, 2014-07-14
+Ricardo Wurmus, 2011-10-11
+Reiner Pope, 2011-05-10
+reinerp, 2011-05-23
+Pavel Grafov, 2016-12-08
+Paulo Tanimoto, 2007-10-27
+nominolo@gmail.com, 2007-11-28
+nikklassen, 2014-12-04
+Niil, 2015-01-23
+niil, 2015-01-21
+nicolas.pouillard@gmail.com, 2008-01-10
+Nicolas Pouillard, 2008-06-03
+NGK Sternhagen, 2015-01-12
+newsham@lava.net, 2007-01-31
+mwotton@gmail.com, 2005-03-27
+mpwp, 2017-07-07
+Moritz Kiefer, 2015-02-16
+m.niloc@gmail.com, 2009-03-18
+mlang@delysid.org, 2007-01-26
+mjgajda@gmail.com, 2010-04-24
+Michal J. Gajda, 2012-01-11
+Michał J. Gajda, 2011-09-13
+Michael Dagitses, 2008-12-27
+m.gubinelli@gmail.com, 2008-01-13
+mgajda, 2012-09-28
+Mateusz Kowalczyk, 2013-12-13
+Mark Wright, 2012-02-08
+Mariano Casco, 2014-10-24
+Malte Sommerkorn, 2010-08-07
+Maciej Piechotka, 2010-04-28
+Louis Bettens, 2013-07-23
+lordbrain@riseup.net, 2006-08-06
+Krzysztof Goj, 2008-12-02
+kr.angelov@gmail.com, 2008-04-13
+kr.angelov@chalmers.se, 2008-04-09
+kq1quick@gmail.com, 2009-03-17
+Kjetil Ørbekk, 2009-03-31
+kevin@sb.org, 2009-03-06
+Kevin Quick, 2009-03-22
+Kalman Noel, 2008-12-09
+jwall@google.com, 2010-09-16
+Joseph Barratt, 2013-09-07
+Joseph, 2013-09-04
+Jonathan Paugh, 2013-04-26
+John Ericson, 2014-01-15
+jfoutz@gmail.com, 2009-07-22
+jetho, 2014-05-11
+Jeremy Wall (zaphar), 
+Jeremy List, 2017-07-06
+Jens Petersen, 2007-07-01
+jeffwheeler@gmail.com, 2010-03-24
+Jeff Wheeler, 2008-08-03
+jeff@nokrev.com, 2008-08-03
+JeanPhilippe.bernardy@gmail.com, 2007-05-26
+jeanphilippe.bernardy@gmail.com, 2005-07-22
+jeanphilippe.bernardy@gmai.com, 2008-04-19
+Jean-Philippe Bernardy, 2005-07-20
+jbarratt, 2013-09-05
+Jason Dagit, 2005-07-07
+Jaro Reinders, 2016-06-26
+Jarl Gunnar T. Flaten, 2016-11-05
+Jared Hance, 2014-06-13
+Jan Path, 2017-03-21
+Jakub Arnold, 2014-05-24
+Issac Trotts, 2011-03-16
+Ilya Smelkov, 2014-04-27
+huangyi, 2011-09-13
+Hi-Angel, 2016-08-05
+Henning Guenther, 2005-08-13
+Hamish Mackenzie, 2010-04-04
+hamish.k.mackenzie@googlemail.com, 2009-09-01
+gwern0@gmail.com, 2007-11-10
+grddev@gmail.com, 2008-01-03
+Fraser Wilson, 2007-06-21
+fiendfan1, 2014-08-30
+Felix Martini, 2009-03-19
+Evan Martin, 2007-11-25
+Emily Backes, 2009-03-17
+Duncan Coutts, 2007-04-10
+Don Stewart, 2004-10-14
+dons@cse.unsw.edu.au, 2004-10-14
+dons@, 2004-10-20
+dons, 2004-10-14
+Dominique Devriese, 2011-12-25
+dnsl48, 2015-04-21
+Dmitry Ivanov, 2012-06-01
+Dmitri Perunov, 2013-07-23
+Dennis Griffith, 2008-12-08
+Deniz Dogan, 2009-08-10
+deniz.a.m.dogan@gmail.com, 2009-02-18
+David Waern, 2008-11-08
+Daniel Schoepe, 2009-02-11
+'Daniel McAllansmith, 2007-05-24
+Cray Elliott, 2014-08-22
+coreyoconnor@gmail.com, 2007-06-20
+Corey O'Connor, 2011-05-23
+cognominal@gmail.com, 2009-04-07
+cirodrig@crhc.illinois.edu, 2009-10-11
+cgibbard@gmail.com, 2005-04-30
+Carter Charbonneau, 2013-12-19
+Călin Ardelean, 2016-05-21
+berdario, 2014-01-11
+Benno Fünfstück, 2014-07-15
+ben@moseley.name, 2007-05-05
+Ben Moseley, 2007-05-20
+Benjamin Summers, 2017-08-09
+Ben Doyle, 2013-10-30
+Ben Armston, 2012-12-05
+bartavelle, 2014-01-06
+Art, 2013-10-03
+arenl, 2011-04-22
+Anthony Quizon, 2014-10-01
+andy@nobugs.org, 2008-01-14
+Andy Gocke, 2011-04-26
+andrii.z@gmail.com, 2006-05-17
+Andrew Myers, 2011-07-07
+Andres Loeh, 2007-05-18
+Anders Papitto, 2014-06-29
+andersk84@gmail.com, 2009-03-16
+andekar@student.chalmers.se, 2009-02-25
+Amy de Buitléir, 2013-04-02
+alson@alsonkemp.com, 2006-05-10
+Alexey Levan, 2010-12-13
+Alexandr Ruchkin, 2012-06-01
+Alexander Vershilov, 2013-09-06
+Alexander Stepanenko, 2016-11-06
+Aleksandar Dimitrov, 2008-11-22
+Alan Zimmerman, 2014-06-04
+aiya000, 2016-11-11
+Adit Cahya Ramadhan, 2015-01-20
+a.d.clark@ed.ac.uk, 2006-06-24
+aconbere@conbere.org, 2009-03-10
+, 2009-02-23

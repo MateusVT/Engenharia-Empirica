@@ -1,0 +1,35 @@
+Todd C Miller, 
+Tobias Stoeckmann, 
+Tim van der Molen, 
+Tiago Cunha, 2009-01-12
+Thomas Adam, 2012-09-04
+Theo de Raadt, 
+Ted Unangst, 2010-06-29
+Stuart Henderson, 2009-07-24
+Stefan Sperling, 2009-08-31
+Sebastien Marie, 
+Sebastian Benoit, 
+Ryan McBride, 2010-05-03
+Ray Lai, 2009-06-02
+Pierre-Yves Ritschard, 2009-06-02
+Philip Guenther, 2009-12-24
+Okan Demirmen, 
+Nicholas Marriott, 2007-07-09
+Miod Vallat, 2011-04-06
+Michael McConville, 
+Micah Cowan, 2010-03-16
+Maximilian Gass, 2007-09-28
+Matthieu Herrb, 2009-08-02
+Matthias Kilian, 2009-09-07
+Matthew Dempsky, 2011-04-19
+Marc Espie, 2009-06-25
+Kenneth R Westerback, 
+Jonathan Gray, 
+Joel Sing, 2010-05-12
+Jason McIntyre, 2009-06-03
+Jacek Masiulaniec, 2009-09-15
+Ingo Schwarze, 
+Igor Sobrado, 2009-06-02
+Claudio Jeker, 
+Bob Beck, 2010-04-04
+Ben Boeckel, 2014-02-05

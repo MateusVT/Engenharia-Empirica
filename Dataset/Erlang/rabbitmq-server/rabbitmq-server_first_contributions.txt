@@ -1,0 +1,104 @@
+Vlad Ionescu, 2009-07-22
+Vlad Alexandru Ionescu, 2010-08-09
+U-rabbitmqadmin, 
+Ubuntu, 2016-08-23
+Tony Garnock-Jones, 2008-07-03
+Tom Noonan II, 2015-09-24
+Tim Watson, 2012-05-03
+Tim Fox, 2011-02-10
+Tim Clark, 2009-06-12
+timc@afallen.home, 2009-06-10
+tim, 2012-05-08
+sylvainhubsch, 2016-04-18
+Steve Powell, 2011-03-11
+Steve Losh, 2012-06-14
+Stephan Renatus, 2017-03-31
+Simon MacMullen, 2008-08-14
+shawnsli, 2015-12-23
+Ryan Zink, 2015-11-20
+Rob Harrop, 2010-08-18
+Robby Raschke, 2015-09-30
+Raymond Fallon, 2016-08-25
+Piotr Sikora, 2011-04-09
+Pierre Fenoll, 2015-12-28
+Petr Gotthard, 2015-04-15
+Peter Lemenkov, 2015-10-23
+Paul Jones, 2009-07-22
+Patrick Sodré, 2017-04-28
+Nishan Naseer, 2015-08-19
+Mihaly Barasz, 2015-02-19
+Michael S. Klishin, 2015-05-26
+Michael Klishin, 2013-06-17
+Michael Bridgen, 2009-03-30
+Matthias Radestock, 2008-07-11
+Matthew Sackman, 2009-03-26
+Matthew Mosesohn, 2015-11-16
+Marek Majkowski, 2009-07-21
+Magnus Henoch, 2015-06-29
+Luke Bakken, 2017-06-07
+Loïc Hoguin, 2015-11-17
+Liubov Efremova, 2016-02-19
+Kyrylo Galanov, 2016-01-18
+kjnilsson, 2016-05-13
+Karol Skocik, 2008-08-08
+Karl Nilsson, 2016-06-22
+Joshua Harlow, 2016-08-11
+Joseph Yiasemides, 2016-01-11
+johnlonganecker, 2016-07-29
+John Eckersberg, 2015-02-25
+John DeTreville, 2010-11-10
+Johannes Weißl, 2015-06-11
+Jim Apperly, 2010-09-24
+Jerry Kuch, 2010-10-28
+jerryk, 2016-08-12
+Jean-Sébastien Pedron, 2017-06-21
+Jean-Sebastien Pedron, 2014-11-21
+Jean-Sébastien Pédron, 2014-11-20
+Jared Kauppila, 2015-07-29
+Jakauppila, 2015-05-12
+Ivan Dyachkov, 2012-03-21
+Ilya Khaprov, 2016-02-29
+Hubert Plociniczak, 2008-07-29
+Giuseppe Privitera, 2015-09-03
+Gerhard Lazu, 2016-11-22
+gabriele santomaggio, 2016-02-17
+Gabriele Santomaggio, 2015-10-21
+Francesco Mazzoli, 2012-01-17
+Florian Haas, 2010-05-11
+Feng Lee, 2015-08-16
+Fabian Ponce, 2017-06-07
+Essien Ita Essien, 2008-12-15
+Eris Belew, 2017-04-30
+Emile Joubert, 2008-10-10
+Emile, 2008-10-07
+Dmitry Mescheryakov, 2015-12-09
+Diana Corbacho, 2015-10-13
+derwinlu, 2015-06-30
+D Corbacho, 2016-06-09
+David Wragg, 2009-05-08
+David R. MacIver, 2010-01-19
+Daniil Fedotov, 2015-07-07
+Dallas Marlow, 2015-04-06
+Chris Heng, 2015-11-26
+Chris Bandy, 2016-02-09
+Brandon Shroyer, 2016-03-02
+Bogdan Dobrelya, 2015-06-15
+Blair Hester, 2014-07-24
+Ben Page, 2015-09-17
+Ben Hood, 2008-07-06
+Ayanda Dube, 2015-07-07
+Ask Solem, 2010-07-19
+ash-lshift, 2015-03-24
+ash, 2015-09-25
+Arnaud Cogoluègnes, 2016-10-10
+Andrew Dryga, 2016-12-25
+Andrew Bruce, 2016-10-05
+Andras Boroska, 2015-10-26
+Alvaro Videla, 2012-11-07
+Aliaksey Artamonau, 2017-05-29
+Alex Thomas, 2015-03-25
+Alex Schultz, 2016-08-15
+Alexey Lebedeff, 2015-10-20
+Alexey Ermishkin, 2015-07-12
+Alexandru Scvortov, 2010-06-07
+Alexander Schmolck, 2010-01-13

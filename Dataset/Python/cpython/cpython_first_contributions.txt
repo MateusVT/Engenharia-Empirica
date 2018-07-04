@@ -1,0 +1,423 @@
+4kir4, 2017-03-20
+靳阳, 2017-07-20
+Коренберг Марк, 2017-03-17
+Žiga Seilnacht, 2007-03-11
+Zhiming Wang, 2017-09-04
+zertrin, 2017-03-20
+Zbigniew JÄ™drzejewski-Szmek, 2012-09-02
+Zackery Spytz, 2017-07-29
+Zachary Ware, 2013-11-03
+Yuval Langer, 2017-07-28
+Yury Selivanov, 2014-01-27
+Yuan Chao Chou, 2017-08-04
+Yen Chi Hsuan, 2017-02-16
+Yaron de Leeuw, 2017-08-18
+Xiang Zhang, 2016-11-23
+xdegaye, 2017-05-22
+Xavier de Gaye, 2016-06-15
+wohlganger, 2017-06-27
+wim glenn, 2017-06-06
+Will Roberts, 2017-06-07
+Wieland Hoffmann, 2017-04-28
+waxmoon, 2017-07-24
+Walter Dörwald, 2002-03-21
+Walter Doerwald, 2013-12-02
+Vladimir Marangozov, 2000-07-10
+Vitor Pereira, 2017-07-18
+Vinay Sajip, 2004-02-20
+Ville Skyttä, 2017-08-03
+Vijay Kumar, 2017-05-22
+Victor Stinner, 2010-01-30
+Vajrasky Kok, 2017-03-28
+Utkarsh Upadhyay, 2017-07-02
+unknown, 2001-07-04
+UltimateCoder, 2017-05-03
+T. Wouters, 2017-03-30
+Trey Hunner, 2017-07-12
+Trent Nelson, 2008-03-18
+Trent Mick, 2000-06-06
+Travis E. Oliphant, 2007-08-18
+torsava, 2017-05-05
+Tony Lownds, 2002-09-23
+Tong SHEN, 2017-05-02
+Tommy Beadle, 2016-06-02
+Tim Peters, 2000-06-30
+Tim Golden, 2010-08-06
+Thomas Wouters, 2000-07-14
+Thomas Kluyver, 2017-05-23
+Thomas Heller, 2000-09-07
+Terry Reedy, 2010-11-10
+terryjreedy, 2017-05-17
+Terry Jan Reedy, 2012-01-09
+Tarek Ziade, 2011-05-19
+Tarek Ziadé, 2008-12-24
+Tal Einat, 2014-07-16
+syncosmic, 2017-08-18
+Sylvain Bellemare, 2017-03-24
+Sylvain, 2017-03-27
+svelankar, 2017-03-08
+suketa, 2017-06-11
+Subhendu Ghosh, 2017-02-26
+Stuart Berg, 2017-04-05
+stratakis, 2017-05-10
+Steve Purcell, 2001-03-22
+Steven M. Gava, 2001-06-25
+Steven D'Aprano, 2015-12-01
+Steven Bethard, 2008-03-17
+Steve Holden, 2002-06-14
+Steve (Gadget) Barnes, 
+Steve Dower, 2014-10-08
+Stéphane Wirtel, 2017-05-22
+Stefan Krah, 2010-04-01
+s-sanjay, 2017-03-30
+Skip Montanaro, 2000-06-30
+Sjoerd Mullender, 1992-08-04
+Shane Harvey, 2017-08-04
+Seth M. Larson, 2017-03-02
+Serhiy Storchaka, 2012-12-27
+Sergey Fedoseev, 2017-08-30
+Senthil Kumaran, 2008-06-23
+Segev Finer, 2017-04-20
+Sebastian Vetter, 2017-04-21
+Sean Reifschneider, 2004-09-17
+Sean Reifscheider, 2006-09-05
+scoder, 2017-07-31
+Sayan Chowdhury, 2017-02-26
+Saurabh Chaturvedi, 2017-08-14
+Sanyam Khurana, 2017-04-09
+Sandro Tosi, 2011-08-02
+Samuele Pedroni, 2003-05-17
+Ryan Gonzalez, 2017-02-11
+Roy Williams, 2017-05-22
+Ross Lagerwall, 2011-03-14
+Ronald Oussoren, 2006-03-30
+Roger Serwy, 2013-03-31
+Roger E. Masse, 1996-12-09
+Roger, 2017-02-15
+Robert Schuppenies, 2008-06-01
+Robert Collins, 2014-10-18
+Richard Oudkerk, 2012-04-30
+Richard Jones, 2006-05-23
+remitamine, 2017-05-19
+Reid Kleckner, 2011-03-14
+regexaurus, 2017-06-27
+R David Murray, 2011-03-10
+R. David Murray, 2009-03-30
+Raymond Hettinger, 2002-05-12
+Ratnadeep Debnath, 2017-02-25
+Ralf Schmitt, 2011-05-31
+Preston Landers, 2017-08-02
+postmasters, 2017-06-20
+Pier-Yves Lessard, 2017-08-28
+Piers Lauder, 2001-07-20
+Pierre Quentel, 2017-04-02
+Phillip J. Eby, 2004-03-25
+Philip Jenvey, 2009-05-08
+Petr Motejlek, 2017-03-01
+Petri Lehtinen, 2011-10-23
+Peter Thomassen, 2017-07-29
+Peter Schneider-Kamp, 2000-07-10
+Peter Moody, 2013-10-21
+Peter Astrand, 2004-10-21
+Paul Schreiber, 2017-02-20
+Paul Prescod, 2000-07-01
+Paul Moore, 2015-03-22
+Pauli Virtanen, 2017-08-28
+Pär Björklund, 2017-08-12
+Oz N Tiram, 2017-06-06
+Osvaldo Santana Neto, 2017-07-01
+orsenthil@gmail.com, 2011-03-12
+orenmn, 2017-03-02
+Oren Milman, 2017-03-13
+Olivier Vielpeau, 2017-04-14
+Nir Soffer, 2017-07-07
+Nikolay Kim, 2017-03-12
+Niklas Fiekas, 2017-03-28
+Nick Coghlan, 2005-11-16
+Nicholas Riley, 2000-09-24
+Nicholas Bastin, 2004-03-21
+Nicholas, 2017-07-21
+Nevada Sanchez, 2017-04-13
+Neil Schemenauer, 2000-09-15
+Ned Deily, 2012-06-23
+Ned Batchelder, 2017-02-13
+Neal Norwitz, 2001-12-19
+n.d. parker, 2017-03-08
+Nathaniel J. Smith, 2017-02-12
+Nate Tangsurat, 2017-08-14
+Nate, 2017-03-15
+Naomi Ceder, 2017-05-22
+_ = NaN, 2017-06-22
+NAKAMURA Osamu, 2017-03-24
+Nadeem Vawda, 2011-04-12
+MRMillon, 2017-02-12
+Motoki Naruse, 2017-06-16
+Moshe Zadka, 2000-07-29
+morrme, 2017-05-13
+mlouielu, 2017-05-21
+mircea-cosbuc, 2017-06-11
+Milan Oberkirch, 2017-06-14
+Mike DePalatis, 2017-08-04
+Michael W. Hudson, 2001-08-27
+Michaël Sghaïer, 2017-06-09
+Michael Selik, 2017-04-01
+Michael Seifert, 2017-03-15
+Michael Foord, 2009-04-01
+messi Liao, 2017-06-13
+Melvyn Sopacua, 2017-09-04
+Meador Inge, 2011-09-20
+Maximilian Hils, 2017-02-15
+Matthieu Dartiailh, 2017-02-21
+Matthias Klose, 2004-08-04
+Matthias Bussonnier, 2017-02-14
+Matt Fleming, 2006-07-28
+Mathieu Sornay, 2017-06-09
+Mathias Rav, 2017-04-26
+matejcik, 2017-02-16
+masklinn, 2017-05-05
+Masayuki Yamamoto, 2017-05-05
+Martin v. Löwis, 2000-09-08
+Martin v. Loewis, 2011-05-22
+Martin Panter, 2015-08-25
+Martin Blais, 2006-05-26
+Martijn Pieters, 2017-02-23
+Mark Summerfield, 2007-08-16
+Mark Roseman, 2017-06-27
+Mark Hammond, 2000-06-09
+Mark Dickinson, 2008-01-08
+Mariatta Wijaya, 2017-02-01
+Mariatta, 2017-02-12
+Mariano Anaya, 2017-06-04
+Marco Buttu, 2017-02-26
+Marc-Andre Lemburg, 2012-04-25
+Marc-André Lemburg, 2000-06-07
+Manvisha Kodali, 2017-07-06
+Mandeep Bhutani, 2017-03-24
+Łukasz Rogalski, 2017-07-14
+Łukasz Langa, 2010-11-10
+Louie Lu, 2017-02-23
+Lisa Roach, 2017-04-04
+Lisa Hewus Fresh, 2017-08-30
+lf, 2017-07-25
+Lev Abalkin, 2017-03-01
+leodema, 2017-06-04
+Lars Gustäbel, 2000-09-21
+larryhastings, 2017-06-22
+Larry Hastings, 2010-02-24
+larry, 2015-08-11
+Kushal Das, 2014-04-15
+Kurt B. Kaiser, 2001-07-04
+KunYuChen, 2017-06-20
+krisvale, 2012-03-21
+Kristjan Valur Jonsson, 2011-03-30
+Kristján Valur Jónsson, 2006-05-25
+Kojo Idrissa, 2017-06-20
+kms70847, 2017-05-30
+khyox, 2017-06-22
+Ken Manheimer, 1998-03-03
+KatherineMichel, 2017-06-10
+Kartik Anand, 2017-02-28
+Ka-Ping Yee, 2000-10-03
+J. W, 2017-03-04
+Just van Rossum, 1999-01-22
+Julien Palard, 2017-08-08
+Julien, 2017-06-01
+jugglinmike, 2017-05-24
+Josiah Carlson, 2008-06-10
+Joshua Diaddigo, 2017-04-13
+Joseph Shen, 2017-03-03
+Jon Dufresne, 2017-05-18
+Jonathan Eunice, 2017-06-07
+Johannes Gijsbers, 2004-08-14
+Johan Liu, 2017-06-02
+Johan de Jager, 2017-06-23
+Joel Hillacre, 2017-05-24
+jimmylai, 2017-05-22
+Jim Fulton, 2000-10-06
+Jim Fasarakis-Hilliard, 2017-02-20
+Jim DeLaHunt, 2017-02-13
+Jesus Cea, 2008-05-13
+Jesse Noller, 2008-06-18
+Jesse Gonzalez, 2017-04-26
+Jerry Seutter, 2008-03-26
+Jeroen Ruigrok van der Werven, 2008-04-16
+Jeremy Kloth, 2011-09-12
+Jeremy Hylton, 1997-08-13
+Jelle Zijlstra, 2017-03-11
+Jeffrey Yasskin, 2007-08-22
+Jeffrey Rackauckas, 2017-08-09
+Jean-Paul Calderone, 2010-04-10
+Jason Tishler, 2002-05-15
+Jason R. Coombs, 2011-07-27
+Jason Fried, 2017-05-22
+Jani Šumak, 2017-05-23
+Jamiel Almeida, 2017-06-02
+James Tocknell, 2017-08-21
+Jack McCracken, 2017-04-14
+Jack Jansen, 1992-08-13
+Jack Diederich, 2006-05-25
+Ivan Levkivskyi, 2017-02-13
+Ivan Chernoff, 2017-08-29
+INADA Naoki, 2016-10-06
+Hynek Schlawack, 2012-05-15
+Hye-Shik Chang, 2003-12-10
+Howie Benefiel, 2017-05-15
+Hiroki Noda, 2017-02-15
+Hirokazu Yamamoto, 2008-08-14
+Hiro Asari, 2017-05-31
+Henk-Jaap Wagenaar, 2017-08-27
+haney, 2017-06-21
+Gustavo Niemeyer, 2002-11-05
+Guilherme Polo, 2008-05-24
+Guido van Rossum, 1990-08-09
+guido@google.com, 2011-03-24
+grzgrzgrz3, 2017-05-25
+Grzegorz Grzywacz, 2017-09-01
+Greg Ward, 1998-12-18
+Greg Stein, 1999-11-07
+Gregory P. Smith ext:(%20%5BGoogle%20Inc.%5D), 
+Gregory P. Smith, 2000-05-12
+Giampaolo Rodola, 2017-05-01
+Giampaolo Rodola', 2011-04-19
+Giampaolo Rodolà, 2010-04-18
+gfyoung, 2017-05-24
+Gerrit Holl, 2017-03-28
+Gerhard Häring, 2006-04-23
+Gerhard Haering, 2011-05-09
+George Yoshida, 2006-04-17
+Georg Brandl, 2005-06-03
+Garvit Khatri, 2017-03-28
+Gareth Rees, 2017-07-21
+Fredrik Lundh, 2000-06-29
+Fred Drake, 1996-07-23
+Frank Wierzbicki, 2009-08-02
+Florent Xicluna, 2010-02-26
+Finn Bock, 2001-08-23
+Felix Crux, 2013-08-12
+favll, 2017-08-01
+Facundo Batista, 2004-10-16
+Ezio Melotti, 2009-06-25
+Evan Klitzke, 2017-02-28
+Ethan Furman, 2013-06-14
+Erik Bray, 2017-06-07
+ericvsmith, 2017-06-16
+Eric V. Smith, 2011-03-10
+Eric S. Raymond, 2000-07-10
+Eric Snow, 2012-09-05
+Eric Smith, 2007-08-25
+Eric N. Vander Weele, 2017-05-24
+Éric Araujo, 2010-08-14
+Eric Appelt, 2017-02-16
+Emily Morehouse, 2017-06-13
+Elmar Ritsch, 2017-08-17
+Eli Boyarski, 2017-07-24
+Eli Bendersky, 2011-01-14
+Eijebong, 2017-04-26
+Edward Loper, 2004-08-09
+Doug Hellmann, 2009-09-20
+dong-jy, 2017-06-20
+Dong-hee Na, 2017-04-20
+Donald Stufft, 2013-12-20
+Dominik Miedziński, 2017-05-16
+doko@ubuntu.com, 2012-06-20
+doko@python.org, 2013-01-25
+Dirkjan Ochtman, 2010-02-23
+Dino Viehland, 2017-06-21
+Dingyuan Wang, 2015-06-22
+Dillon Brock, 2017-03-05
+Denis Osipov, 2017-06-07
+delirious-lettuce, 2017-05-18
+Davin Potts, 2016-09-07
+David Wolever, 2008-03-18
+David Wilemski, 2017-02-15
+David Steele, 2017-02-25
+David Scherer, 2000-08-15
+David Malcolm, 2010-11-05
+David Goodger, 2003-01-03
+David Ellis, 2017-03-03
+David Ascher, 2004-02-18
+Dave Cole, 2004-08-09
+Daniel Stutzbach, 2010-08-22
+Daniel Porteous, 2017-06-20
+Daniel Holth, 2014-01-02
+Daniel Himmelstein, 2017-03-15
+Daniel Birnstiel, 2017-03-21
+cvs2svn, 1993-01-10
+csabella, 2017-03-29
+Cooper Lees, 2017-08-01
+Collin Winter, 2007-03-08
+codedragon, 2017-05-24
+cocoatomo, 2017-03-26
+Chui Tey, 2001-10-31
+Chris Withers, 2009-04-11
+Christophe Zeitouny, 2017-03-23
+Christopher Wilcox, 2017-08-30
+Christian Tismer, 2002-05-28
+Christian Heimes, 2007-10-31
+Chris Jerdonek, 2012-09-24
+Cheryl Sabella, 2017-08-14
+Charles Renwick, 2017-04-21
+Charles G. Waldman, 2001-01-10
+Charles-Francois Natali, 2013-03-31
+Charles-François Natali, 2011-05-20
+Charles, 2017-05-09
+Chandan Kumar, 2017-06-09
+Bruno "Polaco" Penteado, 2017-08-14
+Brian Ward, 2017-05-24
+Brian Quinlan, 2010-09-18
+brian.curtin, 2011-04-04
+briancurtin, 2011-03-14
+Brian Curtin, 2010-03-25
+Brian Coleman, 2017-03-02
+Brett Cannon, 2003-04-19
+bquinlan, 2013-10-26
+Bob Ippolito, 2005-03-28
+bladebryan, 2017-04-22
+Bill Janssen, 2007-08-29
+Berker Peksag, 2014-06-29
+Ben Lloyd, 2017-05-22
+Benjamin Peterson, 2008-03-25
+Ben Hoyt, 2017-06-13
+Barry Warsaw, 1994-07-25
+Avram Lubkin, 2017-07-30
+Aviv Palivoda, 2017-03-03
+Atsuo Ishimoto, 2012-07-16
+Ask Solem, 2010-11-09
+Arne de Laat, 2017-02-23
+Armin Ronacher, 2008-06-10
+Armin Rigo, 2003-10-24
+Antoine Pitrou, 2008-07-22
+Antoine Pietri, 2017-06-07
+Anthony Zhang, 2017-02-22
+Anthony Baxter, 2001-12-21
+Anish Shah, 2016-02-07
+Angus Hollands, 2017-04-03
+Andrew Svetlov, 2012-03-13
+Andrew Nester, 2017-02-14
+Andrew M. Kuchling, 1998-04-09
+Andrew McNamara, 2003-06-09
+Andrew MacIntyre, 2002-02-17
+Andrew Kuchling, 2013-05-09
+Andrew Dalke, 2006-05-24
+amosonn, 2017-03-01
+Ammar Askar, 2017-07-19
+Amit Kumar, 2017-03-28
+Amaury Forgeot d'Arc, 2007-11-10
+Allen W. Smith, Ph.D, 2017-08-12
+Alex Wang, 2017-03-28
+Alex Martelli, 2003-04-22
+Alex Jordan, 2017-04-05
+Alexis Metaireau, 2011-05-04
+Alex Gaynor, 2011-07-17
+Alex Dzyoba, 2017-03-24
+Alexandru Ardelean, 2017-06-23
+Alexandre Vassalotti, 2007-06-07
+Alexander Mohr, 2017-08-02
+Alexander Belopolsky, 2010-05-26
+Alessandro Cucci, 2015-07-28
+Albert-Jan Nijburg, 2017-05-24
+Adrian Wielgosik, 2017-06-23
+adisbladis, 2017-06-08
+Adam Niederer, 2017-03-05
+Aaron Hall, MBA, 2017-05-25
+Aaron Gallagher, 2017-07-20

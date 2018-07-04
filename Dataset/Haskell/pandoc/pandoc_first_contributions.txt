@@ -1,0 +1,229 @@
+Yuchen Pei, 2017-06-19
+Yoan Blanc, 2016-08-12
+Yihui Xie, 2014-04-11
+Xavier Olive, 2015-06-02
+Wikiwide, 2014-10-03
+Wandmalfarbe, 2016-12-04
+Waldir Pimenta, 2016-08-16
+Vladislav Turbanov, 2016-05-18
+Vincent, 2014-12-06
+Viktor Kronvall, 2014-08-17
+Vaughn Iverson, 2015-11-15
+Vaclav Zeman, 2014-02-08
+Václav Zeman, 2013-09-25
+Václav Haisman, 2017-05-08
+Vaclav Haisman, 2016-08-29
+Uli Köhler, 2014-08-06
+Tom Leese, 2015-03-16
+Todd Sifleet, 2014-10-28
+Tiziano Müller, 2015-07-13
+Timothy Humphries, 2014-10-12
+Timm Albers, 2017-04-03
+Tim Lin, 2014-03-10
+Thomas Weißschuh, 2016-10-23
+Thomas Hodgson, 2015-12-08
+Thenaesh Elango, 2017-02-05
+tgkokk, 2017-01-05
+takahashim, 2011-08-23
+Sumit Sahrawat, 2015-03-04
+Stephen McDowell, 2017-08-23
+Stefan Dresselhaus, 2017-05-18
+Stefan Björk, 2014-09-24
+Simon Hengel, 2012-04-15
+Sidharth Kapur, 2016-05-01
+Shaun Attfield (shaun@victor), 
+Shaun Attfield, 2013-12-01
+Shahbaz Youssefi, 2015-03-19
+Sergey Astanin, 2012-07-22
+Sergei Trofimovich, 2011-07-31
+Scott Morrison, 2013-08-16
+schrieveslaach, 2017-03-27
+Sam Kim, 2017-04-07
+RyanGlScott, 2014-09-22
+rski, 2016-02-08
+Roland Hieber, 2017-02-25
+roktas, 2006-10-18
+roblabla, 2016-05-09
+rlpowell, 2017-07-21
+Raphael, 2012-09-04
+Raniere Silva, 2015-12-03
+Puneeth Chaganti, 2010-12-04
+Prayag Verma, 2016-01-26
+Phillip Alday, 2014-05-16
+Philippe Ombredanne, 2015-04-20
+Peter Wang, 2012-03-21
+Paul Vorbach, 2012-04-26
+Paul Rivier, 2010-12-03
+paul.rivier, 2010-12-03
+Paulo Tanimoto, 2011-07-20
+Pablo Rodríguez, 2014-12-28
+Or Neeman, 2017-02-25
+Ophir Lifshitz, 2015-07-15
+Oliver Matthews, 2016-09-06
+(no author), 
+Nikolay Yakimov, 2014-10-24
+Nicolas Porcel, 2016-11-24
+Nicolas Kaiser, 2013-12-23
+nickbart1980, 2015-04-10
+Neil Mayhew, 2014-04-12
+Nathan Gass, 2010-12-13
+mpickering, 2014-05-07
+Morton Fox, 2016-07-29
+MinRK, 2013-11-07
+Michael Thompson, 2012-03-07
+Michael Snoyman, 2014-05-16
+Michael Chladek, 2015-07-01
+michaelbeaumont, 2015-11-15
+Merijn Verstraaten, 2013-09-07
+mb21, 2012-04-19
+Max Rydahl Andersen, 2013-05-31
+Max Bolingbroke, 2010-04-10
+Mauro Bieg, 2016-02-26
+Matthias C. M. Troffaes, 2015-02-18
+Matthew Pickering, 2014-04-01
+Matthew Eddey, 2016-01-07
+Mathieu Duponchelle, 2016-02-05
+Mathias Schenner, 2015-03-08
+Matej Kollar, 2014-07-02
+MarLinn, 2015-07-23
+Mark Wright, 2012-04-23
+Mark Szepieniec, 2014-09-18
+Marc Schreiber, 2017-05-02
+lwolfsonkin, 2017-05-18
+Luis Osa, 2013-08-05
+Lev Walkin, 2015-12-01
+Lars-Dominik Braun, 2015-06-29
+Kristof Bastiaensen, 2014-10-14
+Konstantin Zudov, 2015-01-29
+Kolen Cheung, 2016-10-19
+KolenCheung, 2016-05-09
+Kevin, 2013-12-09
+Kelsey Hightower, 2011-07-04
+keiichiro shikano, 2017-05-23
+KarolS, 2014-02-26
+Kaixhin, 2015-04-01
+Juliusz Gonera, 2015-08-15
+Julien Cretel, 2015-04-07
+Jose Luis Duran, 2013-12-02
+Josef Svenningsson, 2011-01-28
+Jonas Smedegaard, 2012-05-24
+John Muccigrosso, 2016-12-31
+John MacFarlane, 2010-03-20
+John Luke Bentley, 2017-03-04
+Joe Hillenbrand, 2014-04-22
+Joachim Breitner, 2017-02-03
+J. Lewis Muir, 2015-05-05
+Jesse Rosenthal, 2014-06-16
+Jens Petersen, 2013-01-22
+Jens Getreu, 2017-08-21
+Jelte Fennema, 2016-04-12
+Jeff Sheets, 2016-11-26
+Jeff Runningen, 2013-01-27
+Jeff Arnold, 2013-12-13
+Jason Ronallo, 2014-10-04
+Jan Schulz, 2016-05-10
+Jan Larres, 2015-06-03
+Jamie F. Olson, 2013-03-20
+James Aspnes, 2014-06-12
+Jakob Voß, 2016-09-30
+Jaime Marquínez Ferrándiz, 2013-11-24
+Jacob Zimmerman, 2016-10-20
+Ivo Clarysse, 2016-04-29
+Ilya V. Portnov, 2010-07-19
+ickc, 2016-03-06
+Ian, 2017-05-18
+Hugo Roy, 2015-08-20
+hubertp-lshift, 2016-11-01
+Hubert Plociniczak, 2016-10-12
+Herwig Stuetz, 2017-05-28
+Henry de Valence, 2013-12-19
+Henri Werth, 2017-05-15
+Henrik Tramberend, 2016-01-20
+Hans-Peter Deifel, 2015-02-25
+gwern, 2014-04-20
+Guilhem Bonnefille, 2015-09-29
+Greg Rundlett, 2015-02-05
+Grégory Bataille, 2014-06-23
+Grégoire Pineau, 2015-10-05
+Greg Maslov, 2012-03-24
+gohai, 2015-05-11
+Garrick Aden-Buie, 2014-04-11
+Gabor Pali, 2014-08-24
+Fyodor Sheremetyev, 2013-02-13
+Frerich Raabe, 2015-09-23
+Freiric Barral, 2014-10-08
+Fraser Tweedale, 2016-02-18
+François Gannaz, 2012-02-21
+Florian Eitel, 2013-08-22
+fiddlosopher, 2006-10-17
+Felix Yan, 2016-06-14
+Erik Evenson, 2013-09-07
+Eric Seidel, 2011-12-24
+Eoin Travers, 2015-01-19
+Emily Eisenberg, 2015-09-26
+Emanuel Evans, 2016-04-26
+Douglas F. Calvert, 2013-02-26
+Douglas Calvert, 2012-02-08
+Dmitry Smirnov, 2015-04-01
+Denis Laxalde, 2012-08-29
+David Röthlisberger, 2013-07-20
+David Lazar, 2013-03-28
+David A Roberts, 2017-05-02
+Daniel T. Staal, 2014-05-13
+Daniele D'Orazio, 2016-10-26
+Daniel Bergey, 2014-12-01
+csforste, 2016-01-19
+Craig S. Bosma, 2014-07-17
+Conal Elliott, 2012-02-06
+Clint Adams, 2012-11-07
+claremacrae, 2013-07-26
+Clare Macrae, 2013-07-14
+Christoffer Sawicki, 2011-07-10
+Christoffer Ackelman, 2014-08-17
+Christian Conkle, 2016-01-05
+chrisersen, 2012-07-22
+Chris Black, 2015-07-21
+Carsten Gips, 2016-08-04
+Carlos Sosa, 2016-05-23
+Calvin Beck, 2014-08-26
+Caleb McDaniel, 2014-07-12
+bumper314, 2017-01-18
+bucklereed, 2017-06-27
+B. Scott Michel, 2011-12-30
+Bryan O'Sullivan, 2014-12-08
+Brent Yorgey, 2012-10-04
+Björn Peemöller, 2016-11-19
+Bjorn Buckwalter, 2014-10-15
+Bheesham Persaud, 2017-01-01
+Benoit Schweblin, 2015-10-18
+Benjamin Bannier, 2013-03-03
+Beni Cherniavsky-Paskin, 2014-07-23
+Ben Gamari, 2012-09-21
+Bartosz Nitka, 2017-06-17
+Artyom Kazak, 2014-08-01
+Artyom, 2014-09-26
+Artem Klevtsov, 2016-09-14
+Arlo O'Keeffe, 2012-07-11
+ARATA Mizuki, 2015-11-08
+Antoine Latter, 2011-09-02
+Anthony Geoghegan, 2016-12-03
+Andrew Dunning, 2015-07-08
+Andreas Lööw, 2015-04-16
+Anders Persson, 2015-05-27
+Alfred Wechselberger, 2015-04-29
+Alex Vong, 2015-10-01
+Alex Ivkin, 2016-06-30
+Alexey Rogachev, 2017-01-13
+Alexander V Vershilov, 2012-06-25
+Alexander Sulfrian, 2014-10-30
+Alexander Krotov, 2017-02-01
+Alexander Kondratskiy, 2013-07-13
+Alexander Belyaev, 2014-02-12
+Alexander Bakst, 2013-05-31
+Alexander, 2017-08-06
+Alex, 2016-06-29
+Albert Krewinkel, 2014-03-04
+Aditya Mahajan, 2011-08-23
+aaronwolen, 2013-10-23
+Aaron Wolen, 2013-06-18
+Aaron Browne, 2015-01-31

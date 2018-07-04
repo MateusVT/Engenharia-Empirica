@@ -1,0 +1,18 @@
+Yuya Tanaka, 2017-02-16
+Victor Delgado, 2016-04-29
+Tom Lord, 2016-07-01
+Tom Graham, 2016-02-05
+Sam Stephenson, 2015-07-02
+Raul Brito, 2016-02-24
+Peter Mumford, 2016-03-08
+Nick Reed, 2016-02-26
+Nate Berkopec, 2016-03-23
+nanaya, 2016-05-12
+Justin Gordon, 2016-03-26
+Josh Mills, 2017-05-04
+Jorge Bejar, 2016-03-01
+Joe Masilotti, 2016-03-01
+Jeffrey Hardy, 2016-01-31
+Javan Makhmali, 2015-11-16
+David Heinemeier Hansson, 2016-02-02
+Brock Noah, 2016-12-11

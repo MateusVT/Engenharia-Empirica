@@ -1,0 +1,140 @@
+Юрин Вячеслав, 2012-03-09
+Yurin Slava, 2012-02-04
+Yurii Rashkovskii, 2011-08-27
+Vagabond, 2010-03-02
+Uwe Dauernheim, 2011-08-21
+Ulf Wiger, 2012-04-16
+Tuncer Ayaz, 2009-12-29
+Torbjorn Tornkvist, 2011-12-12
+Tomas Abrahamsson, 2011-12-29
+Tino Breddin, 2011-08-04
+Tim Watson, 2011-01-29
+Tim Dysinger, 2009-12-18
+theiw, 2010-02-05
+syl20bnr, 2013-05-20
+Steve Vinoski, 2011-05-31
+Steven Gravell, 2011-07-01
+smithwinston, 2011-11-26
+Slava Yurin, 2012-06-29
+Shunichi Shinohara, 2011-03-22
+Shoji KUMAGAI, 2012-11-01
+Serge Aleynikov, 2012-10-22
+serge, 2012-10-20
+Sean Cribbs, 2012-07-02
+Scott Lystig Fritchie, 2011-08-11
+Scott Fritchie, 2010-08-10
+Ryan Zezeski, 2012-09-03
+Ryan Tilder, 2010-02-10
+Russell Brown, 2010-06-12
+Roberto Ostinelli, 2012-08-11
+Przemysław Dąbek, 2011-10-20
+Piotr Usewicz, 2011-04-15
+Phil Toland, 2012-02-16
+Philip Mueller, 2012-12-12
+Pedram Nimreezi, 2013-03-26
+Oscar Hellström, 2010-08-24
+Oliver Ferrigni, 2013-01-14
+olgeni, 2013-06-10
+OJ Reeves, 2010-01-09
+Nick Vatamaniuc, 2012-05-14
+Motiejus Jakštys, 2012-07-02
+Mistagrooves, 2011-09-26
+Misha Gorodnitzky, 2010-11-20
+Mike Lazar, 2012-02-16
+Mihai Balea, 2010-12-01
+Max Lapshin, 2011-04-29
+Mattias Holmlund, 2011-07-28
+Matthew Conway, 2013-01-14
+Matt Campbell, 2011-09-01
+mats cronqvist, 2013-04-12
+Mathias Meyer, 2011-06-14
+Martin Schut, 2012-09-28
+Markus Näsman, 2012-08-30
+Manuel Rubio, 2013-09-19
+Magnus Klaar, 2012-01-06
+Magnus Henoch, 2012-10-22
+Luca Favatella, 2013-08-30
+Loïc Hoguin, 2012-03-18
+Lev Walkin, 2012-08-08
+Krzysztof Rutka, 2013-03-25
+Kresten Krab Thorup, 2012-07-11
+Kostis Sagonas, 2010-10-10
+Klas Johansson, 2010-06-19
+klaar, 2010-12-09
+Kevin Smith, 2010-01-05
+Juhani Rankimies, 2010-08-04
+Juan Jose Comellas, 2011-02-26
+José Valim, 2012-11-22
+Joseph Wayne Norton, 2010-11-23
+Jordi Chacon, 2011-03-26
+Jon Meredith, 2009-11-30
+Joe Williams, 2011-07-01
+joewilliams, 2011-01-27
+Joe DeVivo, 2012-06-27
+jmeredith@jons-macbook.local, 2009-12-03
+Jesse Gumm, 2011-12-08
+Jeremy Raymond, 2010-04-22
+Jeremie Lasalle Ratelle, 2013-05-06
+Jared Morrow, 2011-06-10
+Jan Vincent Liwanag, 2011-09-04
+Jan Klötzke, 2011-06-13
+Jan Kloetzke, 2011-11-01
+iw, 2010-01-04
+Ignas Vyšniauskas, 2011-09-02
+hirschen, 2012-06-11
+Fred Hebert, 2012-07-10
+Francis Joanis, 2012-01-17
+Fisher, 2012-02-02
+Fabian Linzberger, 2011-10-20
+Evax Software, 2011-04-12
+Evan Vigil-McClanahan, 2012-06-21
+Evan Miller, 2011-06-01
+Essien Ita Essien, 2010-10-03
+Eric Merritt, 2012-09-07
+Eric B Merritt, 2012-07-03
+Edwin Fine, 2012-08-08
+Dmitriy Kargapolov, 2012-08-30
+Dennis Docter, 2013-01-30
+DeadZen, 2012-08-07
+David Reid, 2010-03-04
+David Åberg, 2012-08-07
+Dave Thomas, 2013-06-21
+Dave Smith, 2009-11-25
+Dave Cottlehuber, 2012-06-08
+Daniel White, 2012-09-20
+Daniel Néri, 2010-11-14
+Daniel Luna, 2012-06-29
+Dan Gudmundsson, 2010-09-18
+cloudhead, 2011-07-08
+Cliff Moon, 2010-04-28
+Christopher Brown, 2011-03-02
+Chris Chew, 2010-06-07
+Chris Bernard, 2010-03-04
+Charles McKnight, 2011-01-06
+Bryan Fink, 2009-12-21
+Bob Ippolito, 2010-05-08
+Björn Bylander, 2013-09-20
+Benjamin Nortier, 2010-09-15
+Ben Ellis, 2011-09-01
+Ben, 2011-09-01
+Artem Teslenko, 2012-11-12
+Arjan Scherpenisse, 2012-10-31
+Anton Lavrik, 2011-09-02
+Anthony Ramine, 2010-12-16
+Anthony Molinaro, 2011-05-13
+Andy Gross, 2010-06-16
+Andrew Tunnell-Jones, 2011-01-17
+Andrew Thompson, 2010-07-25
+Andrew Gopienko, 2011-07-05
+Anders Nygren, 2011-08-05
+Anders, 2010-11-09
+Amit Kapoor, 2012-04-02
+Ali Yakout, 2012-03-30
+alisdair sullivan, 2012-04-30
+Ali Sabil, 2011-12-28
+Alfonso De Gregorio, 2011-08-28
+Alex Thornton, 2013-09-08
+Alex Songe, 2010-01-16
+Alexey Romanov, 2010-12-07
+Adam Schepis, 2012-03-31
+Adam Kocoloski, 2010-11-30

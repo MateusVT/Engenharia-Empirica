@@ -1,0 +1,37 @@
+Yati Sagade, 2017-04-21
+Wes Cravens, 2013-12-21
+Victor Mours, 2015-08-29
+Tomohiro Hosaka, 2013-07-10
+Thomas Sibley, 2013-11-14
+Thomas Ingram, 2015-09-01
+Sterling Hanenkamp, 2015-04-20
+Stefan Suciu, 2013-12-16
+Slobodan Mišković, 2013-09-19
+Ronan Dunklau, 2013-02-13
+Richard D. Worth, 2017-03-10
+Randy Stauner, 2012-10-02
+Paul Cochrane, 2016-01-20
+Olaf Alders, 2015-08-22
+Michael G. Schwern, 2013-01-10
+Mark Lawrence, 2012-05-07
+Jim Nasby, 2016-04-07
+Jay Hannah, 2017-07-13
+Helmut Wollmersdorfer, 2014-09-19
+George Hartzell, 2015-04-10
+François Beausoleil, 2013-11-28
+Eliot Alter, 2017-08-31
+Ed Silva, 2014-03-04
+Don Seiler, 2016-06-02
+Dmitriy Olshevskiy, 2015-07-20
+djk447, 2017-05-02
+Dickson S. Guedes, 2012-08-30
+Denis Redozubov, 2015-10-16
+David E. Wheeler, 2012-01-26
+Dave Rolsky, 2016-06-18
+Cosimo Streppone, 2012-04-19
+chromatic, 2014-01-10
+Chris Prather, 2017-05-26
+Carlos Ramos, 2015-10-12
+ben hengst, 2012-08-06
+Arnaud "Arhuman" Assad, 2012-04-10
+Arnaud (Arhuman) ASSAD, 

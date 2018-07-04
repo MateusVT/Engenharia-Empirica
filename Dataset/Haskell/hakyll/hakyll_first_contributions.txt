@@ -1,0 +1,147 @@
+80x24, 2015-06-14
+Yuriy Syrovetskiy, 2015-11-20
+Yann Esposito (Yogsototh), 
+Wille Faler, 2014-09-02
+Wei En, 2014-11-27
+uu1101, 2013-06-14
+Troels Henriksen, 2012-02-13
+Tom Sydney Kerckhove, 2015-03-30
+Tomas Zemanovic, 2014-05-04
+Thomas Koch, 2016-07-23
+TakSuyu, 2014-10-31
+Takayuki Muranushi, 2014-10-07
+sternenseemann, 2015-11-06
+sk3r, 2016-07-24
+Simon Jakobi, 2017-01-22
+Simon Hengel, 2011-05-17
+Simonas Kazlauskas, 2013-02-11
+Sergei Trofimovich, 2014-05-21
+Sebastian Schwarz, 2010-01-08
+Samuel Tardieu, 2013-03-24
+samgd, 2016-07-22
+Saksham Sharma, 2016-05-30
+Saeid Al-Wazzan, 2013-09-16
+Ruud van Asseldonk, 2014-07-26
+Rohan Jain, 2012-04-03
+Robin Windels, 2013-01-13
+Rickard Nilsson, 2014-08-20
+Richard Cook, 2016-03-14
+Régis Foucault, 2013-04-29
+Ralph' Potato, 2017-07-31
+Pratyush Mishra, 2016-06-28
+Piyush P Kurur, 2013-03-07
+Peter Jones, 2013-02-26
+Peter Doherty, 2016-07-12
+Paul van der Walt, 2016-06-17
+Paul Keene, 2015-02-11
+Paul de Rosanbo, 2017-03-17
+Parnell Springmeyer, 2013-04-23
+noxx, 2013-05-04
+Nikolaos S. Papaspyrou, 2016-10-31
+Nicole Rauch, 2016-08-14
+Nicolas Mattia, 2016-04-06
+Nick McAvoy, 2014-09-16
+Nicholas McAvoy, 2015-01-04
+Mikhail Glushenkov, 2017-06-09
+Mike Limansky, 2017-03-16
+Miikka Koskinen, 2013-02-02
+Mihai Maruseac, 2013-12-27
+Michael Walker, 2017-07-10
+Michael Stevens, 2011-09-09
+Mekeor Melire, 2012-08-09
+Maxim Dikun, 2016-08-31
+Matthias C. M. Troffaes, 2015-01-09
+Mateusz Loskot, 2012-10-22
+Mark Wright, 2012-04-23
+Marc-Antoine Perennou, 2013-07-07
+Magnus Therning, 2015-02-22
+Luca Molteni, 2016-07-22
+Lubomír Sedlář, 2012-01-24
+Lorenzo, 2016-07-22
+Kyle Marek-Spartz, 2014-05-28
+kusut, 2014-05-14
+Kiwamu Okabe, 2014-12-14
+Jyotsna Prakash, 2014-04-25
+Julien Langlois, 2016-10-23
+Joshua Simmons, 2015-03-23
+Jorge Israel Peña, 2013-05-22
+John Tyree, 2013-01-27
+Joachim Breitner, 2013-02-09
+J-Hannes, 2012-08-21
+Jens Petersen, 2016-08-31
+Javran Cheng, 2015-09-24
+Jasper Van der Jeugt, 2009-12-02
+Jan Tojnar, 2016-06-25
+Jan-Philip Loos, 2014-09-08
+james-darkfox, 2014-01-15
+Jakub Z, 2016-09-06
+Izzy Cecil, 2014-04-19
+Ivan Veselov, 2012-08-02
+Ivan N. Veselov, 2012-08-02
+Ian Ross, 2013-04-21
+hh-darkfox, 2014-01-05
+Harry Garrood, 2016-03-16
+Hans-Peter Deifel, 2015-02-24
+Haisheng.W.WU, 2014-01-02
+gwern, 2013-08-19
+Gun.io Whitespace Robot, 2011-12-15
+Guillermo O. Freschi, 2013-11-20
+frederik-h, 2017-02-11
+Franco Victorio, 2014-12-25
+Florian Hars, 2011-10-09
+Ferenc Wágner, 2015-01-13
+Felix Yan, 2016-03-22
+Favonia, 2012-06-10
+Evan Cofsky, 2013-05-20
+Erik Stevenson, 2016-03-29
+Erik Dominikus, 2015-04-30
+erik, 2016-02-27
+Eric Suh, 2012-01-29
+Eric Stolten, 2013-08-20
+Eric Rasmussen, 2013-05-14
+Elie Génard, 2017-05-21
+Duncan, 2015-08-16
+Denis Shevchenko, 2017-05-21
+David Sferruzza, 2014-06-08
+Daniil Frumin, 2014-01-11
+Daniel P. Wright, 2015-01-03
+Daniel Mlot, 2013-08-02
+Daniel Ehlers, 2011-02-06
+Daniel Campoverde, 2017-05-21
+Dan, 2014-01-06
+Dacto, 2014-03-31
+Collin J. Doering, 2014-03-23
+Clint Adams, 2013-09-16
+Civic Labs, 2017-02-20
+Chris Wong, 2016-10-14
+Christopher Young, 2013-04-12
+Christopher League, 2017-06-19
+Christian Baumhof, 2014-01-30
+chrislample, 2017-01-05
+chrisdotcode, 2014-03-23
+Charles Strahan, 2015-04-07
+Calen Pennington, 2015-02-20
+Brent Yorgey, 2011-10-30
+bitraten, 2013-12-10
+Bergi, 2015-10-21
+Ben Jeffrey, 2013-04-27
+Benjamin Weißenfels, 2012-09-01
+Benedict Eastaugh, 2011-03-29
+Beerend Lauwers, 2017-01-16
+Arguggi, 2016-07-22
+Arash Rouhani, 2012-08-29
+Anton Dubovik, 2013-05-05
+Anler Hernández Peral, 2017-03-16
+Andy Irving, 2011-10-02
+Andrew Miller, 2012-08-08
+Andrew Barchuk, 2016-02-29
+Andres Loeh, 2014-02-11
+Anders Persson, 2014-04-04
+Alexey Kreshchuk, 2013-10-11
+Alexandre Medeiros, 2014-07-06
+Alexander Vershilov, 2012-09-14
+Alexander Lobov, 2016-11-13
+Alberto, 2017-05-21
+Albert Krewinkel, 2014-05-10
+Adelbert Chang, 2014-01-01
+Adam Bergmark, 2013-03-10

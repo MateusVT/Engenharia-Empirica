@@ -1,0 +1,53 @@
+Yuichi Araki, 2016-04-22
+Yossi Elkrief, 2014-12-11
+Ye Lin Aung, 2014-08-04
+Xavier Hallade, 2014-08-07
+WonShaw, 2014-08-12
+William Mora, 2014-12-07
+Wesley Pascual, 2014-08-01
+VipSaran, 2014-10-20
+Trevor Johns, 2013-10-08
+Suvercha Khattar, 2017-03-16
+Stratos Theodorou, 2015-01-15
+Stephan Schmitz, 2014-10-28
+Shailen Tuli, 2016-02-10
+sergey, 2014-05-14
+Sebastiano Poggi, 2014-08-07
+Roman Nurik, 2012-07-11
+Renato Mangini Dias, 2016-04-26
+Renato Mangini, 2014-07-24
+Peter Friese, 2017-04-21
+Paul Rashidi, 2015-10-14
+Nick Butcher, 2016-01-28
+Natalie Masse, 2016-01-22
+Naoki Ishihara, 2016-04-26
+naoki, 2016-04-25
+Nagesh Susarla, 2017-04-05
+Minas Keshishyan, 2014-08-01
+Lukas Stührk, 2014-08-01
+Lian Yang, 2017-03-29
+Jonathan Koren, 2017-01-29
+Jan-Felix Schmakeit, 2013-08-08
+Jacek Marchwicki, 2014-08-19
+Hugh O'Cinneide, 2016-05-02
+Hossain Khan, 2015-10-14
+Google Automerger, 2016-04-04
+Fred Chung, 2017-03-25
+Douglas Sigelbaum, 2017-02-13
+devrel-build, 2016-01-28
+Davide Fiorentino lo Regio, 2014-04-22
+Dan Galpin, 2017-04-04
+Chris Stewart, 2014-08-06
+Chris Banes, 2017-01-25
+Carolyn Marshall, 2017-03-22
+Bruno Oliveira, 2014-04-02
+Ben Weiss, 2017-03-03
+Arthur Thompson, 2016-03-22
+Ardock, 2014-10-22
+ardock, 2014-09-29
+amilcar-andrade, 2017-04-06
+Al Sutton, 2014-08-19
+Alex Jeng, 2014-09-22
+Alexander Lucas, 2016-03-07
+AjkP, 2014-11-12
+Adam Koch, 2012-08-23

@@ -1,0 +1,90 @@
+Zoran Zaric, 2014-01-10
+Yuan Mai, 2014-02-07
+Yoshito Komatsu, 2014-04-22
+Willy Blandin, 2014-06-27
+Wesley Wiser, 2014-01-10
+Victor Cottin, 2014-07-18
+Tyrieke Morton, 2014-02-11
+Tomas Tauber, 2016-07-25
+TimothyDJewell, 2017-04-10
+Thor Adam, 2014-01-08
+The Gitter Badger, 2015-07-01
+TeachMeFly, 2016-01-03
+Suraj Patil, 2015-02-28
+Steven Cordwell, 2015-01-13
+statesside, 2014-02-18
+snufkon, 2014-03-02
+Sean Caffery, 2014-02-17
+Scott Bauer, 2016-06-23
+Santiago Pelufo, 2014-03-02
+Ryan P.C. McQuen, 2015-12-14
+rundis, 2015-06-16
+Rostislav Svoboda, 2014-04-11
+Robin Munn, 2014-01-15
+Rémy Léone, 2014-01-15
+Prof Gra, 2015-10-24
+Piyush Srivastava, 2014-02-22
+Patrick Connelly, 2014-03-05
+one-more-minute, 2014-10-22
+nickgieschen, 2014-02-22
+ndr, 2014-01-20
+Morgawr, 2014-01-17
+mira, 2015-05-01
+Mike Innes, 2014-04-10
+Mihnea Dobrescu-Balaur, 2014-01-27
+Michael.Y.Ma, 2017-01-29
+Michael Brown, 2017-05-17
+Martin Zapata, 2015-04-23
+mark.fisher, 2014-01-28
+Marco Munizaga, 2014-01-26
+Marc G, 2016-09-03
+manutter51, 2014-01-29
+Magnus Rundberget, 2015-09-11
+Lucas Stadler, 2014-01-29
+Kien Pham, 2014-01-10
+Kenny Evitt, 2015-06-23
+kenny-evitt, 2015-06-14
+Joshua Cole, 2014-01-08
+joneshf, 2014-01-08
+Jason Whaley, 2014-01-11
+Jamie Brandon, 2013-12-10
+Jakub Holy, 2014-05-07
+Jakub Fojtl, 2015-01-10
+Jakub Arnold, 2014-01-09
+Irakli Gozalishvili, 2014-01-08
+Gunnar Ahlberg, 2014-01-10
+grun, 2014-06-07
+gekkoe808, 2014-06-29
+gekkoe, 2014-08-04
+Gabriel Horner, 2014-03-05
+flaviozantut, 2014-02-15
+Feminist-Software-Foundation, 2014-01-11
+Eric Pritchett, 2014-01-14
+efuquen, 2014-01-22
+Edwin Fuquen, 2014-01-22
+Dušan Maliarik, 2014-06-04
+Dom Kiva-Meyer, 2014-01-21
+Dmitry Polovka, 2014-01-09
+Dmitry Petrov, 2014-01-13
+Dmitriy Rozhkov, 2015-10-20
+David Mohs, 2014-01-11
+David Kinzer, 2014-08-02
+Dadie, 2015-06-18
+Curtis Rasmussen, 2014-03-06
+Cristi Mocanu, 2014-01-28
+Clinton N. Dreisbach, 2014-01-28
+Christopher Elwell, 2014-01-14
+Christian Müller, 2014-01-24
+Chris Granger, 2013-07-04
+Chris Etheridge, 2016-11-22
+ccspell, 2014-03-20
+Carlos Cobo, 2014-01-27
+bruno-oliveira, 2017-01-04
+Brandon Bloom, 2014-01-08
+Boryslav Larin, 2014-10-14
+Ben Mathes, 2014-01-09
+Benjamin Van Ryseghem, 2015-06-26
+Anton Dyudin, 2015-01-28
+alhimik45, 2015-02-27
+Alexey Shamrin, 2016-01-16
+Aaron Hoffer, 2017-02-15

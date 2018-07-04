@@ -1,0 +1,99 @@
+Zac Sweers, 2016-06-09
+xieshuhua, 2016-03-28
+vmironov, 2013-05-23
+Vladimir Mironov, 2014-01-30
+Uwe Trottmann, 2014-06-17
+UglyTroLL, 2015-01-09
+Tomasz Rozbicki, 2013-11-05
+t7costa, 2014-07-15
+Su-Au Hwang, 2016-07-10
+Simon Vig Therkildsen, 2013-05-25
+Sheldon Neuberger, 2015-04-13
+seven, 2013-12-28
+Satoshi Matsumoto, 2016-06-26
+Salvatore Testa, 2017-06-30
+rburton, 2013-07-25
+Ray Ryan, 2013-04-10
+Prateek Srivastava, 2013-09-03
+Ponyets, 2013-12-18
+Pierre-Yves Ricau, 2013-04-09
+Peter Leibiger, 2014-02-11
+Peter Attardo, 2013-07-17
+PeggsDev, 2015-01-16
+Patrick Forhan, 2013-03-23
+Nuruddin Ashr, 2016-03-29
+Nicolas Cornette, 2016-06-28
+Mike Nakhimovich, 2015-12-07
+Michał Charmas, 2014-10-24
+meisterfuu, 2014-10-28
+Martin Bonnin, 2017-04-14
+Mahram Z. Foadi (Hookt), 
+Mahram Z. Foadi, 2013-05-28
+Macarse, 2014-05-29
+Luka Cindro, 2015-03-10
+Lucas Rocha, 2014-09-03
+losogithub, 2016-01-26
+Logan Johnson, 2013-04-12
+Krzysztof Bielicki, 2014-09-23
+Kirill Andreevich, 2014-11-26
+Kiran Ryali, 2013-05-09
+Kevin Woodland, 2014-12-03
+Kevin Marlow, 2015-02-11
+jwilson, 2013-06-21
+Justin Tuchek, 2015-07-10
+Josef Raska, 2016-04-15
+Jonathan Caryl, 2013-12-16
+Jonas Alves, 2014-06-30
+Jon Ander Peñalba, 2015-02-15
+JohnWowUs, 2015-05-14
+Johan Bilien, 2015-07-24
+Joao Orui, 2014-03-15
+Jesse Wilson, 2013-05-15
+Jean-Francois Cartier, 2016-03-24
+Jared Rummler, 2016-06-28
+Jared Burrows, 2017-08-28
+Jamie Hewland, 2013-06-23
+James Lee, 2013-10-23
+James Kim, 2015-04-08
+Jakub Skierbiszewski, 2016-08-09
+Jake Wharton, 2013-02-15
+jake+dimitris, 
+jacob-tabak, 2014-09-11
+hjow, 2015-05-18
+Hamid Moazzami, 2016-07-20
+Guillaume, 2016-02-12
+Evelio Tarazona Cáceres, 2013-09-23
+Evelio Tarazona, 2014-02-20
+Eric Denman, 2013-05-07
+Eric Cochran, 2016-06-07
+Eric Burke, 2013-03-31
+Emmanuel DEMEY, 2013-07-22
+Emil Sjölander, 2013-09-17
+Egor N, 2014-06-18
+Edward Dale, 2013-05-27
+dnkoutso, 2013-07-16
+Dimitris+Pat, 
+Dimitris Koutsogiorgas and Michael Tauraso, 2015-06-10
+Dimitris Koutsogiorgas, 2015-01-06
+Dimitris+Jake, 
+Dimitris Couchell-Koutsogiorgas, 2016-05-24
+Dimitris Couchell, 2013-02-18
+Dimitris, 2013-05-14
+dimitris, 2013-03-23
+David R. Bild, 2013-07-18
+David Berrios, 2015-01-07
+Dan Lew, 2015-01-19
+Daniel, 2015-07-14
+csshuai, 2014-10-15
+Christopher Kocel, 2013-07-05
+Christian Becker, 2013-06-12
+Cameron, 2016-12-14
+Artur Termenji, 2013-11-08
+Artem Gapchenko, 2016-01-03
+amatellanes, 2013-12-29
+Al Sutton, 2013-06-05
+Alex Chow, 2013-07-14
+Alex Avance, 2014-01-27
+Alexander Blom, 2013-07-16
+Alden Torres, 2014-06-05
+Aaron Lewis, 2015-04-30

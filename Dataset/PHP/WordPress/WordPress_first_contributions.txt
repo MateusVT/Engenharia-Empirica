@@ -1,0 +1,80 @@
+wpmuguru, 2010-01-05
+Weston Ruter, 2015-05-25
+westi, 2007-07-18
+uid26904, 2003-10-23
+Tammie Lister, 2016-03-10
+Sergey Biryukov, 2013-01-22
+scribu, 2010-08-11
+Scott Taylor, 2013-08-21
+saxmatt, 2003-04-01
+Ryan McCue, 2015-10-08
+Ryan Boren, 2012-08-10
+ryan, 2005-02-21
+rob1n, 2007-03-29
+rboren, 2004-02-05
+Rachel Baker, 2015-12-06
+potbot, 2010-04-02
+Peter Wilson, 2016-05-20
+Peter Westwood, 2012-08-21
+PeteMall, 2010-11-22
+Pascal Birchler, 2015-12-06
+(no author), 
+Nikolay Bachiyski, 2012-10-31
+nbachiyski, 2010-03-15
+nacin, 2010-02-13
+Mike Schroder, 2015-12-06
+mikelittle, 2003-04-21
+michelvaldrighi, 2003-08-12
+Michael Arestad, 2015-12-06
+Michael Adams, 2013-07-28
+Mel Choyce, 2015-12-06
+Matt Thomas, 2013-11-10
+Matt Mullenweg, 2013-11-21
+matt, 2005-02-21
+Matias Ventura, 2017-05-18
+Mark Jaquith, 2012-08-19
+markjaquith, 2006-10-04
+Lance Willett, 2012-08-15
+lancewillett, 2011-04-26
+koopersmith, 2011-05-05
+Konstantin Obenland, 2015-06-02
+Konstantin Kovshenin, 2014-10-08
+K. Adam White, 2017-07-20
+jverber, 2004-02-01
+josephscott, 2010-04-05
+Jon Cave, 2012-09-03
+John Blackbourn, 2014-01-07
+Joe McGill, 2016-05-15
+Joe Hoyle, 2015-12-07
+Jeremy Felt, 2014-10-12
+James Nylen, 2016-11-30
+Ian Stewart, 2014-10-14
+iandstewart, 2011-04-26
+iammattthomas, 2010-02-12
+Helen Hou-Sandí, 2012-12-18
+Gary Pendergast, 2014-10-28
+Felix Arntz, 2016-12-04
+Eric Lewis, 2015-12-06
+emc3, 2003-08-14
+Ella Iseulde Van Dorpe, 2015-05-25
+duck_, 2011-08-11
+Drew Jaynes, 2013-09-19
+dougal, 2005-11-22
+donncha, 2003-11-07
+Dominik Schilling, 2013-04-10
+Dion Hulse, 2012-09-26
+dd32, 2010-01-13
+David A. Kennedy, 2016-10-20
+Daryl Koopersmith, 2012-08-22
+bumpbot, 2012-01-06
+Bot (Translations), 
+Bot (Assets), 
+Boone Gorges, 2014-09-30
+azaozz, 2008-07-16
+Andrew Ozz, 2012-08-10
+Andrew Nacin, 2012-08-13
+Andrea Fercia, 2015-09-02
+alex_t_king, 2003-08-14
+Adam Silverstein, 2016-12-04
+Aaron Jorbin, 2014-10-28
+Aaron Campbell, 2013-07-28

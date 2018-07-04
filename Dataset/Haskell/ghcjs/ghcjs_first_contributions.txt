@@ -1,0 +1,40 @@
+Yiding Jia, 2015-10-20
+Willem van den Ende, 2014-11-25
+Victor Nazarov, 2010-08-15
+Steven Stewart-Gallus, 2014-04-05
+Stephen Blackheath, 2012-09-24
+stepb, 2010-12-26
+Ryan Trinkle, 2016-04-08
+Renzo Carbonara, 2015-09-22
+ReadmeCritic, 2015-12-04
+Phil de Joux, 2017-06-25
+Pedro Martins, 2010-08-24
+osa1, 2014-03-13
+Nickolay Kudasov, 2015-10-01
+Michael Snoyman, 2014-09-03
+Michael Sloan, 2015-08-11
+Matthias Fischmann, 2014-09-06
+Luite Stegeman, 2012-05-10
+Luca Bruno, 2013-09-09
+lethalman, 2013-09-18
+Kyle Raftogianis, 2014-06-01
+Kamil Figiela, 2015-10-20
+John, 2013-03-28
+jhegedus42, 2015-10-05
+Ian Duncan, 2016-07-18
+Harry Garrood, 2014-04-18
+Hamish Mackenzie, 2011-05-31
+Greg Weber, 2015-04-17
+Felipe Garay, 2014-12-23
+externalreality, 2014-08-30
+David Johnson, 2016-07-03
+David Fox, 2014-06-25
+danse, 2015-10-27
+Daniil Frumin, 2013-07-27
+Dan Frumin, 2013-08-16
+crocket, 2016-10-19
+Chris Done, 2011-08-17
+Chris Allen, 2016-08-06
+Charles Strahan, 2015-05-21
+Ben Gamari, 2014-01-21
+Andrew Miller, 2013-05-11

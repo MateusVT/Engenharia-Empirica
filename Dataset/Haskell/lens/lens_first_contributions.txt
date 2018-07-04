@@ -1,0 +1,135 @@
+Yair Chuchem, 2012-12-13
+Ville Tirronen, 2012-12-31
+Tristan Seligmann, 2016-04-23
+Toshio Ito, 2016-01-02
+Tom Ellis, 2014-03-25
+tim dixon, 2014-04-19
+Tim Baumann, 2015-08-09
+Thomas Bereknyei, 2013-04-19
+Taneb, 2012-11-27
+Takayuki Muranushi, 2013-07-09
+Takano Akio, 2013-07-17
+startling, 2012-11-14
+Sjoerd Visscher, 2013-10-12
+Simon Meier, 2013-05-10
+Simon Hengel, 2012-08-05
+Shachaf Ben-Kiki, 2012-10-27
+shachaf, 2012-11-20
+Sergei Trofimovich, 2014-02-06
+Sean Hunt, 2016-04-10
+Ryan Scott, 2016-01-15
+RyanGlScott, 2014-09-09
+Robin Green, 2015-03-01
+Ricky Elrod, 2014-09-12
+Pepe Iborra, 2016-12-11
+Patrick Chilton, 2015-06-21
+pasberth, 2013-03-13
+Oren Ben-Kiki, 2012-09-08
+Oliver Charles, 2012-11-27
+Oleg Grenrus, 2016-07-26
+nvd1234@gmail.com, 2013-10-18
+Niklas Haas, 2014-03-28
+Nicolas Pouillard, 2015-11-01
+Neil Mitchell, 2017-04-07
+Nathan van Doorn, 2013-01-21
+Nathan Howell, 2013-10-12
+Nathan, 2013-02-28
+nandykins, 2014-03-02
+nand, 2012-08-06
+Moritz Schulte (Moreek Tesseract), 
+Moritz Schulte, 2017-01-20
+Mikhail Vorozhtsov, 2012-08-21
+Mike Ledger, 2013-01-20
+Mihaly Barasz, 2014-04-09
+Michael Thompson, 2012-08-06
+michaelt, 2013-01-31
+Michael Sloan, 2012-09-01
+Michael Baikov, 2015-07-10
+mgsloan, 2012-08-17
+mfeyg, 2014-09-17
+Maxwell Swadling, 2013-12-30
+Max New, 2014-01-04
+Maximilian Tagher, 2014-04-29
+Matvey B. Aksenov, 2014-03-16
+Matvey Aksenov, 2012-08-18
+Matthias Fischmann, 2017-07-08
+Mateusz Kowalczyk, 2014-03-13
+Mark Wright, 2013-01-20
+Markus Hauck, 2013-10-14
+Lukas Mai, 2013-02-04
+Luite Stegeman, 2014-03-03
+Liyang HU, 2012-11-20
+Kelly McLaughlin, 2017-03-21
+Joseph Abrahamson, 2013-03-05
+Jonathan Fischoff, 2013-12-22
+John Wiegley, 2013-12-01
+Johan Kiviniemi, 2012-11-24
+Jan-Philip Loos, 2013-10-25
+Jan Path, 2017-03-23
+Index Int, 2015-12-01
+Icelandjack, 2015-07-06
+Iain Lane, 2013-03-12
+Herbert Valerio Riedel, 2014-09-29
+Heather, 2015-12-28
+Hardy Jones, 2014-03-16
+Hao Lian, 2016-04-09
+Greg Weber, 2013-07-19
+Gerolf Seitz, 2013-06-13
+George Wilson, 2016-05-09
+Gabriel Gonzalez, 2015-05-30
+Gabor Greif, 2014-01-31
+Fumiaki Kinoshita, 2013-09-13
+Fraser Tweedale, 2015-12-09
+Eyal Lotem, 2012-08-04
+exbb2, 2013-02-23
+Eric Mertens, 2012-10-18
+Elliott Hird, 2012-12-05
+Edward Kmett, 2012-07-25
+Edward A. Kmett, 2012-08-04
+Doug Wilson, 2017-06-15
+Douglas Wilson, 2017-06-14
+doug, 2017-04-10
+Denis Redozubov, 2015-03-30
+ddc, 2015-07-20
+DDC, 2014-10-10
+David McFarland, 2014-10-24
+David Fox, 2016-12-01
+David Feuer, 2015-10-01
+Dan Rosén, 2012-12-07
+Daniel Martin, 2013-10-31
+Daniel Diaz, 2014-04-24
+Dan Burton, 2013-05-02
+Dag Odenhall, 2012-11-22
+Colin Woodbury, 2016-12-23
+Christopher Chalmers, 2015-05-24
+Chris Allen, 2015-01-06
+Carter Tazio Schonwald, 2012-08-16
+Carl Howells, 2015-07-09
+C. A. McCann, 2015-02-15
+Brent Yorgey, 2012-10-23
+Bradford Larsen, 2014-05-12
+Bertram Felgenhauer, 2014-04-26
+Benno Fünfstück, 2013-06-17
+Benjamin Jones, 2014-11-03
+Benjamin Hodgson, 2016-08-22
+Ben Gamari, 2013-11-05
+Bas van Dijk, 2014-05-20
+basdirks, 2013-01-03
+Bas Dirks, 2013-01-02
+Baldur Blöndal, 2015-06-24
+Austin Seipp, 2012-12-13
+Artyom, 2014-10-06
+Aristid Breitkreuz, 2012-12-07
+Anthony Cowley, 2014-03-04
+Andy Sonnenburg, 2013-10-13
+Andre Marianiello, 2015-07-08
+Andreas Källberg, 2015-03-24
+Alex Mason, 2016-11-15
+Alexis King, 2017-07-28
+Alex Belanger, 2016-03-09
+Alexander Kjeldaas, 2016-03-28
+Alexander Altman, 2012-10-21
+Aleksey Kliger, 2015-07-08
+aiya000, 2017-08-01
+Adrian Keet, 2012-11-20
+Adam Bergmark, 2015-02-12

@@ -1,0 +1,224 @@
+zorzella, 2017-01-24
+zhli, 2015-09-03
+zhenghua, 2017-03-16
+zgao, 2017-06-07
+yossik, 2016-01-14
+yorick, 2017-08-18
+yiuyuho, 2015-10-05
+yetanothernerd, 2015-01-20
+yangzhe, 2016-12-05
+wodomierz, 2016-06-16
+Vladislav Lisetskiy, 2015-11-04
+Vijay Kumar Adhikari, 2016-10-17
+vijaykakadiya, 2015-01-22
+turbanoff, 2016-10-05
+tobiast, 2016-08-17
+tobe, 2015-01-29
+Tim van der Lippe, 2016-09-27
+timswanson, 2016-02-26
+Thomas Harning Jr, 2016-02-18
+Thomas Beutler, 2017-03-27
+tball, 2015-09-03
+Tanghd, 2016-11-02
+svas, 2015-04-14
+suzhang, 2017-06-28
+sunxin, 2016-12-28
+Steve, 2016-03-22
+soroush, 2015-05-29
+sorenj, 2015-01-14
+slawek, 2016-05-03
+simionato, 2015-11-19
+shapiroc, 2016-05-19
+Sebastian Kürten, 2016-11-01
+seanabraham, 2016-10-27
+seabass, 2015-09-21
+sdh, 2014-11-14
+sclark, 2016-02-12
+sblessing, 2017-08-31
+sbills, 2016-10-15
+sameb, 2015-10-30
+Ron Shapiro, 2016-01-15
+ronshapiro, 2015-11-03
+rohitnaik, 2016-05-27
+rjudson, 2015-02-19
+rjamet, 2016-09-13
+ringwalt, 2016-12-14
+rckenned, 2016-04-19
+rajivprab, 2017-08-02
+ptucker, 2017-07-04
+ptab, 2017-08-21
+poddark, 2017-06-07
+pmarks, 2016-09-22
+plumpy, 2016-09-22
+plindner, 2017-01-03
+pkolloch, 2017-09-01
+Piotr Findeisen, 2017-06-21
+pferaud, 2016-10-28
+peyman, 2016-03-15
+peteg, 2015-02-11
+perneto, 2015-01-14
+perceptron8, 2015-10-23
+Pepper Lebeck-Jobe, 2017-07-06
+paulduffin, 2015-02-09
+Paolo Fulgoni, 2015-01-15
+olegv, 2014-12-17
+nrook, 2016-04-26
+nrhodes, 2014-12-17
+notcarl, 2017-07-13
+(no author), 
+nickfelt, 2017-02-16
+nharmata, 2015-09-28
+nanj, 2016-07-25
+namangoel, 2016-09-09
+myok, 2016-02-18
+mverver, 2016-05-20
+mritche, 2015-09-09
+mrhead, 2016-05-26
+moz, 2016-08-25
+Moriadry, 2017-09-01
+moradabdr, 2015-09-09
+MohandAndel, 2014-11-19
+moffitt, 2016-06-16
+mjiang, 2017-08-01
+Mikaël Barbero, 2012-02-08
+Michal Kordas, 2015-10-29
+michajlo, 2015-08-27
+michaelthomas, 2015-12-07
+michaelroger, 2016-04-04
+Michael Hausegger, 2017-05-25
+mboyington, 2014-12-17
+maxscheiber, 2015-11-06
+Matthias Sieber, 2016-10-05
+martinrb, 2014-12-17
+mardibiase, 2016-04-01
+Maiph, 2017-07-12
+lukes, 2014-11-10
+lugr, 2016-04-26
+lowasser, 2014-09-29
+Louis Wasserman, 2012-11-21
+livewire, 2016-02-02
+Liam Miller-Cushon, 2016-11-04
+Kwang Yul Seo, 2016-11-04
+kvs, 2017-03-14
+Kurt Kluever, 2011-11-16
+Kurt Alfred Kluever, 2016-10-05
+kstanger, 2015-06-26
+kmoon, 2015-12-29
+kkress, 2015-10-26
+Kevin Bourrillion, 2012-05-31
+kevinb@google.com, 2009-09-15
+kevinb, 2015-02-11
+Kartoffelsup, 2017-01-30
+Kannan Ekanath, 2017-08-28
+kak, 2014-10-29
+jrtom, 2016-01-13
+joshv, 2015-05-12
+Joshua O'Madadhain, 2016-10-28
+Josh Hawkins, 2017-08-08
+joshgiles, 2016-08-09
+josesc, 2016-06-27
+Jonathan Bluett-Duncan, 2016-09-29
+Jochen Schalanda, 2014-11-05
+jnyman, 2017-02-21
+jmelcon, 2016-10-11
+jlacey, 2016-07-25
+jijiang, 2017-03-03
+jhellrung, 2015-05-14
+jeremymanson, 2016-07-25
+jdcormie, 2015-02-11
+jdanz, 2017-04-18
+jcarnahan, 2016-06-28
+Jason Trump, 2017-02-22
+jasexton, 2016-01-07
+jart, 2016-01-14
+Jan Burkhardt, 2016-10-31
+jameslyon, 2016-07-06
+irogers, 2016-03-14
+Igor Kryvenko, 2017-08-01
+horatiu, 2015-06-26
+henrikb, 2016-04-20
+hamptos, 2014-11-19
+guava.mirrorbot@gmail.com, 2010-08-11
+gtener, 2015-04-14
+gsim, 2016-06-21
+Grzegorz Rożniecki, 2016-09-29
+gridman, 2015-01-15
+Gregory Kick, 2012-04-10
+gpike, 2015-11-10
+goktug, 2015-08-04
+goderbauer, 2015-01-14
+glorioso, 2016-11-04
+gioachin, 2015-08-03
+gak, 2015-03-20
+fry@google.com, 2011-01-27
+fry, 2015-02-11
+Freddy Boucher, 2016-10-25
+flan, 2017-06-30
+Filip Allberg, 2016-08-08
+eth, 2016-04-19
+esnickell, 2017-03-31
+erikv, 2015-08-18
+eranliberty, 2015-12-14
+emcmanus, 2014-12-17
+elharo, 2017-02-22
+eatnumber1, 2016-01-25
+eaftan, 2014-12-17
+Dzmitry Lazerka, 2016-11-04
+Dubrovsky Danil, 2016-06-13
+dsemy, 2016-06-21
+dpb, 2016-01-22
+dovwas, 2016-08-11
+dorir, 2017-03-01
+d.kanehira, 2016-11-02
+dkagedal, 2016-02-07
+diamondm, 2015-09-28
+dfarrow, 2016-11-17
+Dean de Bree, 2016-12-20
+dborowitz, 2015-01-14
+dbentley@google.com, 2010-06-03
+dbeaumont, 2014-11-04
+David Sheldon, 2016-09-13
+darick, 2015-10-26
+danstahr, 2015-03-16
+dankurka, 2015-07-14
+cushon, 2014-12-18
+croyer, 2015-04-24
+cpovirk, 2014-10-29
+congc, 2015-05-11
+components-release, 2015-04-14
+components-build, 2014-11-11
+Colin Decker, 2012-06-25
+Cody Lerum, 2015-05-20
+codewiz, 2016-07-13
+clm, 2014-12-30
+clawr, 2017-04-21
+cihatbas, 2015-07-28
+Christian Gruber, 2013-01-23
+Christian Edward Gruber, 2011-08-18
+Chris Povirk, 2011-12-05
+chrisn, 2015-05-12
+Charles Fry, 2011-08-17
+cgruberatgoog, 2010-04-12
+cgruber, 2015-09-30
+cgdecker, 2014-10-29
+cberry, 2015-06-03
+bul, 2015-07-24
+buffi, 2015-11-13
+Brian Worth, 2017-03-23
+brapaport, 2015-10-29
+bradfordcsmith, 2017-07-07
+bhagwani, 2016-06-07
+benyu, 2014-12-03
+Ben Manes, 2015-11-30
+bcorso, 2016-03-02
+barcalow, 2014-12-17
+Bahadir AKIN, 2017-01-31
+awturner, 2016-03-31
+ashishjoshi, 2017-05-08
+ashersb, 2016-04-20
+Arend v. Reinersdorff, 2016-11-04
+aravinds, 2014-12-17
+andrewrice, 2017-05-25
+Andrei Korzhevskii, 2016-04-15
+Alberto Goffi, 2015-07-07
+advorak, 2017-04-19

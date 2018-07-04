@@ -1,0 +1,213 @@
+Данило Глинський (Danylo Hlynskyi), 
+y-ken, 2013-06-22
+Vlad K, 2016-09-29
+Vincent Danjean, 2012-09-02
+Vincas Dargis, 2016-11-15
+Viljo Viitanen, 2013-01-22
+Viktor Szépe, 2014-12-11
+Veres Lajos, 2014-12-04
+Vadim Zeitlin, 2014-08-22
+Ulrik Haugen, 2009-10-24
+tsaavik, 2013-02-15
+Trygve Vea, 2010-10-01
+Tore Anderson, 2004-01-17
+Tom Hendrikx, 2013-11-16
+Tom Feiner, 2009-09-24
+Tollef Fog Heen, 2008-05-13
+Tobias Kappé, 2016-02-22
+Tim Besard, 2013-05-11
+Thorsten Gunkel, 2012-09-22
+tbear2500, 2014-05-21
+Taylor Jasko, 2013-03-29
+Tatjana Anderson, 2009-05-20
+sumpfralle, 2017-08-28
+Stig Sandbeck Mathisen, 2004-01-15
+Steve Schnepp, 2010-01-19
+Steven Lewis, 2013-06-26
+Stefan Rubner, 2013-01-14
+ssm@fnord.no, 2013-12-06
+Simon Whittaker, 2014-10-23
+shapirus, 2016-01-24
+Servilio Afre Puentes, 2014-05-09
+Sergey Ivanov, 2013-06-02
+Serge Smetana, 2015-04-06
+Sebastian Noack, 2012-11-16
+Ruslan Kabalin, 2013-01-18
+runesk, 2014-01-06
+Rune Nordbøe Skillingstad, 2004-11-08
+^Rooker, 
+Rob Speed, 2016-02-23
+Rob Shortt, 2014-10-16
+Robin H. Johnson, 2012-08-09
+Robert Rothenberg, 2014-03-22
+Robert, 2013-01-27
+Raphaël Droz, 2017-03-27
+rantal, 2015-10-07
+Rado Rovny, 2010-02-03
+Quentin Stoeckel, 2015-04-11
+Quentin S, 2015-04-03
+Quentin S., 2015-01-20
+pneuly, 2014-12-04
+Picnic Pete, 2014-10-28
+Philipp Toelke, 2013-04-10
+Philipp Niemann, 2008-05-23
+Peter Suschlik, 2015-12-28
+Peter Palfrader, 2012-08-28
+Peter J. Holzer, 2016-12-10
+Ørjan Ommundsen, 2014-10-21
+nusenu, 2015-06-22
+nii_kenichi, 2015-10-08
+Night1, 2017-05-15
+Nicolas Dandrimont, 2013-03-25
+Nicolai Langfeldt, 2006-10-18
+Niall Donegan, 2012-08-16
+Nanotech DESU, 2014-01-26
+Mrten, 2013-06-04
+M. Maraun, 2015-09-27
+Mikhail Lukyanchenko, 2013-11-20
+Michiel Holtkamp, 2013-09-05
+Michal Cihar, 2012-12-26
+Michael Scherer, 2014-12-21
+Michael 'PoempelFox' Meier, 2015-08-27
+mcarton, 2015-07-27
+Matt West, 2012-06-09
+Matthias Schmitz, 2007-12-15
+Matthew Boyle, 2009-03-27
+Mathieu Arnold, 2016-08-04
+Martin Sucha, 2015-10-30
+Martin Bureau, 2013-06-05
+Mark Saad, 2017-04-11
+Mark Meyer, 2013-04-30
+Mark H. Wood, 2016-05-08
+Marc Schütz, 2012-11-06
+Marcello Barnaba, 2014-01-13
+Malte S. Stretz, 2012-08-06
+Magnus Hagander, 2009-09-01
+Lupe Christoph, 2004-01-26
+Luke Koberstein, 2012-06-04
+Lucas Holt, 2016-10-27
+lr1980, 2014-08-03
+Lionel Sausin, 2013-11-18
+Lee Clemens, 2015-01-11
+leeclemens, 2013-03-14
+Lasse Karstensen, 2013-02-24
+Lars Thegler, 2014-01-11
+Lars Kruse, 2017-03-04
+Kristian Lyngstøl, 2009-04-14
+ko-zu, 2012-12-28
+Knut Haugen, 2009-11-03
+klemens, 2017-03-11
+Klaus S. Madsen, 2014-10-06
+Klas Meder Boqvist, 2014-04-08
+Kjetil Torgrim Homme, 2005-02-26
+Kjell-Magne Øierud, 2009-03-03
+Kirill Bychkov, 2013-01-21
+Kim B. Heino, 2013-03-25
+Kieran Clancy, 2015-09-12
+Kenyon Ralph, 2011-09-13
+K.Cima, 2017-03-15
+Kazunori Kojima, 2012-09-25
+Justin Muller, 2014-01-12
+Juho Juopperi, 2012-10-09
+Jose-Marcio Martins da Cruz, 2014-02-03
+Jorne Kandziora, 2010-12-09
+Jon Whiteman, 2012-10-02
+Johann Bauer, 2017-01-08
+Joerg Jaspert, 2014-10-06
+Joar Jegleim, 2008-05-13
+Jimmy Shen, 2013-11-12
+Jimmy Olsen, 2004-01-02
+Jeremy Olexa, 2012-07-16
+Jens Holzkämper, 2013-03-06
+Jean-Louis Dupond, 2015-01-20
+Jason Woods, 2015-01-23
+ivanzolotuhin, 2013-12-24
+IvAnZ, 2014-01-17
+Iván Montoro, 2015-01-29
+ivan, 2013-01-30
+intrigeri, 2012-11-27
+InsanePrawn, 2016-08-21
+Ingvar Hagelund, 2004-02-07
+Igor Kolar, 2013-10-17
+Holger Levsen, 2009-05-28
+Hiroshi Shirosaki, 2016-12-15
+Hiroaki Abe, 2013-04-27
+Herwin Weststrate, 2015-04-14
+Harald Kraemer, 2013-10-16
+Harald Korneliussen, 2009-05-22
+Hans van Kranenburg, 2016-05-02
+Gerald Turner, 2012-12-26
+Gael, 2013-02-02
+Gabriele Pohl, 2014-08-26
+Gabriele, 2014-08-24
+Gabor Szabo, 2012-11-18
+Ferenc Wágner, 2016-04-18
+erpel, 2013-07-30
+Erik Sjölund, 2015-03-24
+Erik Inge Bolsø, 2013-09-30
+Erik I. Bolsø, 2009-09-07
+elmuerte, 2013-05-29
+Eero Häkkinen, 2014-11-24
+Ed Szynaka, 2015-05-27
+duritong, 2015-01-09
+driskell, 2014-07-19
+Dongsik Park, 2015-09-17
+Dmitry Marakasov, 2015-03-05
+D. Johnson, 2012-12-09
+diSabler, 2013-12-03
+dipohl, 2013-06-15
+Diego Elio Pettenò, 2012-07-16
+Devin Howard, 2015-12-16
+Dave Shevett, 2015-04-29
+Darac Marjal, 2015-04-04
+Dan McGee, 2012-07-01
+Daniel Reichelt, 2016-08-23
+Daniel Kahn Gillmor, 2012-07-02
+Daniel Black, 2012-11-25
+Dagfin Ilmari Mansåker, 2004-08-24
+Cyril Bouthors, 2014-04-15
+Claudius Herder, 2013-05-04
+Claudius, 2013-05-04
+chteuchteu, 2015-01-19
+Christoph Biedl, 2012-07-03
+Christian Ruppert, 2012-07-16
+Christian Loos, 2014-01-24
+Chen-Yu Tsai, 2012-08-09
+Charles RAPENNE, 2013-02-27
+chapmajs, 2014-03-25
+cgzones, 2013-12-07
+cernst1980, 2014-03-19
+cdep.illabout, 2013-06-28
+Camilo Sperberg, 2014-07-31
+Brian Prodoehl, 2014-02-09
+Brian De Wolf, 2008-11-14
+Bram Schoenmakers, 2014-09-10
+bra-fsn, 2014-09-02
+bovarysme, 2017-03-13
+Bjørn Ruberg, 2006-10-06
+Bjørn Forsman, 2015-01-03
+Bill Thiede, 2013-02-27
+Benjamin Pineau, 2012-09-28
+Békefi Gábor, 2016-11-26
+Basil Upornikov, 2015-03-04
+Bas Couwenberg, 2017-03-22
+Baptiste Jonglez, 2017-08-27
+Axel Huebl, 2014-02-09
+Automatic Commit, 2004-01-02
+Audun Ytterdal, 2004-03-14
+Artur Smęt, 2015-06-07
+Arran Cudbard-Bell, 2015-01-24
+Anton Tolchanov, 2012-10-17
+Andre Klärner, 2014-06-08
+Andreas Teuchert, 2015-12-23
+Andreas Maus, 2016-02-20
+Andrea Piccinelli, 2012-10-10
+Anders Ossowicki, 2014-09-05
+Alexander Shorin, 2014-01-29
+Alexander, 2015-12-06
+Alan, 2017-02-13
+AJ Ferrick, 2014-07-07
+Adrien "ze" Urban, 2012-08-13
+Adrien Chardon, 2016-02-19
+Adam Woodbeck, 2014-04-18
+absh, 2016-01-16

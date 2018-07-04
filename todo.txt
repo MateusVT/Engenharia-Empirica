@@ -1,0 +1,47 @@
+Apresentação de Empírica (máximo 20 minutos)
+04 e 05 de junho
+
+- Problema, Questões de Pesquisa, Método, Resultados, Ameaça à Validade.
+- Subir tudo no github
+- Escrever um relatório técnico (sobre scripts, ferramentas utilizadas, etc)
+
+
+- Quanto tempo cada projeto ta usando a label;
+- Issue usada a muito tempo pode ser falso positivo;
+- Fzer o rank de uso por linguagem;
+
+- Se não possuir label X se tiver na planilha e não tiver na coleta
+- Coletar todas as issue e salvar em json (ou xlsx)
+- Coletar todas as issue com a label
+- Coletar todas as issue abertas e salvar em json (ou xlsx)
+- Coletar todas as issue abertas com a label
+- Coletar todas as issue fechadas e salvar em json (ou xlsx)
+- Coletar todas as issue fechadas com a label
+- Script de coleta da data da primeira ocorrência de uma issue com a label para novato, deve coletar a data de todas as labels de novato registradas e verificar qual é a mais antiga, salvando essa data e registrando a label mais antiga.
+
+O Script coleta a data de criação da primeira issue (mais antiga) que utilizou a label em questão.
+
+30 Projetos do top 15 Linguagens de acordo com o Fronchetti
+Coletar a data da ocorrência da primeira utilização de label para novato no projeto.
+	- As labels relacionados nos projetos do arquivo Projects Fronchetti With NewComerLabel, foram encontradas atravez de um script que buscou no vetor de labels de cada um dos projetos, ocorrências de labels iguais as bases de validação criadas anteriormente. (Ta bem escrito no email que mandei pros caras recentemente)
+	- Em casos de mais de uma label, deve se comparar a data de cada uma delas e pegar a mais antiga.
+
+Alguns casos estão trocando as issues que a gente coletou e aderindo a sugestão do github. (Recente)
+
+O projeto LightTable além de trocar a issue para novato, também incluiu uma hit na issue.
+
+Amostra geral: 431 projetos (100%)
+Amostra com label para novatos: 253 projetos (58,7%)
+
+Problemas:
+	1 - Em relação as labels (56 projetos com esse problema encontrados) - 22,1% dos 253 projetos
+		1.1 - Trocou de nome a label usada para novatos
+		1.2 - Nao existe issue que utiliza tal label
+
+	2 - Em relação à migração (16 projetos com esse problema encontrados) - 6,3% dos 253 projetos
+		2.1 - O projeto trocou de dono
+		2.2 - O projeto trocou de nome e/ou de dono
+
+OBS: a data que a gente coleta encontra-se em: "comments": 3,
+      											"created_at": "2009-11-25T21:43:01Z",
+	

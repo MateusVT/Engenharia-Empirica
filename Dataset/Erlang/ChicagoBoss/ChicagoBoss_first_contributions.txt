@@ -1,0 +1,79 @@
+Zachary Kessin, 2013-12-01
+Yannick Guay, 2014-01-03
+winlu, 2014-05-20
+Vorn, 2011-10-01
+Vitor Pellegrino, 2012-09-15
+vagrant, 2013-11-14
+uselessd, 2015-08-08
+unknown, 2010-11-09
+Tuong Nguyen Manh, 2015-06-27
+Tomasz Kowal, 2013-11-27
+Tomas Morstein, 2012-05-01
+Tim McNamara, 2012-07-28
+tempaccounterl, 2013-08-18
+strobe, 2010-11-09
+samrose, 2013-11-22
+Rune Juhl Jacobsen, 2012-08-23
+Richard Diamond, 2013-06-09
+rambocoder, 2012-04-05
+Przemysław Dąbek, 2012-02-18
+Pius Uzamere, 2013-07-06
+Orlando Jimenez, 2015-09-08
+Nikolay Garanko, 2013-03-01
+Niclas Axelsson, 2013-06-24
+mihawk, 2011-11-30
+Michael Simpson, 2013-12-23
+Michael LaCroix, 2014-01-27
+me, 2013-08-19
+Max Lapshin, 2012-09-03
+Matt Husby, 2011-10-04
+Matthew Moss, 2013-07-03
+Lucas Introne, 2013-05-13
+Leon Mergen, 2015-09-07
+Lejdborg, 2011-11-01
+kotedo, 2012-01-30
+Ken Rose, 2014-04-23
+Kai Janson, 2011-11-07
+Jose Luis Gordo Romero, 2011-06-23
+jgordor, 2011-02-26
+Jesse Gumm, 2014-03-06
+Javad Karabi, 2014-02-05
+Ilya Shuma, 2013-10-04
+Igor Clark, 2013-08-30
+Hugo Jobling, 2014-03-21
+Grzegorz Stanislawski, 2011-11-24
+Graeme Defty, 2016-01-04
+Fredrik de Vibe, 2012-04-10
+Evgeny M., 2013-10-30
+Evan Miller, 2009-09-27
+Eric Cestari, 2013-07-08
+Eduardo Gurgel, 2013-05-17
+Dmitry Rozhkov, 2011-05-01
+Dmitry Polyanovsky, 2014-01-03
+Dmitry, 2016-06-24
+Dima, 2013-01-26
+David Robakowski, 2014-07-17
+David N. Welton, 2013-01-24
+Darko Fabijan, 2013-06-09
+danikp, 2015-01-18
+Daniel Connolly, 2012-07-25
+Cuong Thai, 2014-02-09
+cuongth, 2013-07-11
+Chvanikoff, 2012-09-18
+Chris Spiegel, 2013-04-09
+Chan Sisowath, 2013-12-03
+chan sisowath, 2012-07-16
+chan, 2013-10-25
+Bip Thelin, 2012-01-09
+Bernard Duggan, 2012-10-04
+Arkadiy Drovosekov, 2014-01-26
+Ángel Herranz, 2014-11-11
+Andrew Shu, 2014-01-03
+Andreas Stenius, 2014-02-04
+Andreas Heil, 2014-06-02
+Alex Marandon, 2011-01-18
+Alexandru Pirvulescu, 2011-09-01
+Akash Manohar J, 2013-05-05
+Ahmed Shafeeq, 2013-10-10
+Adrian Rosian, 2014-12-30
+Adam Lindberg, 2012-02-05

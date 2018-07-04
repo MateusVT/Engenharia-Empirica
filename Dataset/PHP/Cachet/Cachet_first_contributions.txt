@@ -1,0 +1,126 @@
+Zach Auclair, 2015-06-18
+Yongmin Hong, 2015-10-06
+William Durand, 2015-01-06
+Walter Dal Mut, 2015-01-08
+Vincent Klaiber, 2015-04-28
+Valentin PRUGNAUD, 2015-01-05
+ulrik nielsen, 2015-10-05
+Travis Swientek, 2016-06-27
+Tobias Brunner, 2015-09-09
+Tim Davies, 2017-03-01
+Thomas Coleman, 2014-11-27
+Thijs Kinkhorst, 2016-12-20
+Theo Bearman, 2015-10-27
+The Gitter Badger, 2014-11-25
+Sohel Rana, 2017-05-17
+Sean Mangar, 2016-10-31
+SamuelMoraesF, 2014-12-29
+Sam McLeod, 2015-02-21
+Sam, 2015-01-02
+Ryan Trauntvein, 2015-06-18
+Roman Kinyakin, 2016-04-19
+Reginaldo Junior, 2015-12-24
+Quentin Valmori, 2015-01-02
+phpGitAdmin, 2015-11-16
+Philip Manavopoulos, 2014-11-24
+Phelipe Alves de Souza, 2015-11-01
+Phecho, 2015-11-11
+phecho, 2015-11-10
+Peter Lewis, 2017-05-19
+Peter Dave Hello, 2016-07-12
+Ozzy Simpson, 2017-06-24
+Oluf Lorenzen, 2015-01-13
+Noah Bass, 2015-01-08
+Nikolay Gorylenko, 2015-07-28
+Nicolas Fagotti, 2016-10-24
+Nick Peelman, 2016-07-18
+Nassim Ait boufrad, 2016-01-21
+naabster, 2015-04-22
+Mooash, 2015-01-14
+Mike Willbanks, 2016-12-07
+Miguel Piedrafita, 2017-07-19
+Michael Mollick, 2015-10-19
+Michael Babker, 2015-08-27
+Max Gfeller, 2015-10-15
+Max, 2017-06-07
+Matteo Giachino, 2015-01-06
+Matt Clements, 2015-01-02
+Matej Kieres, 2015-02-14
+Martin Bastien, 2015-01-14
+Mark Beech, 2014-12-18
+Marius Palade, 2016-10-02
+Marc Dequènes (Duck), 
+manuelgu, 2015-10-02
+manavo, 2014-11-24
+Maarten Eyskens, 2015-01-07
+Luc Didry, 2015-06-12
+Léo Colombaro, 2015-05-15
+lenovouser, 2016-02-08
+lbriggs, 2014-12-31
+Laravel Shift, 2016-10-19
+Kyoungwon Lee, 2015-01-04
+Konstantin Suvorov, 2016-04-18
+Julien, 2015-01-25
+jsw, 2015-04-19
+Joseph Cohen, 2014-12-27
+Joe Cohen, 2014-12-30
+JLamim Projetos Web & Mobile, 2015-10-01
+Jeroen Coupé, 2016-10-17
+jcherqui, 2015-03-12
+Jasper Swaagman, 2015-06-16
+Janyk Steenbeek, 2015-10-06
+Jan Vansteenlandt, 2015-01-22
+James King, 2015-01-01
+James Brooks, 2014-11-16
+iAidan, 2016-10-19
+HipsterBrown, 2014-11-29
+Hereward Mills, 2015-12-07
+guanshiliang, 2015-11-15
+Greg Karékinian, 2015-07-31
+greenkeeperio-bot, 2016-11-02
+Graham Campbell, 2014-11-27
+gm-ah, 2015-05-14
+George Miller, 2015-03-31
+gellu, 2016-05-24
+Gabe Conradi, 2015-01-13
+François Conil, 2015-02-19
+Foster Forst Snowhill, 2015-10-28
+Florian Chrometz, 2015-10-01
+Fabian Vogler, 2016-03-17
+Fabian Laule, 2015-06-21
+Emanuel Winblad, 2016-03-14
+Elliot Hesp, 2014-11-26
+EdeMeijer, 2015-04-18
+duck-rh, 2017-04-24
+DivineOmega, 2015-06-23
+Diego Saint Esteben, 2015-01-24
+demlasjr, 2014-12-21
+David Fernández, 2015-10-02
+Davide Bellini, 2015-10-01
+Danny Carrillo, 2016-07-01
+Constantin Rack, 2014-11-20
+Connor S. Parks, 2016-08-13
+Christian Bartelt, 2016-01-04
+Chenggang Wang, 2017-04-06
+Chase Coney, 2015-06-30
+Carlos Eduardo, 2016-06-24
+Bennett Blodinger, 2015-01-01
+Benjamin Paap, 2015-10-18
+Arnaud Ligny, 2015-01-02
+ApfelUser, 2015-10-03
+Antoine GIRARD, 2016-09-06
+Antoine Augusti, 2015-10-02
+Andy Grunwald, 2015-07-24
+Andrew Goktepe, 2015-09-09
+Andreas Lutro, 2016-04-27
+amond, 2015-06-17
+Alex Richards, 2015-01-02
+Alex Olshansky, 2016-02-09
+Alexey Vasilyev, 2015-06-22
+agilmore, 2016-01-18
+Aden Fraser, 2017-06-23
+Adam Lavin, 2015-04-20
+Adam Curtis, 2015-02-27
+Achilleas Pipinellis, 2015-12-12
+Abhimanyu Sharma, 2016-10-01
+Aaron C. de Bruyn, 2014-12-24

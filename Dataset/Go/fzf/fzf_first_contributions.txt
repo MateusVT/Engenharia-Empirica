@@ -1,0 +1,77 @@
+五所和哉, 2017-04-01
+Wojciech Siewierski, 2013-11-10
+William Chargin, 2016-04-14
+Uri Gorelik, 2017-06-08
+Tw, 2017-05-25
+Tom Fitzhenry, 2017-06-25
+Tom Cammann, 2014-05-26
+Tobias Frilling, 2016-08-28
+Tiziano Santoro, 2015-05-11
+Theodore Dubois, 2017-05-05
+Sergey Vlasov, 2016-02-16
+Sencer Selcuk, 2014-06-18
+Sebastian Reuße, 2016-07-05
+Sean, 2016-07-09
+Sam Van Den Berge, 2017-03-21
+Robin Roth, 2015-05-09
+Prabir Shrestha, 2017-02-07
+Pokey Rule, 2015-12-07
+Pierre Neidhardt, 2016-10-11
+Patrick Donelan, 2014-06-23
+Omer Katz, 2014-12-28
+Oliver Schrenk, 2015-04-25
+Oliver Kiddle, 2015-06-21
+Niraj Thapaliya, 2016-10-13
+Miodrag Milić, 2017-03-30
+Miles Whittaker, 2014-09-14
+Mike Hearn, 2017-09-01
+Michał Kalbarczyk, 2015-08-30
+Michael Smith, 2017-09-05
+Michael Rapadas, 2015-03-26
+Michael Kelley, 2016-11-07
+Maverick Woo, 2016-09-24
+Matt Westcott, 2016-03-28
+Marco Hinz, 2015-04-10
+Leandro Freitas, 2015-11-06
+Laur Aliste, 2016-11-08
+Kouki Higashikawa, 2017-04-03
+Kobe Lipkens, 2015-12-25
+Kassio Borges, 2015-06-13
+Justin M. Keyes, 2015-04-13
+Junegunn Choi, 2013-10-24
+Joshua Rubin, 2016-08-28
+John Nguyen, 2017-06-12
+Jim Howell, 2016-06-02
+Jan Edmund Lazo, 2017-01-01
+James Sully, 2015-05-09
+James Baumgarten, 2015-09-26
+Jacob Niehus, 2014-07-17
+Jack O'Connor, 2017-08-28
+Jack Danger Canty, 2015-01-01
+ishanray, 2016-09-10
+Giulio Iotti, 2015-06-08
+Gene Pavlovsky, 2016-04-23
+Evgeny Vereshchagin, 2015-07-04
+Edgar Lee, 2017-06-01
+Edgar Hipp, 2016-06-10
+Dominik Honnef, 2015-06-07
+Daniel Hahler, 2015-01-25
+Daniel Gray, 2017-02-09
+Christian Wellenbrock, 2014-02-25
+Christian Sturm, 2017-03-10
+Chaoren Lin, 2015-12-11
+Chad Skeeters, 2014-05-28
+Bryan Head, 2015-04-11
+brettanomyces, 2014-12-13
+Benoît Faucon, 2014-08-30
+Austin Ziegler, 2015-10-01
+Aurelien Rainone, 2017-05-20
+Arseniy Seroka, 2014-11-30
+Anmol Sethi, 2016-02-11
+Andrey Kashin, 2016-06-01
+Andrew Halberstadt, 2017-07-28
+Andreas Böttger, 2014-05-20
+Amos Bird, 2017-01-16
+Alexey Shamrin, 2017-07-25
+Alex Cornejo, 2015-11-18
+Aleks Kamko, 2016-06-11

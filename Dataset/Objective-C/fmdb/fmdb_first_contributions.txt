@@ -1,0 +1,72 @@
+Yasuhiro Inami, 2013-02-27
+Victor, 2013-01-16
+Vera Tkachenko, 2011-11-22
+Tobias Kräntzer, 2016-02-25
+Timur Islamgulov, 2013-12-05
+Stephan Heilner, 2014-09-16
+Stefan Sechelmann, 2015-05-31
+Sriram Patil, 2011-12-09
+Skylar Schipper, 2015-10-02
+Simon Harris, 2015-03-23
+Shay Erlichmen, 2013-07-21
+Sebastian Celis, 2014-06-23
+Roshan Muralidharan, 2014-10-09
+Rob Ryan, 2013-06-03
+Robert Reiz, 2014-08-11
+Robert M. Ryan, 2015-08-02
+robertmryan, 2013-06-02
+Robert La Ferla, 2014-05-13
+regexident, 2013-10-02
+Pierre Bernard, 2016-04-05
+Phillip Kast, 2013-04-05
+Patrick Piemonte, 2013-07-24
+Pascal Pfiffner, 2010-12-18
+openthread, 2014-04-07
+NachoSoto, 2013-11-06
+Mike Ash, 2014-01-17
+Michal Zelinka, 2016-11-14
+Michal Pietras, 2014-01-24
+Matt Pakes, 2011-08-09
+MATSUKI.Hidenori, 2013-03-07
+Marco Arment, 2016-02-27
+Joshua Tessier, 2013-05-07
+Jonathan Gander, 2015-06-26
+John Gorenfeld, 2015-11-18
+Jim Correia, 2013-02-19
+Jeffrey Jackson, 2015-04-01
+Jean-Jacques MERILLON, 2013-09-04
+imoldman, 2014-01-07
+Hilton Campbell, 2014-05-07
+Harshita Chandra, 2015-06-12
+Gwyn Judd, 2013-10-22
+Graham Dennis, 2013-10-18
+Geoffrey Foster, 2012-08-05
+frankenbot, 2015-11-04
+Fjohn666, 2015-10-23
+Felix Krause, 2016-12-08
+everettjf, 2015-10-21
+Evan D. Schoenberg, M.D, 2015-08-17
+Etienne Samson, 2013-09-08
+Doug Puchalski, 2013-04-04
+dodikk, 2012-05-07
+David Hart, 2014-01-17
+David E. Wheeler, 2010-11-29
+Dave DeLong, 2011-03-11
+DanOrange, 2014-01-17
+Daniel Dickison, 2013-01-21
+Dale Jefferson, 2014-07-03
+Costea Lungu, 2014-10-02
+Constantin Lungu, 2014-10-03
+Cody Coons, 2013-10-18
+Clemens Gruber, 2015-01-17
+Chris Utz, 2015-11-01
+Christian Kienle, 2014-12-29
+ccgus, 2010-07-06
+Blake Watters, 2014-12-16
+Bennett Smith, 2016-05-24
+August Mueller, 2010-08-19
+August "Gus" Mueller, 2011-08-17
+Augie Fackler, 2010-09-20
+A. R. Younce, 2014-05-31
+Anton Sotkov, 2013-06-06
+Andrew Goodale, 2014-03-28

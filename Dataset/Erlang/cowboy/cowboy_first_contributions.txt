@@ -1,0 +1,107 @@
+Yurii Rashkovskii, 2011-04-30
+YAMAMOTO Takashi, 2013-09-03
+Yakov, 2015-02-17
+Witeman Zheng, 2016-08-22
+Vladimir Dronnikov, 2013-01-25
+Unix1, 2013-01-05
+Tristan Sloughter, 2013-02-01
+Tom Burdick, 2011-07-26
+Tomas Morstein, 2014-07-26
+Tim Dysinger, 2012-03-08
+Thomas Nordström, 2012-12-14
+Thomas Gebert, 2015-10-28
+Takeru Ohta, 2014-12-05
+Steven Magelowitz, 2017-05-05
+Steven Gravell, 2011-06-27
+Stefan Strigler, 2014-10-08
+Slava Yurin, 2013-01-22
+Sina Samavati, 2014-02-16
+Seven Du, 2012-07-31
+Sergey Urbanovich, 2013-06-07
+Sergey Rublev, 2013-06-07
+Sergey Prokhorov, 2013-08-13
+sergey-ivlev, 2016-07-26
+serge, 2012-11-27
+Seletskiy Stanislav, 2013-04-26
+Sasan Hezarkhani, 2016-12-22
+Roberto Ostinelli, 2012-02-20
+RJ, 2013-08-15
+Richard Ramsden, 2013-01-17
+rambocoder, 2013-03-06
+Radosław Szymczyszyn, 2013-06-02
+pmyarchon, 2013-07-18
+Peter Ericson, 2014-01-07
+Paulo Oliveira, 2014-06-30
+Paul Oliver, 2011-10-24
+Pablo Vieytes, 2013-01-30
+Ori Bar, 2011-09-26
+Nakai Ryosuke, 2014-06-28
+Michiel Hakvoort, 2011-09-30
+Michael Truog, 2014-08-12
+Max Lapshin, 2011-12-08
+Matthias Endler, 2013-06-27
+Mathieu Lecarme, 2011-10-25
+Magnus Klaar, 2011-09-29
+Loïc Hoguin, 2011-03-17
+Kuk-Hyun Lee, 2013-08-01
+Klaus Trainer, 2013-11-26
+katsel, 2016-05-25
+Julian Squires, 2012-11-10
+Juan Puig, 2015-05-06
+Josh Toft, 2012-10-01
+Josh Marchán, 2012-07-24
+Josh Allmann, 2012-10-13
+José Valim, 2012-10-11
+Johan Lövdahl, 2017-01-04
+jmccaughey, 2015-05-29
+Jesper Louis Andersen, 2011-10-10
+Jeremy Ong, 2012-12-22
+Jean-Sébastien Pédron, 2017-01-24
+James Fish, 2013-02-16
+Ivan Lisenkov, 2013-01-30
+Ivan Blinkov, 2012-10-27
+Hunter Morris, 2011-06-21
+Hans Ulrich Niedermann, 2011-03-23
+Graham Hay, 2015-01-19
+Gary Rennie, 2017-04-18
+Fred Hebert, 2014-07-14
+Eric Bailey, 2016-01-06
+Eiichi Tsukata, 2013-12-12
+Egobrain, 2013-02-21
+Eduardo Gurgel, 2013-07-08
+Drew Varner, 2014-06-10
+Drew, 2014-01-24
+Dmitry Groshev, 2012-03-22
+derdesign, 2012-12-10
+DeadZen, 2012-02-08
+dbmercer, 2012-10-11
+David N. Welton, 2015-05-06
+David Kelly, 2012-02-02
+Dave Peticolas, 2013-04-06
+Danielle Sucher, 2013-11-08
+Cristian Hancila, 2012-11-27
+Christopher Adams, 2016-10-18
+Cameron Bytheway, 2012-12-30
+Boris Faure, 2012-09-17
+Bob Ippolito, 2012-04-24
+Blake Gentry, 2013-05-31
+Anthony Ramine, 2011-03-29
+Andrzej Sliwa, 2013-04-12
+Andrew Thompson, 2012-04-06
+Andrew Majorov, 2013-01-26
+Andrew Houghton, 2014-10-01
+Andrei Soroker, 2015-12-11
+Andre Graf, 2012-12-06
+alisdair sullivan, 2011-12-12
+Ali Sabil, 2011-09-06
+Alex Prut, 2016-08-31
+Alex Kovalev, 2015-05-06
+Alexey Lebedeff, 2015-08-07
+Alexei Sholik, 2013-11-14
+Alexandre Snarskii, 2017-05-07
+Alexander Færøy, 2015-07-05
+Adrian Roe, 2013-11-08
+Adam Cammmack, 2013-02-06
+Adam Cammack, 2013-02-07
+0xAX, 2013-02-14
+0x00F6, 2013-01-22

@@ -1,0 +1,10 @@
+Tim Ewald, 2014-06-30
+Rich Hickey, 2014-07-04
+puredanger, 2014-06-27
+Paul deGrandis, 2014-07-18
+dnolen, 2015-12-21
+David Nolen, 2014-07-24
+David Chelimsky, 2014-07-18
+Cognitect Pair, 2014-09-18
+Ben Kamphaus, 2014-09-03
+Alex Miller, 2014-06-26

@@ -1,0 +1,88 @@
+Zachary R. Smith, 2015-10-01
+youarebeautiful, 2016-01-16
+Willson Mock, 2015-03-02
+Vitaly Lischenko, 2013-09-08
+Tony Pitluga, 2013-01-07
+Takashi AOKI, 2013-06-10
+stefano.pugnetti, 2014-11-05
+sp3ctum, 2014-05-24
+serj, 2016-02-26
+serialhex, 2013-06-12
+Sean Johnson, 2013-09-19
+scientific-coder, 2013-02-16
+Samy Dindane, 2013-07-18
+Sam Umbach, 2015-03-29
+Sam Estep, 2016-07-19
+Sahil Bajaj, 2016-02-09
+Ryan Kaskel, 2013-08-17
+ryan, 2016-02-22
+russell, 2017-05-16
+Robert Pitts, 2012-11-08
+riwsky, 2013-02-14
+Puneeth Chaganti, 2016-08-24
+Petr Gladkikh, 2015-01-05
+PersephoneKurt, 
+Oliver George, 2013-10-10
+NoodleWiz, 2013-07-22
+nchurch, 2013-02-12
+Mimmo Cosenza, 2012-11-03
+Mimmmo Cosenza, 2013-09-14
+michaelochurch, 2013-09-04
+Max Countryman, 2013-04-21
+Matt Oquist, 2013-12-12
+Mathieu Agopian, 2015-10-25
+Mark Simpson, 2014-08-18
+Marcus Blankenship, 2013-07-31
+manuTro, 2017-03-06
+Magomimmo, 2013-07-26
+magomimmo, 2012-11-03
+Lucas Tadeu Teixeira, 2016-10-30
+Lewis Dackam, 2016-05-07
+learningcljs, 2016-03-23
+Kyle Sexton, 2016-01-21
+Kevin Ndung'u, 2016-10-25
+Jonathan Chen, 2016-06-02
+johann bestowrous, 2013-10-09
+Joel Whittaker-Smith, 2016-03-08
+Jim Tittsler, 2013-09-11
+Jim Riordan, 2016-05-03
+James Cash, 2013-11-11
+James Campos, 2013-02-13
+Jacek Podkanski, 2017-03-25
+Ilshad Khabibullin, 2013-07-19
+Ian Bishop, 2013-05-10
+Henry Marshall, 2017-04-17
+groakat, 2016-01-12
+greywolve, 2013-02-08
+Greg Slepak, 2013-06-25
+GiovanniFerrari, 2017-02-24
+Giovanni Ferrari, 2017-02-02
+Giovanni Borghi, 2016-07-07
+Giacomo Cosenza, 2012-11-07
+Francis Wolke, 2013-05-25
+Fabian, 2013-12-16
+Erik Bakstad, 2013-01-22
+elenacanovi, 2017-03-07
+Elena Canovi, 2017-02-22
+dlchet, 2016-12-27
+David Zukowski, 2016-06-28
+David Kinzer, 2016-01-12
+David Goldfarb, 2013-04-12
+Dave Yarwood, 2016-04-11
+Darrick Wiebe, 2013-02-06
+daplay, 2016-03-20
+Dan Fornika, 2017-06-09
+Chris Kaltwasser, 2013-02-27
+burningTyger, 2016-09-11
+Brian Muhia, 2014-01-19
+Bitdeli Chef, 2013-12-21
+Benoit Coste, 2017-03-22
+Ben Moss, 2013-02-06
+Ben Kaplin, 2013-07-05
+Bastien, 2013-11-27
+bananaoat, 2015-12-11
+Andrey Neverov, 2013-12-21
+André Luiz dos Santos, 2017-07-08
+Alan Thompson, 2016-02-02
+agofilo, 2013-01-28
+Adam, 2015-12-13

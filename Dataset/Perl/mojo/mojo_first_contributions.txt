@@ -1,0 +1,120 @@
+Zoffix Znet, 2015-04-05
+yuki-kimoto, 2009-07-06
+Yaroslav Korshak, 2010-07-21
+William Lindley, 2016-03-01
+Wes Cravens, 2011-12-18
+Welton Rodrigo Torres Nascimento, 2012-10-04
+vti, 2008-11-17
+Viliam Pucik, 2011-09-09
+Uwe Voelker, 2009-03-06
+unknown, 2009-05-13
+und3f, 2010-08-10
+Ulrich Habel, 2010-09-10
+Uchiko, 2013-10-19
+Tudor Constantin, 2017-03-05
+trendels, 2009-08-16
+Terrence Brannon, 2011-05-05
+Tatsuhiko Miyagawa, 2011-05-05
+sugama, 2011-05-24
+Steve Atkins, 2015-05-25
+Stefan Adams, 2014-04-19
+sshaw, 2010-11-14
+sri, 2009-05-16
+Spiros Denaxas, 2012-06-20
+Simon Bertrang, 2011-04-24
+sim, 2011-05-22
+Sebastian Riedel, 2008-10-21
+Scott Wiersdorf, 2012-07-10
+Roy Storey, 2017-02-04
+root, 2011-04-27
+Roland Lammel, 2011-08-17
+Rick Yakubowski, 2013-07-02
+Rick Delaney, 2014-05-18
+Renee, 2015-02-20
+reezer, 2011-04-07
+Rafal Pocztarski, 2009-11-16
+Pierre-Yves Ritschard, 2009-07-30
+perlpong, 2015-05-19
+Pedro Melo, 2008-11-25
+Pavel Shaydo, 2013-06-18
+Paul Waring, 2012-09-24
+Olivier Mengué, 2016-08-10
+Oleg G, 2012-01-06
+Oleg, 2014-12-16
+Olaf Alders, 2014-09-26
+Nils Diewald, 2011-05-31
+Nic Sandfield, 2012-07-18
+Nick Morrott, 2016-09-21
+neyasov, 2014-03-02
+Neil Watkiss, 2011-12-24
+Moritz Lenz, 2011-04-09
+Mons Anderson, 2010-09-25
+Mirko Westermeier, 2010-01-02
+Michael Jemmeson, 2015-03-10
+Michael Harris, 2011-07-08
+Michael Gregorowicz, 2016-03-17
+Maxim Vuets, 2010-01-10
+Markus Koch, 2015-11-13
+Mark Stosberg, 2008-11-17
+Mark Fowler, 2014-10-14
+Marcus Ramberg, 2010-01-11
+Marcus, 2014-05-25
+Leon Brocard, 2008-11-17
+Lee Johnson, 2016-03-08
+Krasimir Berov, 2011-04-11
+kmx, 2011-02-06
+Kenichi Ishigaki, 2009-07-30
+Kazuhiro Shibuya, 2010-01-26
+kaz, 2009-07-18
+John Slavick, 2017-03-22
+Joe Zheng, 2017-03-04
+Joel Berger, 2012-07-20
+Jan Jona Javorsek, 2010-02-20
+Jan Henning Thorsen, 2014-07-23
+jamadam, 2014-08-04
+Israel Fimbres Delgado, 2012-01-27
+Ilya Chesnokov, 2012-06-06
+Ian Goodacre, 2013-11-09
+Gun.io Whitespace Robot, 2011-10-30
+Graham Barr, 2008-11-11
+Glen Hinkle, 2010-08-30
+forwardever, 2011-01-28
+Eugen Konkov, 2016-02-24
+Doundounba, 2009-04-19
+Douglas Christopher Wilson, 2012-01-22
+Dotan Dimet, 2012-03-22
+Diego Kuperman, 2012-04-19
+David Webb, 2012-10-18
+David Steinbrunner, 2013-05-04
+David Davis, 2010-01-22
+Daniel Kimsey, 2011-01-21
+Dan Book, 2015-02-24
+chromatic, 2011-06-08
+Chris Seymour, 2014-01-10
+Chas. J. Owens IV, 2010-10-29
+charsbar, 2009-01-28
+CandyAngel, 2015-09-25
+Burak Gursoy, 2009-05-13
+Brian Duggan, 2011-02-17
+Breno G. de Oliveira, 2011-05-10
+Bob Faist, 2016-03-10
+Björn Pettersson, 2012-08-03
+bfaist, 2012-01-26
+Bernhard Graf, 2011-12-14
+Ben Tyler, 2015-02-28
+Ben Cornett, 2008-11-20
+avaluyskiy, 2014-01-16
+Audrey Tang, 2011-05-29
+Ask Bjørn Hansen, 2008-11-11
+Ashley Pond V, 2013-02-27
+Andrey Khozov, 2012-06-01
+Andreas Koenig, 2016-03-24
+Andreas Guldstrand, 2016-02-22
+Anatoly Sharifulin, 2009-08-21
+Alex, 2010-02-18
+Akron, 2011-05-06
+afresh1, 2010-04-04
+Adriano Ferreira, 2017-04-03
+acp, 2015-04-20
+Acajou, 2009-06-24
+Abhijit Menon-Sen, 2011-02-08

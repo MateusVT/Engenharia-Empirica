@@ -1,0 +1,1508 @@
+张忠山, 2011-08-04
+Роман Донченко, 2014-12-15
+Дилян Палаузов, 2012-02-13
+Андрей Рыбак, 2015-11-11
+Zoltan Klinger, 2013-01-14
+Zoltán Füzesi, 2009-08-05
+Zoë Blade, 2015-07-23
+Zhang Le, 2010-06-13
+Zbigniew Jędrzejewski-Szmek, 2011-09-29
+Zack Brown, 2005-05-11
+Zach Welch, 2005-04-19
+Yuxuan Shui, 2014-03-13
+Younes Khoudli, 2016-10-20
+YOSHIFUJI Hideaki, 2005-07-23
+YONETANI Tomokazu, 2008-12-14
+YOKOTA Hiroshi, 2015-11-12
+Yi EungJun, 2014-06-16
+Yichao Yu, 2012-02-27
+Yiannis Marangos, 2014-04-10
+Yggy King, 2011-07-24
+Yasushi SHOJI, 2005-08-13
+yaras, 2016-10-03
+Yann Droneaud, 2013-03-25
+Yann Dirson, 2005-11-27
+Yakov Lerner, 2006-05-09
+Yacine Belkadi, 2012-09-16
+Yaakov Selkowitz, 2013-06-21
+Yaacov Akiba Slama, 2005-11-08
+Xue Fuqiao, 2015-10-22
+Xudong Guan, 2007-09-02
+Xidorn Quan, 2013-05-28
+xiaoqiang zhao, 2017-07-05
+Xiaolong Ye, 2016-04-26
+Xavier Maillard, 2007-03-05
+Wu Fengguang, 2008-12-19
+W. Trevor King, 2012-03-30
+ws3389, 2012-03-01
+Wolfram Sang, 2017-01-15
+Win Treese, 2010-02-05
+Wincent Colaiuta, 2007-11-14
+Willy Tarreau, 2006-07-23
+Will Palmer, 2010-04-17
+William Pursell, 2007-07-08
+William Giokas, 2014-05-12
+William Entriken, 2013-03-03
+William Duclot, 2016-06-03
+Wilhelm Schuermann, 2015-03-19
+Wilhansen Li, 2009-08-23
+Wieland Hoffmann, 2013-06-11
+Wesley J. Landaker, 2009-04-01
+Wei-Yin Chen (陳威尹), 
+Wayne Walter, 2010-02-13
+Wang Sheng, 2013-02-09
+Waldek Maleska, 2015-10-26
+Vladimir Panteleev, 2017-01-23
+Vlad Dogaru, 2014-04-07
+Vivien Didelot, 2013-10-31
+Vitor Antunes, 2011-02-21
+Vitaly "_Vi" Shukela, 2016-12-12
+Vitaly _Vi Shukela, 2010-01-06
+Vitaliy Ivanov, 2011-07-19
+Vinicius Kursancew, 2016-11-29
+Vineet Kumar, 2007-11-30
+Vincent Zanotti, 2007-11-10
+Vincent van Ravesteijn, 2011-04-15
+Ville Skyttä, 2006-08-16
+Vikrant Varma, 2013-05-08
+Vietor Liu, 2009-10-27
+Victor Leschuk, 2015-12-15
+Vicent Marti, 2013-10-24
+Veres Lajos, 2013-06-19
+veillette@yahoo.ca, 2008-03-31
+Vegard Nossum, 2016-09-27
+Vasyl' Vavrychuk, 2010-12-17
+Vasily Makarov, 2014-01-03
+Vasco Almeida, 2016-03-22
+Valery Tolstov, 2017-03-15
+Valentin Haenel, 2011-04-26
+Väinö Järvelä, 2007-08-04
+Uwe Zeisberger, 2006-01-19
+Uwe Storbeck, 2014-03-17
+Uwe Kleine-König, 2007-01-19
+Urs Thuermann, 2017-08-08
+Ulrik Sverdrup, 2007-09-13
+Ulrich Windl, 2009-04-16
+Ulrich Dangel, 2009-06-26
+Uli Heller, 2013-09-06
+Tzvetan Mikov, 2014-11-04
+Tyler Brazier, 2017-06-01
+Twiinz, 2008-05-26
+Tuomas Suutari, 2009-08-18
+Tuncer Ayaz, 2006-10-25
+Trent Piepho, 2008-05-21
+Trần Ngọc Quân, 2013-12-14
+Torsten Schmutzler, 2010-05-09
+Torsten Bögershausen, 2010-12-10
+Torstein Hegge, 2013-04-11
+Tor Arvid Lund, 2008-02-27
+Tor Arntsen, 2010-06-07
+Tor Arne Vestbø, 2009-01-14
+Tony Luck, 2005-07-12
+Tony Kemp, 2009-05-16
+Tony Finch, 2013-07-04
+Tom Russello, 2016-06-08
+Tom Prince, 2005-09-28
+Tom Preston-Werner, 2008-11-01
+Tommy Thorn, 2008-02-03
+Tommy M. McGuire, 2005-06-12
+Tommi Virtanen, 2005-08-26
+Tom Miller, 2014-01-03
+Tommi Kyntola, 2007-02-16
+Tom Jones, 2012-10-29
+Tom Grennan, 2009-07-28
+Tom G. Christensen, 2015-02-03
+Tom Clarke, 2007-08-30
+Tomash Brechko, 2007-04-09
+Tomas Carnecky, 2010-09-29
+Tolga Ceylan, 2014-05-07
+Todd Zullinger, 2008-07-30
+Toby Allsopp, 2008-02-07
+Tobias Ulmer, 2012-09-27
+Tobias Schulte, 2013-05-20
+Tobias Klauser, 2015-09-25
+Tim Stoakes, 2008-02-09
+Timotheus Pokorra, 2013-04-07
+Timo Sirainen, 2005-08-09
+Timo Hirvonen, 2005-06-07
+Tim Henigan, 2009-11-15
+Tilman Vogel, 2011-11-05
+Tilman Sauerbeck, 2006-05-18
+Thynson, 2012-03-02
+Thorsten Glaser, 2013-08-30
+Thomas Zander, 2008-01-17
+Thomas Schwinge, 2007-07-28
+Thomas Schneider, 2015-04-02
+Thomas Rast, 2008-06-25
+Thomas Quinot, 2014-11-10
+Thomas Matysik, 2005-11-13
+Thomas Jarosch, 2009-04-17
+Thomas Hochstein, 2011-11-21
+Thomas Harning, 2007-11-22
+Thomas Guyot-Sionnest, 2008-04-22
+Thomas Gummerer, 2012-07-08
+Thomas Glanzmann, 2005-05-05
+Thomas Cort, 2011-07-20
+Thomas Braun, 2014-08-21
+Thomas Badie, 2012-06-25
+Thomas Arcila, 2008-05-11
+Thomas Ackermann, 2012-10-16
+Thiago Farina, 2009-09-18
+Theo Niessink, 2011-05-27
+Theodore Ts'o, 2006-12-30
+Theodore Leblond, 2014-04-29
+Thadeu Lima de Souza Cascardo, 2009-06-30
+Tero Roponen, 2006-11-07
+Terje Sten Bjerkseth, 2006-12-20
+Teemu Matilainen, 2011-10-06
+Teemu Likonen, 2008-03-10
+Ted Zlatanov, 2013-02-06
+Ted Percival, 2008-06-26
+Ted Pavlic, 2009-01-15
+Techlive Zheng, 2013-02-05
+Tay Ray Chuan, 2009-01-31
+Tarmigan Casebolt, 2008-08-20
+Tanay Abhra, 2014-03-04
+Takashi Iwai, 2015-09-04
+Tair Sabirgaliev, 2013-05-13
+Tadeusz Andrzej Kadłubowski, 2013-02-26
+SZEDER Gábor, 2008-03-05
+Sylvestre Ledru, 2017-07-27
+Sylvain Rabot, 2010-03-02
+Sverre Rabbelier, 2008-06-08
+Sverre Hvammen Johansen, 2008-07-13
+Sven Verdoolaege, 2005-06-08
+Sven van Haastregt, 2015-01-22
+Sven Strickroth, 2012-12-17
+Sven Eckelmann, 2010-10-29
+Sveinung Kvilhaugsvik, 2014-10-24
+Sup Yut Sum, 2014-02-11
+Sun He, 2014-03-03
+SungHyun Nam, 2008-07-16
+Steven Walter, 2007-07-12
+Steven Penny, 2017-01-09
+Steven Grimm, 2007-01-06
+Steven Drake, 2008-02-25
+Steve Hoelzer, 2007-08-01
+Steve Haslam, 2008-07-25
+Stephen R. van den Berg, 2008-04-29
+Stephen Rothwell, 2006-04-05
+Stephen P. Smith, 2014-05-28
+Stephen Kent, 2017-04-28
+Stephen Hicks, 2017-04-27
+Stephen Haberman, 2008-09-29
+Stephen Boyd, 2009-03-17
+StephenB, 2011-01-07
+Stephan Springl, 2007-05-23
+Stephan Feder, 2006-07-07
+Stephan Beyer, 2008-04-14
+Štěpán Němec, 2009-08-10
+Stepan Kasal, 2014-05-08
+Stelian Pop, 2007-02-05
+Steffen Prohaska, 2007-05-12
+Stefan Zager, 2012-08-24
+Stefan-W. Hahn, 2005-11-19
+Stefan Sperling, 2007-08-22
+Stefan Saasen, 2013-04-12
+Stefano Lattarini, 2012-03-02
+Stefan Naewe, 2008-11-11
+Stefan Karpinski, 2009-01-30
+Stefan Haller, 2010-12-12
+Stefan Dotterweich, 2016-12-12
+Stefan Christ, 2016-10-28
+Stefan Beller, 2013-05-29
+Stefan Agner, 2015-09-30
+Stanislav Kolotinskiy, 2016-03-31
+Spencer E. Olson, 2010-08-11
+Soeren Finster, 2008-07-08
+Slavomir Vlcek, 2014-11-13
+Slava Kardakov, 2013-06-12
+Skip, 2011-01-19
+Sitaram Chamarty, 2008-05-11
+Simon Sasburg, 2007-09-20
+Simon Ruderich, 2012-10-04
+Simon Oosthoek, 2012-10-11
+Simon Hausmann, 2007-01-31
+Simon 'corecode' Schubert, 2007-01-18
+Simon Cathebras, 2012-07-06
+Simon Arlott, 2009-03-29
+Simon A. Eugster, 2015-07-12
+Simo Melenius, 2010-06-07
+Sidhant Sharma [:tk], 
+Sidhant Sharma, 2015-10-18
+Shin Kojima, 2016-05-03
+Shawn O. Pearce, 2006-11-04
+Shawn Bohrer, 2007-09-25
+Seth Falcon, 2007-07-28
+Serge Ziryukin, 2011-01-24
+Sergey Vlasov, 2005-05-04
+Sergey Senozhatsky, 2014-09-15
+Sergey Ryazanov, 2017-04-13
+Sergey Organov, 2014-08-12
+Serge van den Boom, 2009-01-28
+Sergei Organov, 2007-10-30
+Serge E. Hallyn, 2006-04-17
+Segev Finer, 2017-01-25
+Sébastien Loriot, 2012-12-10
+Sebastien Helleu, 2013-08-30
+Sébastien Guimmara, 2015-05-08
+Sebastien Cevey, 2011-04-29
+Sebastian Staudt, 2013-01-15
+Sebastian Schuberth, 2008-05-11
+Sebastian Pipping, 2009-04-07
+Sebastian Noack, 2008-02-27
+Sebastian Morr, 2011-12-05
+Sebastian Leske, 2012-12-05
+Sebastian Kuzminsky, 2005-05-19
+Sebastian Götte, 2013-03-31
+Sean Estabrooks, 2006-04-28
+Scott R Parish, 2007-10-29
+Scott Lamb, 2007-07-17
+Scott J. Goldman, 2014-02-28
+Scott Collins, 2008-04-15
+Scott Chacon, 2008-12-02
+Schalk, Ken, 2010-09-03
+Saurav Sachidanand, 2016-03-01
+Satoshi Yasushima, 2016-09-07
+Sasha Khapyorsky, 2006-02-01
+Santi Béjar, 2006-07-04
+Santiago Torres, 2016-04-06
+Santiago Gala, 2008-05-02
+Sandy Carter, 2014-03-05
+Sandor Bodo-Merle, 2013-05-17
+Sam Vilain, 2007-01-25
+Samuel Tardieu, 2008-03-11
+Samuel Lijin, 2017-05-22
+Samuel Bronson, 2011-12-07
+Sam Ravnborg, 2005-12-27
+Sami Farin, 2007-04-24
+Sam Hocevar, 2009-03-24
+Salikh Zakirov, 2006-05-30
+Sahil Dua, 2017-05-29
+Ryuichi Kokubo, 2015-02-26
+Ryan Anderson, 2005-06-26
+Rutger Nijlunsing, 2006-04-05
+Russell Myers, 2012-02-22
+Rüdiger Sonderfeld, 2012-06-10
+Ruben Kerkhof, 2014-01-16
+R. Tyler Ballance, 2010-03-24
+Roy Lee, 2009-03-03
+Ross Lagerwall, 2012-04-10
+Ronnie Sahlberg, 2014-04-17
+Ronald Wampler, 2014-12-09
+Roman Kagan, 2012-04-24
+RomanBelinsky, 2014-04-17
+Romain Picard, 2016-01-13
+Romain Francoise, 2008-08-29
+Roland Mas, 2014-10-16
+Roland Dreier, 2007-02-25
+Rohit Mani, 2014-03-10
+Rogier Goossens, 2016-12-12
+Rogan Dawes, 2008-01-07
+Roel Kluin, 2009-06-23
+Rodrigo Silva (MestreLion), 
+Rocco Rutte, 2006-05-30
+Rob Mayoff, 2015-11-24
+Robin Rosenberg, 2006-07-01
+Robin H. Johnson, 2007-04-11
+Robert Zeh, 2009-12-23
+Robert Watson, 2005-09-23
+Robert Suetterlin, 2005-09-22
+Robert Shearman, 2006-05-02
+Robert Schiele, 2007-07-31
+Roberto Tyley, 2011-08-11
+Robert Luberda, 2012-08-10
+Robert Fitzsimons, 2005-08-28
+Robert Ewald, 2007-07-30
+Robert de Bath, 2014-10-28
+Robert Boone, 2007-09-12
+Robert Blum, 2008-08-16
+Riku, 2012-02-27
+Rikard Falkeborn, 2017-05-30
+Richard Weinberger, 2010-01-15
+Richard Quirk, 2008-04-27
+Richard P. Curnow, 2007-05-09
+Richard MUSIL, 2007-07-18
+Richard Lowe, 2014-02-24
+Richard Hubbell, 2012-11-08
+Richard Hartmann, 2008-12-21
+Richard Hansen, 2013-05-16
+Richard Fearn, 2012-10-13
+Reuben Hawkins, 2015-01-09
+René Scharfe, 2006-11-23
+René Nyffenegger, 2016-05-02
+René Genz, 2017-05-01
+Renee Margaret McConahy, 2015-09-30
+Rene Bredlau, 2012-12-21
+Rémi Vanicat, 2007-11-11
+Remi Rampin, 2015-03-07
+Remi Pommarel, 2015-10-21
+Remi Lespinet, 2015-06-04
+Reilly Grant, 2009-09-10
+Reece H. Dunn, 2007-08-13
+Ray Zhang, 2016-03-29
+Ray Donnelly, 2015-10-08
+Ray Chen, 2011-09-01
+Rasmus Villemoes, 2016-12-07
+Raphael Zimmerer, 2008-10-01
+Raphael Kubo da Costa, 2015-01-12
+Randy Dunlap, 2007-09-25
+Randal L. Schwartz, 2005-10-25
+Ramsay Jones, 2006-08-04
+Ramkumar Ramachandra, 2010-01-14
+Raman Gupta, 2009-11-20
+Ralf Wildenhues, 2007-10-15
+Ralf Thielow, 2010-07-19
+Ralf Baechle, 2005-10-13
+Raja R Harinath, 2010-07-14
+Rainer M. Canavan, 2015-11-06
+Rafael Gieschke, 2011-05-17
+Rafael Garcia-Suarez, 2008-02-06
+Quy Tonthat, 2006-12-15
+Quentin Pradet, 2017-04-01
+Quentin Neill, 2015-06-01
+Qingning Huo, 2005-09-11
+Prathamesh Chavan, 2017-04-14
+Pranit Bauva, 2016-03-11
+Piotr Krukowiecki, 2011-03-09
+Pini Reznik, 2007-12-05
+Ping Yin, 2008-03-02
+Pieter de Bie, 2008-02-16
+Pierre le Riche, 2013-06-04
+Pierre Habouzit, 2006-08-23
+Pickens, James E, 2009-07-29
+Phil Pennock, 2012-11-21
+Phil Miller, 2009-12-30
+Phillip Wood, 2017-05-20
+Phillip Sz, 2014-09-25
+Phil Lawrence, 2009-03-09
+Philippe Bruhat, 
+Philipp A. Hartmann, 2008-03-05
+Philip Oakley, 2012-09-18
+Philip Jägenstedt, 2012-02-19
+Phil Hord, 2011-10-04
+Petr Stodulka, 2016-09-29
+Petr Onderka, 2010-08-16
+Petr Kodl, 2009-03-17
+Petr Baudis, 2005-04-12
+Pete Wyckoff, 2008-11-27
+Peter Wu, 2013-01-19
+Peter van Zetten, 2013-04-11
+Peter van der Does, 2010-12-14
+Peter Valdemar Mørch, 2008-07-25
+Peter Stuge, 2011-09-27
+Peter Oberndorfer, 2009-02-23
+Peter Law, 2017-01-30
+Peter Krefting, 2008-11-21
+Peter Hutterer, 2009-04-24
+Peter Harris, 2008-07-19
+Peter Hagervall, 2005-09-04
+Peter Eriksen, 2005-09-15
+Peter Eisentraut, 2013-01-10
+Peter Collingbourne, 2010-01-11
+Peter Colberg, 2016-06-10
+Peter Baumann, 2006-07-09
+Pete Harlan, 2008-11-04
+Per Cederqvist, 2013-09-09
+Pelle Wessman, 2009-09-30
+Pekka Kaitaniemi, 2008-02-20
+Pedro Melo, 2008-04-11
+P. Christeas, 2008-07-23
+Pavel Volek, 2012-06-27
+Pavel Roskin, 2005-05-11
+Pavan Kumar Sunkara, 2010-05-18
+Paul Walmsley, 2013-05-09
+Paul Wagland, 2016-01-25
+Paul T Darga, 2006-06-08
+Paul Tan, 2015-03-24
+Paul Talacko, 2008-09-06
+Paul Smith, 2014-12-03
+Paul Serice, 2005-11-21
+Paul Price, 2013-04-12
+Paul Oliver, 2008-05-25
+Paul Mackerras, 2005-04-22
+Paul Jarc, 2009-01-05
+Paul Jakma, 2006-02-21
+Pauli Virtanen, 2009-10-10
+Paul Gortmaker, 2012-07-13
+Paul Fox, 2012-12-02
+Paul Eggert, 2006-06-08
+Paul Collins, 2005-11-06
+Paul Bolle, 2009-04-18
+Pat Thoyts, 2009-03-23
+Patryk Obara, 2017-08-20
+Patrick Welche, 2007-10-18
+Patrick Steinhardt, 2015-02-02
+Patrick Reynolds, 2014-07-30
+Patrick Palka, 2012-10-29
+Patrick Mauritz, 2005-09-07
+Patrick Higgins, 2008-06-19
+Pat Notz, 2009-02-11
+Pasha Bolokhov, 2014-06-02
+Pascal Obry, 2007-11-27
+Parker Moore, 2016-07-22
+Paolo Ciarrocchi, 2006-11-21
+Paolo Bonzini, 2007-02-28
+Paolo 'Blaisorblade' Giarrusso, 2005-09-04
+Pang Yan Han, 2011-08-25
+Panagiotis Issaris, 2005-06-19
+Panagiotis Astithas, 2015-06-12
+Pal-Kristian Engstad, 2010-02-01
+Pablo Santiago Blum de Aguiar, 2016-05-29
+Øyvind A. Holm, 2012-10-09
+Øystein Walle, 2014-01-07
+Oswald Buddenhagen, 2013-02-19
+Ossi Herrala, 2015-04-17
+Ori Avtalion, 2009-08-12
+Orgad Shaneh, 2012-09-24
+Oren Held, 2010-07-13
+Onno Kortmann, 2014-12-10
+Ondřej Bílka, 2013-07-22
+Olivier Marin, 2008-06-10
+Olaf Hering, 2006-03-09
+OGAWA Hirofumi, 2006-10-19
+Oded Shimon, 2010-09-09
+Noam Postavsky, 2015-11-20
+Nikolaus Schulz, 2008-07-05
+Nikolaj Schumacher, 2008-07-21
+Nikolai Weibull, 2005-11-14
+Nikola Forró, 2016-04-25
+Nico -telmich- Schottelius, 2009-03-30
+Nicolas Vigier, 2013-10-10
+Nicolas Sebrecht, 2009-08-06
+Nicolas Pitre, 2005-04-28
+Nicolas Morey-Chaisemartin, 2011-03-30
+Nicolas Kaiser, 2011-03-08
+Nicolas Dermine, 2014-11-10
+Nick Townsend, 2013-12-03
+Nick Stokoe, 
+Nickolai Zeldovich, 2013-01-06
+Nick Hengeveld, 2005-09-27
+Nick Edelen, 2009-06-09
+Nick Alcock, 2011-11-02
+Nguyễn Thái Ngọc Duy, 2007-07-25
+NGUYEN Kim Thuat, 2012-06-27
+Nelson Elhage, 2009-09-13
+Nelson Benitez Leon, 2012-03-02
+Neil Roberts, 2008-08-21
+Neil Horman, 2012-04-11
+Nazri Ramliy, 2009-02-12
+Nathan W. Panike, 2010-07-25
+Nathaniel W Filardo, 2009-12-27
+Nathan Gray, 2013-05-20
+Nate Case, 2009-03-18
+Nasser Grainawi, 2009-10-21
+Nanako Shiraishi, 2007-06-20
+Namhyung Kim, 2011-04-05
+Mukund, 2007-02-10
+Mostyn Bramley-Moore, 2017-04-01
+Monard Vong, 2014-09-14
+Modestas Vainius, 2013-04-12
+Mizar, 2009-11-03
+Mischa POSLAWSKY, 2012-09-17
+Miles Bader, 2007-08-30
+Miklos Vajna, 2007-07-03
+Miklós Fazekas, 2013-03-11
+Mikko Rapeli, 2015-02-26
+Mike Ralphson, 2007-09-07
+Mike Pape, 2008-07-11
+Mike McCormack, 2006-03-06
+Mike Lundy, 2010-08-03
+Mike Hommey, 2007-08-17
+Mike Gorchak, 2013-02-25
+Mike Edgar, 2015-06-17
+Mike Dalessio, 2007-10-15
+Mike Crowe, 2013-05-20
+Mika Kukkonen, 2005-06-21
+Mika Fischer, 2011-11-04
+Mikael Magnusson, 2008-06-11
+Mihai Capotă, 2013-03-27
+Miguel Torroja, 2015-05-27
+Michele Ballabio, 2007-04-27
+Michal Vitecek, 2007-09-26
+Michal Sojka, 2010-01-28
+Michal Rokos, 2006-07-08
+Michal Privoznik, 2013-01-14
+Michal Ostrowski, 2006-01-13
+Michal Nazarewicz, 2013-02-07
+Michal Marek, 2009-05-24
+Michał Kiedrowicz, 2009-04-13
+Michał Górny, 2011-09-08
+Michael Wookey, 2009-09-29
+Michael W. Olson, 2007-10-16
+Michael Witten, 2007-10-16
+Michael Weber, 2008-04-22
+Michael S. Tsirkin, 2006-07-27
+Michael Stefaniuc, 2008-01-05
+Michael Stapelberg, 2011-08-28
+Michael Stahl, 2016-08-10
+Michael Spang, 2007-02-12
+Michael Smith, 2007-09-07
+Michael Schubert, 2011-05-10
+Michael Rappazzo, 2015-05-17
+Michael Prokop, 2008-09-30
+Michael Procter, 2016-02-25
+Michael Poole, 2007-02-27
+Michael Palimaka, 2012-02-09
+Michael Naumov, 2014-06-02
+Michael Milligan, 2007-06-06
+Michael Lutz, 2014-10-06
+Michael Lukashov, 2010-01-24
+Michael Loeffler, 2006-12-04
+Michael Lai, 2009-03-09
+Michael Krelin, 2006-08-07
+Michael J. Kiwala, 2010-06-03
+Michael J Gruber, 2008-09-10
+Michael Horowitz, 2011-02-25
+Michael Hendricks, 2007-05-10
+Michael Heemskerk, 2013-04-28
+Michael Haggerty, 2009-02-23
+Michael G. Schwern, 2012-07-27
+Michael Gebetsroither, 2007-10-15
+Michael Forney, 2017-08-07
+Michael Ellerman, 2007-06-08
+Michael Dressel, 2008-06-04
+Michael Contreras, 2013-05-09
+Michael Coleman, 2007-02-27
+Michael Barabanov, 2014-07-17
+Mehul Jain, 2016-03-21
+Max Nanasy, 2013-03-21
+Max Kirillov, 2013-08-27
+Maxin john, 2011-03-30
+Maxim Moseychuk, 2017-02-16
+maximilian attems, 2011-08-03
+Maxime Coste, 2014-05-27
+Maxim Bublis, 2014-08-28
+Max Horn, 2012-07-05
+Maurício C Antunes, 2013-07-23
+Matt McCutchen, 2007-07-07
+Matt Kraai, 2007-06-30
+Mattias Nissler, 2009-07-11
+Matthijs Melchior, 2007-06-02
+Matthijs Kooijman, 2012-04-27
+Matthieu Prat, 2015-09-02
+Matthieu Moy, 2007-05-07
+Matthieu Castet, 2007-05-13
+Matthias Urlichs, 2005-06-28
+Matthias Rüster, 2015-04-02
+Matthias Ruester, 2014-09-15
+Matthias Lederhofer, 2006-05-07
+Matthias Krüger, 2013-03-28
+Matthias Kestenholz, 2006-04-28
+Matthias Andree, 2009-07-24
+Matthew Wilcox, 2006-10-11
+Matthew Ogilvie, 2008-04-22
+Matthew Kraai, 2016-01-20
+Matthew Daley, 2011-10-15
+Matthew Chen, 2014-06-13
+Matt Graham, 2008-04-23
+Matt Draisey, 2005-08-16
+Mathieu Lienard--Mayor, 2013-06-12
+Mathias Megyei, 2007-10-15
+Mathias Lafeldt, 2010-09-24
+Masatake Osanai, 2011-02-14
+Masanari Iida, 2013-11-12
+Martyn Smith, 2006-05-08
+Martin Waitz, 2006-05-07
+Martin von Zweigbergk, 2010-11-10
+Martin von Gagern, 2013-04-03
+Martin Storsjö, 2009-04-02
+Martin Stenberg, 2012-03-12
+Martin Sivak, 2005-08-09
+Martin Renold, 2009-07-01
+Martin Nordholts, 2009-09-09
+Martin Mares, 2006-02-18
+Martin Langhoff, 2005-08-16
+Martin Koegler, 2007-02-15
+martin f. krafft, 2007-08-23
+Martin Erik Werner, 2013-02-13
+Martin Atukunda, 2005-12-14
+Martin Amdisen, 2016-02-25
+Martin Ågren, 2017-08-03
+Marten Svanfeldt (dev), 
+Mårten Kongstad, 2013-04-24
+Mark Wooding, 2006-02-03
+Markus Hitter, 2016-12-12
+Markus Heidelberg, 2008-10-31
+Markus Duft, 2010-10-28
+Markus Amsler, 2006-10-18
+Mark Szepieniec, 2012-11-27
+Mark Rada, 2009-08-25
+Mark Lodato, 2009-05-21
+Mark Levedahl, 2007-02-05
+Mark Hollomon, 2006-03-15
+Mark Hills, 2008-05-06
+Mark Drago, 2008-01-15
+Mark Burton, 2008-11-18
+Mark Allen, 2005-05-25
+Marius Storm-Olsen, 2007-05-15
+Marios Titas, 2016-04-01
+Marek Zawirski, 2008-08-17
+Marcus Karlsson, 2012-03-10
+Marcus Griep, 2008-08-08
+Marcus Fritzsch, 2007-07-06
+Marcus Comstedt, 2010-05-18
+Marco Sousa, 2012-04-02
+Marco Roeland, 2005-09-09
+Marco Paolone, 2012-05-30
+Marco Nelissen, 2009-06-08
+Marco Costalba, 2005-08-17
+Marc Khouzam, 2012-11-16
+Márcio Almada, 2015-04-12
+Marcin Owsiany, 2012-07-19
+Marcel M. Cary, 2008-12-21
+Marcel Koeppen, 2008-05-16
+Marc Branchaud, 2009-02-25
+Marc-André Lureau, 2011-11-16
+Marat Radchenko, 2014-03-27
+Mantas Mikulėnas, 2016-10-11
+Manlio Perillo, 2012-12-13
+Mads Dørup, 2013-08-27
+Luke Mewburn, 2015-04-15
+Luke Lu, 2007-10-17
+Luke Diamand, 2009-08-10
+Łukasz Gryglicki, 2017-07-25
+Lukas Sandström, 2005-11-15
+Lukas Puehringer, 2017-01-17
+Lukas Fleischer, 2013-03-07
+Luka Perkov, 2012-06-15
+Luiz Fernando N. Capitulino, 2007-04-15
+Luis R. Rodriguez, 2014-04-22
+Luis Ressel, 2016-12-12
+Luis Henriques, 2014-12-15
+Ludwig Nussel, 2011-06-15
+Lucien Kong, 2012-06-13
+Lucian Poston, 2012-03-20
+Luciano Rocha, 2008-05-28
+Luc Heinrich, 2008-09-30
+Luben Tuikov, 2005-11-21
+Louis, 2017-07-27
+Li Yang, 2007-03-06
+Liu Yubao, 2006-09-15
+Liu Yuan, 2011-11-10
+Li Peng, 2016-05-06
+lin zuojian, 2014-01-23
+Linus Torvalds, 2005-04-07
+Linus Arver, 2014-08-08
+Li Hong, 
+Libor Pechacek, 2011-02-22
+Liam Beguin, 2017-06-18
+Lex Spoon, 2015-04-20
+Lénaïc Huard, 2011-10-21
+LE Manh Cuong, 2016-06-19
+Leila Muhtasib, 2012-06-22
+Leif Arne Storset, 2010-05-07
+Lee Marlow, 2008-07-23
+Lee Carver, 2013-09-12
+Lea Wiemann, 2008-05-27
+Lawrence Velázquez, 2014-09-14
+Lawrence Siebert, 2015-07-01
+Lawrence Mitchell, 2011-04-03
+Laurent Arnoud, 2016-03-22
+Laszlo Papp, 2010-01-12
+Lars Vogel, 2016-01-21
+Lars Schneider, 2015-08-28
+Lars R. Damerow, 2010-03-28
+Lars Noschinski, 2008-07-16
+Lars Knoll, 2007-10-29
+Lars Kellogg-Stedman, 2015-05-08
+Lars Hjemli, 2006-10-20
+Lars Gullik Bjønnes, 2014-02-18
+Lars Doelle, 
+Larry D'Anna, 2009-06-27
+Kyle Meyer, 2017-01-07
+Kyle J. McKay, 2013-07-07
+Kumar Gala, 2007-07-24
+kTln2, 2009-08-20
+Krzysztof Mazur, 2012-10-10
+Krzysztof Kowalczyk, 2008-05-11
+Krzesimir Nowak, 2013-12-12
+Kristof Provost, 2007-10-15
+Kristoffer Haugsbakk, 2016-12-09
+Kristian Høgsberg, 2007-06-02
+Kristian Amlie, 2009-03-20
+Kris Shannon, 2005-08-17
+Konstantin V. Arkhipov, 2007-11-17
+Knut Franke, 2010-08-31
+knittl, 2010-12-01
+Kjetil Barvik, 2009-01-11
+Kirill Smelkov, 2008-08-20
+Kirill Brilliantov, 2013-01-01
+Kirill A. Shutemov, 2011-12-09
+Kirill A. Korinskiy, 2008-12-21
+Kirill, 2007-10-22
+Kevin Willford, 2016-07-29
+Kevin P. Fleming, 2010-07-16
+Kevin McConnell, 2009-03-22
+Kevin Leung, 2007-12-02
+Kevin Green, 2007-06-11
+Kevin Geiss, 2005-11-16
+Kevin Daudt, 2015-03-19
+Kevin Cernekee, 2011-03-16
+Kevin Bracey, 2013-03-10
+Kevin Ballard, 2008-01-09
+Keshav Kini, 2013-10-10
+Kent Engstrom, 
+Kenichi Saita, 2013-05-29
+Ken Dreyer, 2012-09-06
+Keller Fuchs, 2016-05-13
+Keith Packard, 2006-04-05
+Keith McGuigan, 2016-06-14
+Keith Cascio, 2009-01-17
+Kazutoshi Satoda, 2016-02-22
+Kazuki Yamaguchi, 2016-03-29
+Kazuki Saitoh, 2013-09-03
+Kay Sievers, 2005-05-05
+Kato Kazuyoshi, 2011-10-31
+Karthik R, 2009-08-18
+Karthik Nayak, 2015-03-06
+Karsten Blees, 2012-03-07
+Karl Wiberg, 
+Kalle Valo, 2005-08-03
+Kai Ruemmler, 2005-10-07
+Kacper Kornet, 2011-04-28
+Kaartic Sivaraam, 2017-06-21
+Jyotirmoy Bhattacharya, 2007-08-04
+Justin Lebar, 2014-03-31
+Justin Guenther, 2014-12-12
+Justin Frankel, 2010-08-26
+Jürgen Rühle, 2007-01-02
+Jürgen Kreileder, 2011-12-18
+Junio C Hamano, 2005-04-13
+Junichi Uekawa, 2008-02-11
+Julien Muchembled, 2011-10-21
+Julien Danjou, 2009-04-05
+Julien Carsique, 2013-10-14
+Julian Phillips, 2007-02-13
+Julian Gindi, 2015-04-14
+Juerg Haefliger, 2015-09-01
+J Smith, 2012-08-03
+Joshua Williams, 2008-09-24
+Joshua Jensen, 2010-10-06
+Joshua Clayton, 2013-02-22
+Josh Triplett, 2006-07-14
+Josh Stone, 2011-04-29
+josh robb, 2010-02-26
+Josh Micich, 2009-05-16
+Josh England, 2007-09-18
+Josh Elsasser, 2008-03-30
+Josef Weidendorfer, 2005-07-31
+Jose F. Morales, 2015-08-28
+Josef Kufner, 2016-06-16
+Jörn Engel, 2014-04-28
+Jörg Sommer, 2008-02-03
+Jorge Juan Garcia Garcia, 2013-06-11
+Jordi Mas, 2016-12-26
+Jordan DE GEA, 2016-05-31
+Jon Seymour, 2005-06-08
+Jon Loeliger, 2005-09-22
+Jon Jensen, 2008-08-02
+Jon Griffiths, 2016-02-23
+Jonathon Mah, 2011-04-13
+Jonathan Tan, 2016-07-19
+Jonathan Nieder, 2008-07-01
+Jonathan McCrohan, 2014-05-27
+Jonathan "Duke" Leto, 2010-10-28
+Jonathan del Strother, 2007-10-18
+Jonas 'Sortie' Termansen, 2014-08-29
+Jonas Fonseca, 2005-04-23
+Jonas Flodén, 2009-01-17
+John Yani, 2010-10-21
+John 'Warthog9' Hawley, 2010-01-30
+John Tapsell, 2009-03-04
+John Szakmeister, 2012-02-20
+John Murphy, 2013-09-06
+John Marshall, 2014-02-24
+John Koleszar, 2013-04-09
+John Keeping, 2012-04-09
+John J. Franey, 2008-05-31
+John Goerzen, 2008-03-08
+John Ellson, 2006-01-05
+John Chapman, 2008-11-11
+Johan Sageryd, 2009-10-03
+Johannes Sixt, 2006-11-13
+Johannes Schindelin, 2005-07-29
+Johannes Gilger, 2009-01-27
+Johannes Berg, 2012-03-28
+Johan Hovold, 2017-02-27
+Johan Herland, 2007-05-15
+Joey Hess, 2008-06-28
+Joerg Bornemann, 2009-04-08
+Joe Ratterman, 2011-03-28
+Joe Perches, 2007-08-17
+Joel Teichroeb, 2017-08-19
+Joe English, 2006-01-06
+Joe Cridge, 2015-06-10
+Jochen Voss, 2008-06-28
+Job Snijders, 2017-08-22
+João Britto, 2011-05-05
+João Abecasis, 2008-07-14
+Joan Perals, 2014-12-23
+Joakim Tjernlund, 2007-10-20
+Joachim Schmitz, 2012-08-23
+Joachim Jablon, 2017-02-04
+Joachim Berdal Haga, 2006-07-06
+Jing Xue, 2007-11-14
+Jindrich Makovicka, 2009-12-07
+Jim Radford, 2005-11-08
+Jimmy Angelakos, 2009-08-10
+Jim Meyering, 2006-05-25
+Jim Hill, 2014-12-22
+jidanni@jidanni.org, 2008-12-29
+Jiang Xin, 2010-12-17
+Jharrod LaFon, 2013-08-19
+jfbu, 2016-11-06
+Jesse Greenwald, 2010-11-09
+Jess Austin, 2015-01-07
+Jesper L. Nielsen, 2013-02-05
+Jérôme Zago, 2015-03-31
+Jeremy White, 2009-02-12
+Jeremy Huddleston, 2013-07-30
+Jeremie Nikaes, 2011-09-01
+Jeremiah Mahler, 2014-05-27
+Jerald Fitzjerald, 2007-05-30
+Jens Lindström, 2014-05-23
+Jens Lehmann, 2009-03-20
+Jens Axboe, 2005-10-20
+Jelmer Vernooij, 2011-12-27
+Jehan Bing, 2012-02-17
+Jeff Smith, 2017-05-24
+Jeffrey C. Ollie, 2007-06-27
+Jeff Muizelaar, 2006-03-05
+Jeff Lasslett, 2009-08-10
+Jeff King, 2006-05-23
+Jeff Hostetler, 2016-08-05
+Jeff Hobbs, 2005-11-23
+Jeff Garzik, 2005-05-25
+Jeff Epler, 2010-01-23
+Jean Privat, 2009-10-27
+Jean-Noël Avila, 2016-03-25
+Jean-Noel Avila, 2013-08-11
+Jean-Noël AVILA, 2012-12-17
+Jean-Luc Herren, 2007-09-12
+Jean-Jacques Lafay, 2014-04-25
+jcb91, 2013-12-09
+J. Bruce Fields, 2006-01-12
+Jay Soffian, 2008-02-12
+Javier Roucher Iglesias, 2012-06-25
+Jason St. John, 2013-11-12
+Jason Riedy, 2005-08-18
+Jason Merrill, 2009-04-07
+Jason McMullan, 2005-05-26
+Jason Evans, 2010-08-14
+Jari Aalto, 2007-04-30
+Jared Hance, 2010-07-20
+Jan Viktorin, 2015-08-17
+Jan Veldeman, 2005-07-22
+Jan Stępień, 2010-03-31
+Jan Pešta, 2013-03-08
+Janos Laube, 2009-03-18
+Jan Krüger, 2008-06-19
+Jan Hudec, 2007-05-12
+Jan H. Schönherr, 2012-10-18
+Jan Harkes, 2005-06-25
+Jan Durovec, 2016-04-19
+Jan Andres, 2005-11-28
+Jamis Buck, 2008-05-31
+James Y Knight, 2007-05-26
+James P. Howard, II, 2010-01-13
+James McCoy, 2015-10-12
+James Denholm, 2014-05-06
+James Clarke, 2017-06-26
+James Bowes, 2007-02-07
+James Bottomley, 2005-04-18
+Jakub Suder, 2010-01-06
+Jakub Narębski, 2012-04-11
+Jakob Stoklund Olesen, 2014-10-24
+Jakob Pfender, 2011-03-14
+Jake Goulding, 2009-01-28
+Jaime Soriano Pastor, 2014-08-29
+Jacopo Notarstefano, 2014-03-03
+Jacob Sarvis, 2013-03-27
+Jacob Nisnevich, 2016-04-04
+Jacob Keller, 2014-07-13
+Jacob Helwig, 2009-02-12
+Jack Nagel, 2011-07-22
+Jack Bates, 2016-12-08
+Jacek Konieczny, 2014-06-12
+Ivan Ukhov, 2015-03-29
+Ivan Todoroski, 2012-04-02
+Ivan Stankovic, 2008-08-10
+İsmail Dönmez, 2007-12-04
+Ismael Luceno, 2015-05-17
+Irina Riesen, 2007-09-02
+Ingo Molnar, 2005-04-13
+Ingo Brückl, 2016-08-01
+Ingmar Vanhassel, 2009-10-09
+Iñaki Arenaza, 2006-11-24
+Imre Deak, 2008-10-09
+Imran M Yousuf, 2008-05-16
+Ilya Bobyr, 2014-03-23
+Ilari Liusvaara, 2009-12-09
+Igor Mironov, 2010-01-23
+Igor Kushnir, 2016-12-29
+Ian Wienand, 2011-02-14
+Ian Ward Comfort, 2010-03-17
+Ian McLean, 2010-05-20
+Ian Liu Rodrigues, 2014-09-15
+Ian Kelling, 2016-09-25
+Ian Katz, 2008-07-14
+Ian Hilt, 2008-05-14
+Huynh Khoi Nguyen Nguyen, 2012-06-25
+Huw Davies, 2006-04-30
+Hunter, D. Seth, 2009-07-06
+Hui Wang, 2011-09-07
+Hugues Peccatte, 2017-07-27
+H. Peter Anvin, 2005-09-06
+Horst H. von Brand, 2006-06-03
+Holger Weiß, 2009-04-01
+Holger Eitzenberger, 2005-08-05
+H. Merijn Brand, 2013-04-29
+Hitoshi Mitake, 2010-02-12
+Hiroyuki Sano, 2014-03-20
+Hiroshi Shirosaki, 2017-03-07
+Hiroshige Umino, 2013-09-09
+Hielke Christian Braun, 2017-07-18
+Herbert Xu, 2005-09-11
+Herbert Valerio Riedel, 2006-04-18
+Henrik Grubbström, 2010-04-10
+Henrik Austad, 2009-01-05
+Henri GEIST, 2014-06-13
+Hemmo Nieminen, 2013-10-18
+Heiko Voigt, 2009-03-20
+Heiko Becker, 2016-06-14
+Heikki Orsila, 2007-11-03
+Hartmut Henkel, 2014-11-28
+Harry Jeffery, 2014-09-18
+Harri Ilari Tapio Liusvaara, 2007-09-12
+Han-Wen Nienhuys, 2006-11-26
+Han Boetes, 2005-10-02
+Haitao Li, 2011-09-12
+Haavard Skinnemoen, 2006-08-23
+GyuYong Jung, 2016-02-17
+Guy Rouillier, 2011-05-01
+Gustaf Hendeby, 2007-11-30
+Gunnlaugur Þór Briem, 2012-10-26
+Guillermo S. Romero, 2009-11-03
+Guillaume Sasdy, 2012-07-06
+Guillaume Pagès, 2015-06-30
+Guido Ostkamp, 2007-11-15
+Guanqun Lu, 2008-03-23
+Greg Price, 2009-07-22
+Grégoire Paris, 2014-05-17
+Grégoire Barbier, 2007-12-30
+Greg Louis, 2005-08-17
+Greg KH, 2005-04-18
+Greg Jacobson, 2013-11-13
+Greg Brockman, 2010-07-20
+Greg Bacon, 2009-11-20
+Grahack, 2012-11-28
+Govind Salinas, 2008-03-23
+Gordon Hopper, 2007-11-09
+Glenn Rempe, 2007-09-24
+Giuseppe Scrivano, 2010-05-31
+Giuseppe Bilotta, 2007-08-30
+Gisle Aas, 2009-10-30
+GIRARD Etienne, 2015-11-24
+Giovanni Funchal, 2008-08-17
+Gerrit Pape, 2005-12-28
+George Vanburgh, 2016-12-19
+Geoffrey Thomas, 2009-02-04
+Geoffrey Irving, 2008-06-12
+Geert Bosch, 2007-04-05
+Gavin Lambert, 2016-10-27
+Gauthier Östervall, 2013-04-01
+Gary V. Vaughan, 2010-05-31
+Gary Gibbons, 2011-12-11
+Garry Dolley, 2008-09-18
+Galan Rémi, 2015-06-30
+Gabriel Souza Franco, 2016-03-01
+Gabriel Filion, 2010-02-17
+Gabriele Mazzotta, 2015-03-02
+Gabriel Corona, 2010-11-17
+Gabor Bernat, 2015-09-21
+Fredrik Skolmli, 2008-10-19
+Fredrik Medley, 2015-05-21
+Fredrik Kuivinen, 2005-09-04
+Fredrik Gustafsson, 2011-06-13
+Fred Maranhão, 2008-06-11
+Frederik Schwarzer, 2008-07-14
+Frederick Akalin, 2007-10-15
+Frédéric Heitzmann, 2011-09-16
+Frédéric Brière, 2012-03-19
+Fraser Tweedale, 2011-04-26
+Frans Klaver, 2015-06-10
+Frank Sorenson, 2005-11-18
+Frank Lichtenheld, 2007-03-11
+Frank Li, 2009-09-18
+Franck Bui-Huu, 2006-08-13
+Francis Moreau, 2007-07-16
+Francis Daly, 2006-03-04
+Francesco Pretto, 2014-01-07
+Florian Weimer, 2006-01-21
+Florian Ragwitz, 2008-05-03
+Florian La Roche, 2008-01-09
+Florian Forster, 2006-05-31
+Florian Achleitner, 2012-05-07
+Flavio Poletti, 2008-06-13
+Finn Arne Gangstad, 2007-12-19
+Filippo Negroni, 2010-02-25
+Filipe Cabecinhas, 2013-05-17
+Ferry Huberts, 2009-04-08
+Fernando J. Pereda, 2006-02-15
+Felix Gruber, 2013-08-05
+Felipe Gonçalves Assis, 2016-02-17
+Felipe Contreras, 2009-01-13
+Federico Mena Quintero, 2007-10-02
+Federico Cuello, 2010-11-05
+Fabrizio Chiarello, 2008-09-19
+Fabio Porcedda, 2015-11-06
+Fabian Ruch, 2014-03-18
+Fabian Keil, 2011-02-27
+Fabian Franz, 2009-02-07
+Fabian Emmes, 2008-07-19
+Eyvind Bernhardsen, 2007-12-10
+Eygene Ryabinkin, 2007-02-28
+Evan Powers, 2010-02-20
+Eugene Letuchy, 2009-03-05
+Etienne Buira, 2014-10-13
+Erwan Mathoniere, 2016-05-31
+Erik Faye-Lund, 2009-03-10
+Erik Elfström, 2015-06-09
+Erik Broes, 2009-04-11
+Eric Wong, 2005-11-17
+Eric W. Biederman, 2005-07-15
+Eric Sunshine, 2010-10-03
+Eric S. Raymond, 2012-08-22
+Eric Raymond, 2010-04-02
+Eric Raible, 2008-07-08
+Eric N. Vander Weele, 2015-10-07
+eric miao, 2008-03-05
+Erick Mattos, 2009-11-04
+Eric Kidd, 2009-02-03
+Eric Hanchrow, 2008-07-08
+Eric Blake, 2008-08-16
+Ephrim Khong, 2014-07-15
+Enrique Tobis, 2015-06-29
+Enrico Scholz, 2012-11-26
+Emmanuel Trillaud, 2009-09-07
+Emily Xie, 2016-06-22
+Emil Sit, 2009-03-17
+Emil Medve, 2007-07-02
+Emilio G. Cota, 2011-08-08
+Elvis Pranskevichus, 2007-06-06
+Elrond, 2006-05-17
+Elijah Newren, 2009-02-11
+Élie Bouttier, 2015-11-04
+Eli Collins, 2010-05-18
+Eli Barzilay, 2010-04-05
+Elia Pinto, 2012-09-14
+Edward Z. Yang, 2009-06-01
+Edward Thomson, 2014-08-22
+Eduardo R. D'Avila, 2013-06-26
+Edmundo Carmona Antoranz, 2015-11-01
+Ed Maste, 2016-06-17
+Edgar Toernig, 2005-04-30
+Dylan Smith, 2013-01-11
+Dylan Reid, 2010-07-05
+Dylan Alex Simon, 2012-10-12
+D Waitzman, 2012-03-23
+Dusty Phillips, 2013-04-11
+Dustin Sallings, 2008-05-08
+Duncan Brown, 2011-06-03
+Drew Northup, 2011-03-14
+Doug Maxey, 2007-01-13
+Douglas Stockwell, 2007-09-03
+Doug Kelly, 2015-01-07
+Doug Bell, 2013-07-17
+Dotan Barak, 2007-02-11
+Don Zickus, 2007-03-12
+Dongcan Jiang, 2015-03-19
+Dmitry V. Levin, 2006-03-05
+Dmitry Statyvka, 2010-07-30
+Dmitry S. Dolzhenko, 2014-02-27
+Dmitry Potapov, 2007-09-18
+Dmitry Marakasov, 2013-05-21
+Dmitry Kakurin, 2008-07-11
+Dmitry Ivankov, 2011-06-16
+Dirk Wallenstein, 2013-07-17
+Dirk Süsserott, 2008-03-24
+Dirk Hoerner, 2009-08-14
+Dimitriy Ryazantcev, 2015-03-23
+Dimitrios Christidis, 2017-07-25
+Dima Sharov, 2011-05-05
+Diego Elio Pettenò, 2010-11-24
+Dickson Wong, 2016-02-12
+Diane Gasselin, 2010-08-11
+Devin Lehmacher, 2017-03-13
+Devin J. Pohly, 2017-03-03
+Devin Doucette, 2008-12-27
+Dévai Tamás, 2009-02-15
+Deskin Miller, 2008-09-21
+dequis, 2014-04-09
+Denton Liu, 2017-02-08
+Dennis Stosberg, 2006-04-11
+Dennis Kaarsemaker, 2013-06-17
+Dejan Ribič, 2011-10-31
+David Woodhouse, 2005-04-12
+David Turner, 2014-04-30
+David Tran, 2014-03-19
+David Symonds, 2007-08-02
+David Steven Tweed, 2008-02-11
+David Soria Parra, 2007-07-30
+David S. Miller, 2007-12-14
+David Sharp, 2014-01-28
+David Ripton, 2010-01-19
+David Rientjes, 2006-08-14
+David Reiss, 2007-11-17
+David Pursehouse, 2017-02-16
+David M. Syzdek, 2008-11-02
+David Michael, 2012-12-15
+David Meybohm, 2005-05-27
+David Kastrup, 2007-07-12
+David Kågedal, 2007-01-18
+David J. Mellor, 2009-02-04
+David Greaves, 2005-05-05
+David Gould, 2012-09-11
+David Glasser, 2016-08-23
+David Fries, 2011-07-19
+David Engster, 2013-04-07
+Davide Libenzi, 2006-04-04
+David D. Kilzer, 2007-11-19
+David Caldwell, 2011-06-26
+David Bryson, 2008-09-30
+David Brown, 2007-09-22
+David Barr, 2010-08-14
+David A. Wheeler, 2016-01-05
+David Aguilar, 2008-03-11
+David A. Greene, 2012-02-11
+Dave Zarzycki, 2011-07-14
+Dave Williams, 2013-09-12
+Dave Watson, 2007-08-19
+Dave Ware, 2016-01-20
+Dave Peticolas, 2008-01-16
+Dave O'Neill, 2007-06-22
+Dave Olszewski, 2009-05-09
+Dave Nicolson, 2016-06-16
+Dave Dulson, 2010-01-12
+Dave Borowitz, 2012-09-19
+Darrin Thompson, 2005-07-22
+Dan Zwell, 2009-08-12
+Dan Wyand, 2014-11-25
+Dan Sabath, 2010-02-08
+Danny Lin, 2015-05-06
+Dan Nicholson, 2007-09-27
+Dan McGee, 2007-06-10
+Dan Loewenherz, 2009-04-22
+Dan Johnson, 2012-09-07
+Danijel Tasov, 2009-02-28
+Daniel Trstenjak, 2009-06-03
+Daniel Lowe, 2008-11-11
+Daniel Knittl-Frank, 2010-06-03
+Daniel Graña, 2012-07-25
+Daniele Segato, 2013-07-29
+Daniel Drake, 2006-07-25
+Daniel Cordero, 2009-05-16
+Daniel Cheng (aka SDiZ), 
+Daniel Barkalow, 2005-04-18
+Daniel A. Steffen, 2009-03-23
+Dan Holmsand, 2005-06-20
+Dan Hensgen, 2008-08-22
+Dan Bornstein, 2013-03-26
+Dan Aloni, 2016-02-08
+Dana L. How, 2007-05-02
+Dan Albert, 2014-04-29
+Damien Regad, 2017-02-21
+Damien Diederen, 2008-03-27
+Dale Worley, 2013-05-10
+Dale R. Worley, 2013-05-16
+Dair Grant, 2015-11-10
+Csaba Kiraly, 2015-01-05
+Csaba Henk, 2010-08-27
+Cristian Peraferrer, 2008-06-21
+Crestez Dan Leonard, 2013-11-22
+Cornelius Weig, 2017-01-27
+Cord Seele, 2011-09-30
+Conrad Irwin, 2011-05-08
+Cole Stanfield, 2010-10-21
+Colby Ranger, 2012-05-30
+Cody A Taylor, 2015-03-15
+Clifford Caoile, 2008-04-12
+Cliff Frey, 2010-10-19
+Clément Poulain, 2010-06-18
+Clemens Buchacher, 2008-02-27
+CJ van den Berg, 2007-07-04
+Ciaran McCreesh, 2008-07-15
+Ciaran Jessup, 2011-05-01
+Chris Wright, 2005-07-07
+Chris Wedgwood, 2007-01-16
+Chris Webb, 2010-03-28
+Christoph Mallon, 2010-10-16
+Christoph Junghans, 2015-01-13
+Christoph J. Thompson, 2013-02-02
+Christoph Hoopmann, 2016-03-05
+Christophe Simonis, 2013-04-07
+Christopher Wilson, 2010-09-27
+Christopher Tiwald, 2012-03-19
+Christopher Li, 2005-04-12
+Christopher Layne, 2016-07-03
+Christopher Beelby, 2010-01-23
+Christoph Egger, 2016-02-15
+Christof Krüger, 2011-06-22
+Christoffer Pettersson, 2011-05-16
+Christian Stimming, 2007-07-29
+Christian Schlotter, 2007-02-19
+Christian Neukirchen, 2015-06-24
+Christian Meder, 2005-06-08
+Christian Jaeger, 2008-10-19
+Christian Himpel, 2009-09-25
+Christian Hesse, 2014-12-12
+Christian Helmuth, 2013-03-27
+Christian Hammerl, 2012-02-21
+Christian Engwer, 2008-06-01
+Christian Couder, 2006-06-03
+Christian Biesinger, 2006-02-11
+Chris Shoemaker, 2005-10-28
+Chris Rorvick, 2012-10-16
+Chris Riddoch, 2006-11-22
+Chris Ridd, 2008-06-12
+Chris Pettitt, 2007-10-20
+Chris Parsons, 2008-05-22
+Chris Packham, 2010-02-16
+Chris Johnsen, 2009-03-07
+Chris Hiestand, 2013-01-17
+Chris Frey, 2008-05-15
+Chris Angelico, 2014-03-21
+Cheng Renquan, 2008-11-17
+Charles McGarvey, 2013-06-07
+Charles Bailey, 2007-12-12
+Changwoo Ryu, 2016-01-03
+Cezary Zawadka, 2014-06-10
+Cesar Eduardo Barros, 2008-07-27
+Célestin Matte, 2013-06-11
+Catalin Marinas, 2005-08-08
+Carl Worth, 2006-02-17
+Carlos R. Mafra, 2009-10-18
+Carlos Rica, 2007-04-17
+Carlos Martín Nieto, 2011-03-16
+Carlos Manuel Duclos Vergara, 2009-03-04
+Carlo Marcelo Arenas Belon, 2009-03-26
+Caio Marcelo de Oliveira Filho, 2008-02-25
+Byrial Jensen, 2012-04-12
+Bryan Larsen, 2005-07-08
+Bryan Jacobs, 2011-09-01
+Bryan Drewery, 2008-11-23
+Bryan Donlan, 2008-02-25
+Bruno Ribas, 2008-01-29
+Brodie Rao, 2014-01-07
+Brice Lambson, 2014-09-02
+Brian Norris, 2015-09-21
+brian m. carlson, 2007-12-02
+Brian Malehorn, 2017-05-18
+Brian Hetro, 2007-08-24
+Brian Henderson, 2016-08-29
+Brian Harring, 2011-08-24
+Brian Gianforcaro, 2009-08-31
+Brian Gesiak, 2014-03-06
+Brian Gerst, 2005-05-18
+Brian Gernhardt, 2006-12-12
+Brian Ewins, 2007-10-15
+Brian Downing, 2007-07-08
+Brian Degenhardt, 2015-07-28
+Brian Collins, 2009-11-16
+Brian Bourn, 2014-03-19
+Brett Randall, 2015-08-26
+Brandon Williams, 2016-09-13
+Brandon Casey, 2007-03-21
+Brad Roberts, 2005-04-17
+Brad King, 2007-10-31
+Bradford C. Smith, 2007-07-27
+Boyd Stephen Smith Jr, 2008-12-21
+Boyd Lynn Gerber, 2008-06-08
+Bo Yang, 2010-05-07
+Boris Faure, 2011-05-11
+Boris Byk, 2009-04-11
+Bob Proulx, 2007-01-12
+Bobby Powers, 2012-05-16
+Blake Ramsdell, 2007-11-02
+Blake Burkhart, 2015-09-25
+Blair Holloway, 2015-04-04
+Björn Steinbrink, 2007-10-30
+Björn Gustavsson, 2009-10-07
+Björn Engelmann, 2006-05-23
+Bill Pemberton, 2009-04-22
+Bill Lear, 2007-01-27
+Bert Wesarg, 2008-09-05
+bert Dvornik, 2010-05-20
+Bernt Hansen, 2007-12-29
+Bernhard R. Link, 2012-02-01
+Bernhard Reiter, 2014-08-18
+Bernd Ahlers, 2009-05-05
+Ben Woosley, 2016-04-24
+Ben Wijen, 2016-08-18
+Ben Walton, 2009-02-24
+Ben Peart, 2017-05-08
+Benoit Sigoure, 2007-09-14
+Benoit Pierre, 2014-03-11
+Benoit Person, 2013-06-05
+Benoit Bourbie, 2013-04-11
+Benny Siegert, 2014-01-02
+Ben North, 2014-11-04
+Benjamin Sergeant, 2007-06-16
+Benjamin Kramer, 2009-01-25
+Benjamin Kerensa, 2012-03-10
+Benjamin Dopplinger, 2016-05-31
+Benjamin C Meyer, 2010-03-20
+Ben Jackson, 2009-04-11
+Benedikt Heine, 2015-01-26
+Ben Clifford, 2006-05-14
+Ben Boeckel, 2015-09-17
+Beat Bolli, 2012-09-17
+Bart Trojanowski, 2008-04-29
+Barry Wardell, 2013-01-24
+Axel Bonnet, 2010-06-11
+A. Wilcox, 2017-06-27
+Avishay Lavie, 2012-05-16
+Avi Kivity, 2007-03-11
+Avery Pennarun, 2008-05-04
+Aurelien Bompard, 2007-10-28
+Audric Schiltknecht, 2015-12-04
+Atousa Pahlevan Duprat, 2015-11-05
+Astril Hayato, 2014-01-22
+Aske Olsson, 2012-08-04
+Ask Bjørn Hansen, 2007-11-07
+Asheesh Laroia, 2013-02-08
+Arto Jonsson, 2009-03-22
+Art Haas, 2006-09-20
+Arnout Engelen, 2010-12-21
+Arnaud Fontaine, 2013-07-02
+Armin Kunaschik, 2016-05-09
+Arlen Cuss, 2010-02-02
+Arjun Sreedharan, 2014-09-03
+Arjen Laarhoven, 2007-04-06
+Ariel Faigon, 2015-06-09
+Ariel Badichi, 2008-04-22
+Antonio Ospite, 2010-10-19
+Antonin, 2016-04-28
+Anton Gyllenberg, 2007-11-19
+Anton Altaparmakov, 2005-05-05
+Antoine Queru, 2016-05-31
+Antoine Pelisse, 2012-11-26
+Antoine Delaite, 2015-06-23
+Anthony Sottile, 2017-07-31
+Anthony Ramine, 2013-06-02
+Anthony Baire, 2014-01-13
+Anselm Kruis, 2010-08-31
+anonymous, 
+Angus Hammond, 2012-05-07
+Aneesh Kumar K.V, 2006-02-17
+Andy Whitcroft, 2006-09-05
+Andy Spencer, 2014-01-27
+Andy Parkins, 2006-10-26
+Andrzej K. Haczewski, 2010-01-16
+Andrew Wong, 2011-04-28
+Andrew Wheeler, 2016-02-01
+Andrew Waters, 2010-10-22
+Andrew Sayers, 2010-06-18
+Andrew Ruder, 2007-04-15
+Andrew Pimlott, 2013-06-27
+Andrew Oakley, 2016-06-22
+Andrew Myrick, 2009-12-21
+Andrew Keller, 2014-02-20
+Andrew Garber, 2011-04-07
+Andrew Clausen, 2007-10-16
+Andre Noll, 2005-04-20
+Andrej E Baranov, 2013-01-28
+André Goddard Rosa, 2007-11-25
+Andreas Schwab, 2009-09-29
+Andreas Krey, 2016-12-05
+Andreas Köhler, 2010-10-13
+Andreas Heiduk, 2017-03-02
+Andreas Gruenbacher, 2010-01-09
+Andreas Gal, 2005-04-24
+Andreas Färber, 2008-08-25
+Andreas Ericsson, 2005-10-24
+Andreas Brauchli, 2016-08-01
+Andi Kleen, 2011-06-20
+Anders Waldenborg, 2008-05-22
+Anders Melchiorsen, 2008-07-27
+Anders Kaseorg, 2009-05-28
+Anders Granskogen Bjørnstad, 2013-05-02
+Anand Kumria, 2006-03-26
+Amos Waterland, 2005-08-28
+Amos King, 2009-03-19
+Ammon Riley, 2012-10-05
+Amit Bakshi, 2013-05-20
+Amiel Martin, 2009-08-12
+Aman Gupta, 2014-04-02
+Alp Toker, 2006-07-09
+Allen Hubbe, 2015-05-27
+Allan Xavier, 2017-03-03
+Allan Caffee, 2009-02-25
+Ali Gholami Rudi, 2009-04-01
+Alfred Perlstein, 2014-12-09
+Alex Zepeda, 2012-03-08
+Alex Vandiver, 2009-05-21
+Alex Riesen, 2005-10-05
+Alex Neronskiy, 2011-06-08
+Alex Merry, 2012-03-21
+Alex Henrie, 2014-08-22
+Alexey Shumkin, 2011-01-11
+Alexey Nezhdanov, 2005-05-01
+Alexey Mahotkin, 2010-05-01
+Alexey Guzeev, 2005-06-01
+Alexey Borzenkov, 2008-12-08
+Alexei Sholik, 2011-03-09
+Alex Bennée, 2009-06-18
+Alexandru Juncu, 2013-08-12
+Alexandre Vassalotti, 2007-06-30
+Alexandre Julliard, 2006-02-18
+Alexandre Erwin Ittner, 2010-12-14
+Alexandre Bourget, 2008-08-12
+Alexander Sulfrian, 2010-09-28
+Alexander Strasser, 2012-06-15
+Alexander Shopov, 2014-01-18
+Alexander Rinass, 2016-05-13
+Alexander Potashev, 2008-12-09
+Alexander Litvinov, 2005-11-08
+Alexander Kuleshov, 2014-12-22
+Alexander Hirsch, 2016-05-20
+Alexander Gladysh, 2010-07-09
+Alexander Gavrilov, 2008-07-15
+Aleksi Aalto, 2010-11-29
+Aleksey Vasenev, 2015-01-25
+Aleksander Boruch-Gruszecki, 2015-02-11
+Alejandro R. Sedeño, 2010-07-28
+Alejandro Riveira Fernández, 2010-01-25
+Alejandro Mery, 2008-06-17
+Alecs King, 2005-08-03
+Alec Berryman, 2008-09-18
+Albert Yale, 2012-01-23
+Alberto Bertogli, 2007-08-13
+Albert L. Lash, IV, 2014-02-11
+A Large Angry SCM, 2005-08-01
+Alan Raison, 2010-12-09
+Alan Davies, 2016-12-22
+Alan Chandler, 2006-10-03
+Ævar Arnfjörð Bjarmason, 2010-04-07
+Adrian Weimann, 2012-01-30
+Adrian Johnson, 2012-09-16
+Adeodato Simó, 2008-03-08
+Adam Williamson, 2015-01-07
+Adam Tkac, 2011-01-27
+Adam Spiers, 2012-09-17
+Adam Simpkins, 2008-05-03
+Adam Roben, 2007-04-24
+Adam Piątyszek, 2008-03-07
+Adam Monsen, 2011-03-08
+Adam Dinwoodie, 2015-08-07
+Adam Butcher, 2012-08-05
+Adam Brewster, 2008-07-05
+Adam, 2014-03-24
+Abhijit Menon-Sen, 2008-06-13
+Abhijit Bhopatkar, 2008-10-18
+Abbaad Haider, 2014-07-13
+Aaron Schrab, 2012-12-28
+Aaron M Watson, 2016-10-26
+Aaron Crane, 2010-02-06
+마누엘, 2016-01-26

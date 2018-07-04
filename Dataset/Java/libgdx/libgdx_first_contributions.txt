@@ -1,0 +1,545 @@
+4gFizzBuzz, 2013-12-15
+3xp0n3nt, 2016-11-26
+Влад Проценко, 2014-06-09
+zortness@gmail.com, 2011-08-05
+zortness, 2011-07-30
+zeromancer, 2017-03-28
+Zeb Barnett, 2013-06-06
+Yonsh, 2013-04-26
+Yanick Bourbeau, 2014-04-01
+Xpe, 2016-06-20
+Xoppa, 2012-09-17
+xLestat, 2013-08-08
+Xiao Chuan Yu, 2013-08-06
+Xerxes Rånby, 2014-01-14
+Will Iverson, 2017-02-13
+William Mora, 2014-03-29
+William Hayward, 2017-01-25
+William Guss, 2014-06-15
+WillemWillemWillem, 2014-06-30
+Will Calderwood, 2017-06-25
+WickedShell, 2017-08-21
+wei.yang, 2015-10-08
+Wasin Thonkaew, 2017-06-25
+wally, 2013-03-15
+Vincent Bousquet, 2013-05-17
+Vincent, 2017-01-17
+Vinceangel, 2014-10-07
+VinceAngel, 2013-07-08
+Vince, 2016-01-07
+Viktor Mihhailov, 2015-06-20
+Veljko Ilkic, 2015-05-25
+Vaxquis, 2014-11-10
+Vasco Lavos, 2014-01-07
+Van Lim, 2012-09-11
+Valentin Milea, 2014-09-13
+unknown, 2013-06-06
+Unkn0wn0ne, 2013-11-10
+U-InventionistPCTheInventionist, 
+Ugo Raffaele Piemontese, 2015-03-04
+Tyler, 2014-03-09
+Tubeman, The, 2014-10-08
+Trurl101, 2014-04-07
+treymiller, 2012-12-27
+Travis Veralrud, 2014-04-27
+tomwojciechowski, 2016-07-12
+Tom Wojciechowski, 2016-05-06
+Tom-Ski, 2015-08-19
+Tomski, 2014-04-22
+TomSki, 2014-01-08
+Tommy C. Li, 2013-05-08
+Tom Mast, 2013-07-07
+Tomasz Nocoń, 2017-05-10
+Tomáš Tušla, 2016-03-05
+Tomas Junnonen, 2013-04-28
+Tom, 2014-10-24
+Tobias Bieniek, 2014-04-12
+tmclif, 2012-08-12
+titovmaxim, 2014-03-11
+titoasty, 2014-10-14
+Tim Scott, 2012-12-23
+Timothy Scott, 2013-01-13
+TimeToPlay, 2013-04-07
+tian, 2017-01-20
+Tiago Dionizio, 2016-12-14
+Thorsten Schleinzer, 2013-02-28
+Thomas ten Cate, 2012-10-17
+Thomas Pronold, 2015-10-31
+ThePickleMan, 2014-06-16
+Theo, 2017-08-29
+TheJimJames40, 2014-02-20
+TheInventionist, 2012-12-04
+terefang, 2013-10-28
+Tentone, 2016-12-04
+Tekkerue, 2016-04-01
+Tam Dinh Thai Minh, 2012-12-05
+tamasjano@gmail.com, 2011-07-19
+TamasJano@gmail.com, 2011-06-28
+Talin, 2013-01-01
+surya89, 2014-03-19
+st.lebach@gmail.com, 2012-06-27
+Steven Plude, 2013-04-09
+Steven Hugg, 2014-10-13
+sterwill@tinfig.com, 2012-02-18
+Stephan Fuhrmann, 2015-11-24
+Stefan Haustein, 2016-06-16
+Stefan Bachmann, 2012-12-28
+Stanislav, 2013-10-30
+sslopek, 2013-03-12
+sridhar, 2013-02-08
+SpexGuy, 2017-01-11
+someguy233, 2012-12-03
+soffchen, 2012-12-25
+snovak, 2015-11-23
+skunktrading, 2014-02-18
+Ske, 2016-03-05
+sixman9, 2014-02-25
+siondream, 2013-01-26
+Simon Bothén, 2017-03-28
+Silas Nordgren, 2017-06-25
+shiu@tophatinteractive.com, 2011-05-29
+Shaun Reich, 2016-06-22
+SG57, 2013-04-23
+serpent7776, 2017-01-25
+seroperson, 2013-03-09
+Sergey Svitkov, 2016-08-17
+seraphim6x7@gmail.com, 2012-03-12
+Seraphim, 2012-10-12
+seigensei, 2015-11-07
+Sebastian Hasait, 2014-01-19
+Scellow, 2016-09-16
+Sascha Gehlich, 2014-11-09
+Sarkany Istvan, 2015-09-10
+sarge, 2016-12-09
+Saeed Masoumi, 2016-02-17
+RUSshy, 2017-02-06
+Russell Allen Currey, 2014-03-01
+Ruben Garat, 2012-08-13
+RotaruDan, 2014-05-12
+rosthouse@gmail.com, 2015-01-18
+Rosthouse, 2015-01-18
+Roland Vigh, 2017-02-12
+rolandvigh, 2016-09-01
+rod@badlydrawngames.com, 2011-08-28
+Roc, 2013-09-23
+Rob Rendell, 2015-04-10
+Robin Stumm, 2015-11-16
+Robin S, 2013-10-23
+Robert Massaioli, 2012-08-11
+Rob Bogie, 2013-10-18
+rinold, 2013-12-16
+Ricorei, 2013-05-02
+Richard Taylor, 2012-09-15
+Richard Martin, 2014-09-22
+Richard Hoffman, 2014-01-11
+rgarcia, 2015-01-12
+RenRokB, 2015-03-06
+Renan Cadaval, 2016-03-15
+relu91, 2013-12-18
+Regnarock, 2013-07-01
+Regiden, 2012-09-23
+ratalaika, 2013-04-29
+Ralph, 2017-05-07
+Rafa Skoberg, 2017-01-25
+pyros2097, 2015-09-24
+Psyfire, 2013-06-07
+Przemek Muller, 2012-10-09
+Piotr Jastrzebski, 2017-08-21
+Pieter Maes, 2013-05-15
+Philip Kamenarsky, 2015-10-05
+phil, 2014-09-21
+Phibedy, 2014-01-21
+Peter Sperl, 2014-07-05
+Peter LaValle, 2013-01-27
+Pelle, 2013-11-09
+Pedro Veloso, 2013-02-20
+Pedro Ferreira, 2012-09-01
+Paweł Pastuszak, 2015-02-20
+Paul Siegel, 2012-09-30
+Patrick, 2014-10-24
+Pat, 2013-01-25
+Pahasz, 2017-04-09
+Pablo Cárdenas, 2015-03-08
+outofcoffee, 2015-01-10
+Oscar Bigu, 2014-06-07
+oscarbigu, 2014-03-26
+Opotech, 2013-01-18
+omartin, 2013-09-12
+Olli-Pekka Valtonen, 2016-08-24
+ollipekka, 2014-07-30
+Oleh Palianytsia, 2014-01-26
+oddlydrawn, 2015-05-04
+obigu, 2016-09-02
+oakes, 2014-09-05
+nooone, 2014-03-27
+(no author), 
+niyaro, 2013-12-04
+NimbusBP1729, 2014-02-17
+NilsFagerburg, 2016-04-19
+Niklas Therning, 2013-07-13
+Nikita Tikhomirov, 2013-07-26
+Nicolás A. Ortega, 2014-11-22
+Nick Cooper, 2013-08-15
+Nick Badal, 2013-03-23
+NickATP, 2015-04-08
+nfantone, 2014-12-17
+newmanne, 2014-03-12
+nevabyte, 2017-09-01
+ncornette, 2013-10-04
+Ncl8, 2014-03-14
+nbilyk, 2014-05-17
+NathanSweet, 2012-08-10
+Nathan Sweet, 2012-08-10
+nathan.sweet, 2010-10-20
+Nate Hausrath, 2013-12-04
+NateAustin, 2014-10-30
+Nate, 2016-07-31
+Natan, 2015-12-09
+Nacho Garcia, 2014-01-29
+mzechner-textsense, 2014-04-09
+mweindel, 2016-03-17
+Muhammad Adinata, 2013-03-13
+moritzpost@gmail.com, 2011-02-06
+MoopsLC, 2012-10-28
+moly, 2012-10-09
+MobiDevelop, 2012-08-24
+MJ, 2015-11-24
+Milutin Jovanović, 2013-03-05
+Miltos Allamanis, 2014-02-26
+Mikhail Kreymerman, 2013-03-01
+Mikhail Churbanov, 2015-02-01
+Mikhail, 2015-01-12
+mikemee, 2014-09-18
+mike, 2014-03-20
+Microbius, 2013-04-17
+Mick Muzac, 2015-02-16
+Mickaël PC Portable, 2013-08-22
+Mickael Allonneau, 2015-07-24
+Michal Boska, 2014-07-04
+Michael Walsh, 2017-04-24
+Michael Bayne, 2013-05-10
+Michael Barkholt, 2015-12-03
+Michael, 2014-09-03
+mgsx-dev, 2017-02-05
+mdsimmo, 2016-12-05
+mbazos, 2014-04-27
+Maxwell Forbes, 2013-11-10
+Maxim Titov, 2015-11-27
+maximtitov, 2014-03-18
+Maximilian Csuk, 2013-02-13
+Matthew Williamson, 2013-05-29
+Matthew Robinson, 2014-05-12
+Matthew Dean, 2013-11-27
+matthew, 2012-10-08
+mattdesl, 2013-09-07
+Mathias Garbe, 2012-12-09
+Martin Lang, 2013-11-05
+Markuski, 2013-08-14
+Marius Kjeldahl, 2014-01-23
+Mario Zechner, 2012-08-10
+Marcus Brummer, 2016-02-13
+Marcos Sánchez, 2016-11-20
+Marco Baccarani, 2013-11-24
+Manuel Freire, 2014-04-22
+Manuel Bua, 2012-08-21
+Malobre, 2017-06-21
+mail.Bompo@gmail.com, 2012-03-28
+madpew, 2013-11-24
+Maarten Bezemer, 2013-05-05
+Luca Vignaroli, 2015-03-06
+Luca Hofmann, 2013-10-10
+lordjone, 2014-02-14
+lokoyaw, 2013-01-31
+Lioncash, 2014-03-19
+lioncash, 2014-03-17
+Lestat, 2014-01-13
+Lemoncog, 2013-07-30
+lefay, 2014-06-17
+leeho0108, 2016-11-01
+lclement57, 2015-01-04
+Lago, 2015-05-18
+lagebr, 2016-05-31
+KyuBlade, 2016-06-23
+Kush Sharma, 2015-10-13
+Ksienrzyc, 2014-01-30
+Kristof Liliom, 2016-10-01
+Kjetil Mehl, 2012-08-14
+kjetil861@gmail.com, 2012-07-11
+kilida, 2016-03-21
+Kevin S. Clarke, 2012-09-04
+Kevin Koshiol, 2015-04-27
+kevglass, 2013-03-06
+karlstrings, 2014-02-05
+Karl, 2014-03-03
+karan1213, 2014-03-28
+kalle.hamalainen85@gmail.com, 2012-02-23
+Kaj Toet, 2014-08-31
+k00p, 2014-03-23
+Justin Shapcott, 2012-08-10
+Justin Hamilton, 2013-05-13
+Justin Bowes, 2013-05-29
+Junji Takakura, 2014-01-26
+Julien Villegas, 2016-07-24
+js xps13, 2015-10-09
+js78, 2016-04-02
+Js, 2015-04-03
+JS, 2015-03-05
+Jouke Hulzenga, 2014-04-27
+Joshua Bowden, 2015-07-20
+Joshua Berberick, 2014-11-03
+Josh Berberick, 2016-01-11
+josephknight, 2013-10-20
+Joseph Hager, 2013-03-19
+Jon Renner, 2013-05-20
+Jonathan Pearl, 2013-07-30
+Jonas Eschner, 2015-03-06
+Jonas Dann, 2014-09-21
+Jonas Carpay, 2015-12-28
+John Sullivan, 2013-12-08
+John Bernard Lambe, 2013-04-07
+John Bates, 2013-11-15
+John, 2014-05-06
+johann r, 2015-12-19
+Johannes Sjölund, 2015-09-21
+Johan Lövdahl, 2013-01-15
+Joerg Stoever, 2013-11-03
+Joel Filho, 2017-03-25
+Joel Allen, 2015-06-19
+jhnn, 2016-04-13
+J Fixby, 2016-03-11
+Jesse Talavera-Greenberg, 2014-06-22
+Jeric Bryle Sy Dy, 2013-07-06
+jeremygillespiecloutier, 2017-06-25
+Jean-Sebastien Bevilacqua, 2016-02-20
+J.D.Song, 2015-08-06
+Jaroslaw Wisniewski, 2013-02-15
+Jan Risse, 2015-03-28
+Jan Polák, 2014-05-29
+Jan Peter, 2016-01-12
+jampot5000, 2014-02-26
+James Pilfold, 2014-10-27
+jameslfc19, 2013-09-14
+James Jurach, 2013-05-16
+James Game, 2014-07-29
+James Durie, 2014-10-07
+Jakub Ksiezniak, 2014-06-22
+Jakub Księżniak, 2014-05-12
+Jakub Kerber, 2016-05-09
+Jacek Nowosielski, 2015-06-04
+Ives van Hoorne, 2015-02-08
+Ivan Perevezentsev, 2014-10-01
+Israel M, 2014-06-28
+isi, 2016-03-03
+Ion Agorria, 2016-03-06
+intrigus, 2015-09-08
+inferno, 2014-05-08
+indiumindeed, 2014-01-21
+IndiumIndeed, 2012-12-05
+hyvas, 2013-01-20
+huggvey, 2014-08-21
+Huang YunKun, 2013-09-26
+hneuer, 2013-08-24
+Herjanz, 2013-07-31
+Henrik Heino, 2013-01-02
+Hannes Janetzek, 2013-09-29
+Haedri, 2015-06-17
+Guy, 2015-09-11
+Gustavo Maciel, 2013-01-07
+Guillermo Andrades, 2012-12-21
+Guillaume Alvarez, 2014-08-21
+Grégoire André, 2017-05-29
+Greg Darke, 2014-10-11
+Green Lightning, 2014-07-30
+greek1979, 2013-12-16
+GJ Roelofs, 2013-07-17
+Getterac7, 2013-03-13
+Gerrit Kaul, 2014-08-28
+Germain AUBERT, 2016-11-26
+George Whiteside, 2012-11-20
+Georg Döpper, 2013-09-10
+Geoffrey Owen, 2014-05-24
+Gekk0r, 2016-11-25
+Geert Konijnendijk, 2014-05-14
+Gar Sue, 2014-09-02
+Gareth, 2013-05-14
+galvarez, 2014-08-21
+GadWissberg, 2017-08-03
+FyiurAmron, 2015-08-10
+fwolff, 2015-07-22
+frustaci, 2012-10-28
+Frotty, 2015-01-31
+FredGithub, 2016-04-09
+Frederic, 2014-05-01
+Fred, 2015-12-29
+Franck Wolff, 2015-05-13
+Fr0sk, 2016-02-16
+fogone, 2013-07-18
+Florian Falkner, 2015-04-30
+Florian Baethge, 2014-04-22
+flet, 2014-02-12
+firefly2442, 2015-11-16
+fengwenxuan, 2015-01-23
+felipe, 2015-06-24
+Fabian Lupa, 2015-06-09
+exidl, 2013-06-07
+EvilEntity, 2016-12-15
+Ethan Jones, 2016-05-12
+eric.spitz2000@gmail.com, 2011-04-04
+Eric Nondahl, 2014-01-02
+email.nex.software@gmail.com, 2011-07-15
+eggheadgames, 2014-10-22
+ediazal, 2016-01-04
+Dylan Taft, 2013-05-27
+Drew Lemmy, 2017-04-09
+dphang, 2013-07-20
+Dounan Shi, 2013-05-01
+Dominik Suszczewicz, 2015-05-21
+Doccrazy, 2015-01-27
+Dmitry Suzdalev, 2013-01-30
+DLight1, 2013-09-18
+didum, 2013-10-20
+dfraska@gmail.com, 2011-05-26
+dfraska, 2011-01-12
+dermetfan, 2014-03-31
+Davis Silverman, 2013-06-28
+Davis, 2014-05-01
+David Springer, 2014-02-07
+David Saltares, 2012-11-03
+David Park, 2015-05-14
+David Ackerman, 2013-02-24
+david99world, 2013-12-26
+davedx@gmail.com, 2010-12-08
+davedx, 2010-11-19
+davebaol, 2013-10-22
+Darren Keese, 2015-02-28
+Darkyenus, 2013-10-20
+DarkIP992, 2013-03-04
+dario111cro, 2014-01-06
+Danny Dalton, 2015-12-31
+Dani Rodríguez, 2014-06-21
+danieruru@gmail.com, 2011-08-02
+Daniel Ludwig, 2014-07-29
+Daniel Holderbaum, 2014-03-03
+Daniel Heinrich, 2012-09-14
+Daniel, 2014-02-24
+Dan Flettre, 2014-02-28
+Damnae, 2014-07-02
+CypherEA, 2015-01-06
+Cypherdare, 2016-11-04
+cypherdare, 2016-10-18
+CwaniAK, 2013-07-18
+creativitRy, 2017-06-25
+CreamyCookie, 2016-09-22
+Craig Domville, 2015-03-03
+cortobass, 2014-03-24
+Cord Rehn, 2013-06-02
+colton, 2012-12-25
+Collin Smith, 2015-11-06
+colinjuillard, 2015-11-03
+CoderBaron, 2017-02-16
+Claudiu Bele, 2015-03-11
+ClaasJG, 2016-03-17
+cjuillard, 2015-03-26
+Chun-hao Hu, 2014-02-18
+christoph.widulle, 2010-05-10
+Christopher Brown, 2016-02-26
+Christoph Aschwanden, 2012-09-26
+ChetRippo, 2014-05-01
+C Gan, 2015-10-05
+caryoscelus, 2014-05-29
+caniep, 2012-11-26
+Campbell Barton, 2014-05-20
+C-Alexander, 2015-02-12
+Caleb Brinkman, 2016-04-28
+Byron Conroy, 2016-08-03
+byeo, 2014-03-01
+Burak Kurkcu, 2014-11-18
+BuddyB, 2013-09-02
+Buddy, 2013-09-05
+Bryce Petrini, 2013-01-04
+Bryan W Wagner, 2016-12-04
+broken-e, 2013-05-03
+Brian Lough, 2014-06-14
+Brian Groenke, 2016-03-20
+bosoni, 2012-10-16
+bornskilled200, 2012-10-20
+Borja Clemente, 2016-04-25
+Bolt-Head, 2017-02-10
+bnewtz, 2012-11-14
+BlueRiverTeam, 2014-05-01
+BlueRiverInteractive, 2016-02-24
+BlackBluegL, 2013-06-02
+blackbluegl, 2013-05-22
+Björn Sundahl, 2013-03-03
+bitiotic, 2013-01-28
+Ben Poulson, 2015-02-05
+Benjamin Wilhelm, 2014-11-08
+Benjamin McLean, 2016-04-23
+Ben Heasly, 2016-12-29
+based2, 2014-08-19
+Bartol Karuza, 2014-02-04
+Baraa Hamodi, 2015-05-13
+badlogicgames@gmail.com, 2011-02-04
+badlogicgames, 2010-03-06
+badlogic, 2012-08-13
+badazdz, 2014-03-20
+Badazdz, 2014-03-08
+azazad, 2013-11-25
+ayberkozgur, 2014-05-17
+avianey, 2014-04-30
+Avetis Zakharyan, 2015-02-13
+Avetis, 2014-09-25
+aurelien.ribon@gmail.com, 2011-08-02
+AurelienRibon, 2012-09-23
+aurelien.ribon, 2012-04-02
+Athena Brandy Cadence, 2017-07-06
+aspic, 2012-08-29
+ariel.coppes@gmail.com, 2012-02-20
+Ariel Coppes, 2012-08-20
+apautrot, 2013-06-06
+Antti Kolehmainen, 2013-01-09
+Anton Gustafsson, 2015-06-10
+Anton Chekulaev, 2016-08-01
+Antoine Vianey, 2014-11-16
+Anthony Teestudio, 2015-02-09
+Antag99, 2015-05-29
+anserran, 2012-08-29
+Angel Eduardo Garcia Hernandez, 2014-09-20
+Andrzej Giniewicz, 2013-11-24
+Andrew Shu, 2012-12-21
+Andrew Potapov, 2013-10-25
+Andrew McOlash, 2017-05-09
+Andres Araujo, 2013-11-09
+andrejp88, 2016-03-11
+Andrei, 2017-01-12
+Andreas Oehlke, 2013-06-11
+Andreas, 2013-06-11
+andgeno@googlemail.com, 2011-07-19
+Anaël Seghezzi, 2014-10-15
+Amir Szekely, 2012-09-15
+Allen Guo, 2013-01-30
+Alistair Lynn, 2017-04-23
+Alex Vega, 2012-09-02
+Alexey, 2013-05-12
+Alex Crist, 2015-09-03
+Alexander Winter, 2017-06-25
+Alexander Mironov, 2014-06-03
+alexander-mironov, 2014-03-31
+Alexander Dorokhov, 2014-12-26
+Alexander9211, 2014-05-06
+alex55i, 2014-01-14
+Alex, 2014-06-17
+aleksandr452777204, 2015-09-23
+Aldous Pryce, 2016-01-22
+AldousP, 2016-02-23
+Aldous, 2016-02-26
+AlbertoCejas, 2015-01-10
+afomins, 2015-03-09
+aegamesi, 2014-11-09
+Advay Mengle, 2015-08-21
+Adrian Papari, 2012-12-02
+Adam Stevenson, 2014-12-21
+Adam Gorman, 2012-11-21
+acr21, 2012-11-25
+Aaron Mahan, 2013-10-30
+0xg, 2013-03-07

@@ -1,0 +1,30 @@
+Waldir Pimenta, 2016-06-30
+Tristan Sloughter, 2015-06-23
+Sasa Juric, 2014-05-20
+quiquepaz, 2014-07-25
+Pawel Pikula, 2014-10-14
+Nikolay A. Panov, 2011-09-15
+Kevin Smith, 2011-11-10
+Kamil Kieliszczyk, 2014-02-13
+Joshua Chi, 2014-10-21
+José Valim, 2014-04-28
+Jimmy Zöger, 2014-11-05
+Jared Morrow, 2011-09-06
+James Golick, 2012-07-03
+James Fish, 2015-04-10
+Harlan Lieberman-Berg, 2014-05-21
+Eugene Shubin, 2015-02-10
+Eric Meadows-Jönsson, 2014-02-28
+Dmitrii 'Mamut' Dimandt, 2012-11-17
+Devin Torres, 2010-11-02
+David Robakowski, 2014-01-09
+David N. Welton, 2015-03-06
+d, 2011-09-07
+Churikov Daniil, 2012-12-01
+Bitdeli Chef, 2014-02-12
+Bach Le, 2015-03-12
+Arjan Scherpenisse, 2014-05-02
+Andy Skelton, 2011-09-26
+Andrew Thompson, 2011-08-11
+Alex Howle, 2016-06-16
+Alexey Larin, 2012-09-28

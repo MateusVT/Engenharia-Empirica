@@ -1,0 +1,58 @@
+Wouter Oosterveld, 2015-08-24
+W. Caleb McDaniel, 2014-05-13
+Waldir Pimenta, 2014-11-03
+Vaughn Iverson, 2015-06-23
+Timo B. Hübel, 2011-03-29
+Tianyi Cui, 2013-04-06
+Thomas Hartman, 2009-07-07
+Simon Michael, 2009-04-17
+Simon Heath, 2017-01-16
+Shane O'Brien, 2014-03-27
+Sergey Koposov, 2013-11-17
+Sean Seefried, 2010-11-10
+Rick Hanson, 2015-05-10
+rekado, 2014-01-08
+Raymond Gauthier, 2014-09-05
+Raphael, 2013-03-13
+Phil Ruffwind, 2015-12-26
+Peter Gallagher, 2014-08-01
+Paul Vorbach, 2012-07-17
+norpol, 2015-09-17
+Myron Wu, 2017-04-30
+Mighty Byte, 2009-06-07
+Michal Terepeta, 2009-10-22
+Michal Antkiewicz, 2015-04-22
+Max Bolingbroke, 2010-02-15
+Mathieu Larose, 2013-02-15
+Maciek Makowski, 2014-07-20
+Lincoln Mullen, 2015-10-13
+Lars Petersen, 2010-08-01
+John MacFarlane, 2008-11-06
+Johann Visagie, 2014-01-23
+Joe Hillenbrand, 2014-01-01
+Jeffrey David Johnson, 2014-10-12
+Imuli, 2015-06-14
+Igor Vuk, 2014-12-13
+ickc, 2016-12-13
+Gwern Branwen, 2010-11-20
+gwern, 2010-11-29
+Glenn Searby, 2014-08-20
+Freiric Barral, 2014-07-23
+Dominik Süß, 2016-10-03
+Dmytry Strikha, 2016-06-15
+Dmitry Gerasimov, 2012-10-05
+David, 2011-07-08
+Claudio Bley, 2013-02-04
+Chris Eidhof, 2010-08-24
+Chas Leichner, 2016-01-15
+Caleb McDaniel, 2014-05-17
+Bryan O'Sullivan, 2011-03-29
+Bin Jin, 2012-11-06
+Ben Sinclair, 2012-03-01
+Ben Millwood, 2012-11-30
+atsuo yamada, 2012-08-24
+Anthony Towns, 2014-09-29
+andyring, 2011-07-26
+Andre Kelpe, 2012-06-19
+Alexander Vershilov, 2012-06-07
+abailly, 2009-01-10
